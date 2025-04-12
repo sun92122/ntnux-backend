@@ -26,5 +26,8 @@ def response(flow: http.HTTPFlow) -> None:
         except Exception as e:
             print(f"解析或寫入錯誤: {e}")
             # save text to file for debugging
-            with open("debug.txt", "a", encoding="utf-8") as debug_file:
+            with open(
+                os.path.abspath(os.path.join(
+                    os.path.dirname(__file__), "../debug.log")),
+                    "a", encoding="utf-8") as debug_file:
                 debug_file.write(text)
