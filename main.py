@@ -17,7 +17,7 @@ def main():
 
     print("[*] 開始 Selenium 自動操作...")
     try:
-        trigger_course_requests()
+        trigger_course_requests(112, 1)
     finally:
         print("[*] 結束 mitmproxy")
         mitm_proc.terminate()

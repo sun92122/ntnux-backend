@@ -53,7 +53,7 @@ def main():
         os.path.dirname(__file__), "../data/response_content.json"))
     output_dir = os.path.abspath(os.path.join(
         os.path.dirname(__file__), "../../frontend/public/data"))
-    output_prefix = "113-2_"
+    output_prefix = "112-1_"
     if not os.path.exists(original_data_path):
         print(f"⚠️ 檔案不存在：{original_data_path}")
         return
