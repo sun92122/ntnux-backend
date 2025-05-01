@@ -119,6 +119,7 @@ def time_location_format(time_inf: str) -> dict[str, str] | str:
     # 返回格式化後的時間資訊
     return formatted_times
 
+
 def course_format(course: json) -> dict:
     """
     將課程資訊格式化為指定的格式
@@ -168,15 +169,32 @@ def course_format_list(courses: list) -> list:
 
 if __name__ == '__main__':
     import os
+    import sys
+
+    args = sys.argv[1:]
+    if args:
+        if len(args) == 1:  # 112-1, 113-2, ...
+            original_data_path = os.path.abspath(os.path.join(
+                os.path.dirname(__file__), "..", "original_data",
+                f"{args[0]}.json"))
+            format_data_path = os.path.abspath(os.path.join(
+                os.path.dirname(__file__), "..", "original_data",
+                f"{args[0]}_format.json"))
+        else:
+            print("[!] 參數格式錯誤")
+            sys.exit(1)
+    else:
+        original_data_path = input("original data path:")
+        format_data_path = input("format data path:")
 
     data = []
-    with open(input("original data path:"), 'r', encoding='utf-8') as f:
+    with open(original_data_path, 'r', encoding='utf-8') as f:
         data.extend(json.load(f))
 
     # 只保留需要的欄位
     data = course_format_list(data)
 
     # 將格式化後的資料寫入新的 JSON 檔案
-    with open(input("format data path:"), 'w', encoding='utf-8') as f:
+    with open(format_data_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
         print("格式化完成，資料已寫入", f.name)
