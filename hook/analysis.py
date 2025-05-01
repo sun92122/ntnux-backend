@@ -92,30 +92,32 @@
 #     serial_no: "0885",
 #     teacher: "劉思涵",
 #     time_inf: "四 8-9 公館 Ｂ102",
-#     time: "四 8-9",
+#     time_loc: { "四 8-9": "公館 Ｂ102" },
 # }
 
 import json
 
 
-def time_format(time_inf: str) -> str:
+def time_location_format(time_inf: str) -> dict[str, str] | str:
     """
-    將時間資訊格式化為指定的格式
+    將時間地點資訊格式化為指定的格式
     :param time_inf: 原始時間資訊
-    :return: 格式化後的時間資訊
+    :return: 格式化後的時間、地點資訊
     """
     if not time_inf or time_inf.startswith('◎'):
         return time_inf
 
-    time_parts = time_inf.split(",")
-    formatted_times = []
-    for part in time_parts:
+    time_loc_parts = time_inf.split(",")
+    formatted_times = {}
+    for part in time_loc_parts:
         # 提取星期和時間
-        day_time = part.strip().split(" ")[0:2]
+        part = part.strip().split(" ")
+        day_time = part[0:2]
+        location = part[2:]
         if len(day_time) == 2:
-            formatted_times.append(" ".join(day_time))
+            formatted_times[" ".join(day_time)] = " ".join(location)
     # 返回格式化後的時間資訊
-    return ", ".join(formatted_times) if formatted_times else ""
+    return formatted_times
 
 def course_format(course: json) -> dict:
     """
@@ -151,7 +153,7 @@ def course_format(course: json) -> dict:
         "serial_no": course["serial_no"],
         "teacher": course["teacher"],
         "time_inf": course["time_inf"],
-        "time": time_format(course["time_inf"]),
+        "time_loc": time_location_format(course["time_inf"]),
     }
 
 
@@ -168,14 +170,13 @@ if __name__ == '__main__':
     import os
 
     data = []
-    for i in range(1, 50):
-        with open(os.path.join(os.path.dirname(__file__), '../../frontend/public/data', f'113-2_{i}.min.json'), 'r', encoding='utf-8') as f:
-            data.extend(json.load(f))
+    with open(input("original data path:"), 'r', encoding='utf-8') as f:
+        data.extend(json.load(f))
 
     # 只保留需要的欄位
     data = course_format_list(data)
 
     # 將格式化後的資料寫入新的 JSON 檔案
-    with open(os.path.join(os.path.dirname(__file__), '../data', 'response_content.json'), 'w', encoding='utf-8') as f:
+    with open(input("format data path:"), 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
-    print("格式化完成，資料已寫入 response_content.json")
+        print("格式化完成，資料已寫入", f.name)
