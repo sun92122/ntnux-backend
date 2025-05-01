@@ -8,6 +8,7 @@ DATA_PATH = os.path.abspath(os.path.join(
 # 初始化檔案
 with open(DATA_PATH, "w", encoding="utf-8") as f:
     f.write("[]")
+counter = 0
 
 
 def response(flow: http.HTTPFlow) -> None:
@@ -23,6 +24,9 @@ def response(flow: http.HTTPFlow) -> None:
                 f.seek(0)
                 f.write(json.dumps(data, ensure_ascii=False, indent=4))
                 f.truncate()
+            global counter
+            counter += 1
+            print(f"✔️ 已儲存第 {counter} 筆資料")
         except Exception as e:
             print(f"解析或寫入錯誤: {e}")
             # save text to file for debugging
@@ -30,4 +34,5 @@ def response(flow: http.HTTPFlow) -> None:
                 os.path.abspath(os.path.join(
                     os.path.dirname(__file__), "../debug.log")),
                     "a", encoding="utf-8") as debug_file:
-                debug_file.write(text)
+                debug_file.write(f"Error: {e}\n")
+                debug_file.write(f"Request URL: {flow.request.pretty_url}")
