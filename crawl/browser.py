@@ -15,43 +15,66 @@ def trigger_course_requests(year: int, term: int | str):
     if HEAD_LESS:
         chrome_options.add_argument("--headless=new")  # 避免 GUI 開啟
 
-    driver = webdriver.Chrome(options=chrome_options)
-    driver.get("https://courseap2.itc.ntnu.edu.tw/acadmOpenCourse/index.jsp")
+    try:
+        driver = webdriver.Chrome(options=chrome_options)
+        driver.get("https://courseap2.itc.ntnu.edu.tw/acadmOpenCourse/index.jsp")
+    except Exception as e:
+        print(f"無法啟動 Chrome 瀏覽器: {e}")
+        return
+    driver.implicitly_wait(10)  # 等待元素載入
 
-    time.sleep(3)
-    driver.find_element(By.ID, "treeview-1012-record-C1").click()
-    driver.find_element(By.ID, "tab-1019-btnInnerEl").click()
-    driver.switch_to.default_content()
-    iframe = driver.find_element(By.ID, "C1").find_element(By.ID, "C1_iframe")
-    driver.switch_to.frame(iframe)
-
-    # change year and term
-    year_input = driver.find_element(By.XPATH, '//*[@id="year1-inputEl"]')
-    driver.execute_script(
-        "arguments[0].value = arguments[1];", year_input, str(year))
-
-    driver.find_element(By.XPATH, '//*[@id="ext-gen1159"]').click()
-    terms = driver.find_elements(
-        By.XPATH, '//*[@id="boundlist-1059-listEl"]/ul/li')
-
-    term_index = {1: 0, 2: 1, 3: 2, '暑': 2, '暑假': 2}.get(term, -1)
-    if term_index == -1:
-        print(f"Invalid term: {term}")
+    try:
+        driver.find_element(By.ID, "treeview-1012-record-C1").click()
+        driver.find_element(By.ID, "tab-1019-btnInnerEl").click()
+        driver.switch_to.default_content()
+        iframe = driver.find_element(
+            By.ID, "C1").find_element(By.ID, "C1_iframe")
+        driver.switch_to.frame(iframe)
+    except Exception as e:
+        print(f"無法切換到 iframe: {e}")
         driver.quit()
         return
-    terms[term_index].click()
+
+    # change year and term
+    try:
+        year_input = driver.find_element(By.XPATH, '//*[@id="year1-inputEl"]')
+        driver.execute_script(
+            "arguments[0].value = arguments[1];", year_input, str(year))
+    except Exception as e:
+        print(f"無法輸入學年: {e}")
+        driver.quit()
+        return
+
+    try:
+        driver.find_element(By.XPATH, '//*[@id="ext-gen1159"]').click()
+        terms = driver.find_elements(
+            By.XPATH, '//*[@id="boundlist-1059-listEl"]/ul/li')
+
+        term_index = {1: 0, 2: 1, 3: 2, '暑': 2, '暑假': 2}.get(term, -1)
+        if term_index == -1:
+            print(f"Invalid term: {term}")
+            driver.quit()
+            return
+        terms[term_index].click()
+    except Exception as e:
+        print(f"無法選擇學期: {e}")
+        driver.quit()
+        return
 
     time.sleep(1)
 
     driver.find_element(By.ID, "ext-gen1162").click()
     inquire = driver.find_element(By.ID, "tab-1051-btnEl")
     details = driver.find_element(By.ID, "tab-1052-btnEl")
+    inquire.click()  # 失焦
 
     departments = driver.find_elements(
         By.XPATH, '//*[@id="boundlist-1061-listEl"]/ul/li')
     for i in range(0, len(departments)):
         inquire.click()
         driver.find_element(By.ID, "ext-gen1162").click()
+        print(f"[*] 正在查詢第 {i+1} 個系所...")
+        time.sleep(1)
         departments[i].click()
         driver.find_element(By.ID, "button-1012-btnInnerEl").click()
         details.click()
