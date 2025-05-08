@@ -76,9 +76,28 @@ def trigger_course_requests(year: int, term: int | str):
         print(f"[*] 正在查詢第 {i+1} 個系所...")
         time.sleep(1)
         departments[i].click()
-        driver.find_element(By.ID, "button-1012-btnInnerEl").click()
-        details.click()
-        time.sleep(1)
+        if i == 0:  # 通識
+            driver.find_element(By.ID, "ext-gen1165").click()
+            time.sleep(0.5)
+            driver.find_elements(
+                By.XPATH, '//*[@id="boundlist-1063-listEl"]/ul/li')[-1].click()
+            inquire.click()  # 失焦
+            driver.find_element(By.ID, "ext-gen1168").click()
+            time.sleep(0.5)
+            generol = driver.find_elements(
+                By.XPATH, '//*[@id="boundlist-1065-listEl"]/ul/li')
+            for j in range(0, len(generol)-1):
+                inquire.click()
+                driver.find_element(By.ID, "ext-gen1168").click()
+                generol[j].click()
+                driver.find_element(
+                    By.ID, "button-1012-btnInnerEl").click()
+                details.click()
+                time.sleep(1)
+        else:
+            driver.find_element(By.ID, "button-1012-btnInnerEl").click()
+            details.click()
+            time.sleep(1)
 
     driver.switch_to.default_content()
     time.sleep(15)

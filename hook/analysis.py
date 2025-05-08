@@ -157,6 +157,7 @@ def course_format(course: json) -> dict:
         "teacher": course["teacher"],
         "time_inf": course["time_inf"],
         "time_loc": time_location_format(course["time_inf"]),
+        "generalCore": course.get("generalCore", []),
     }
 
 
@@ -182,6 +183,13 @@ if __name__ == '__main__':
             format_data_path = os.path.abspath(os.path.join(
                 os.path.dirname(__file__), "..", "original_data",
                 f"{args[0]}_format.json"))
+        elif len(args) == 2:  # 112 1, 113 2, 111 3
+            original_data_path = os.path.abspath(os.path.join(
+                os.path.dirname(__file__), "..", "original_data",
+                f"{args[0]}-{args[1]}.json"))
+            format_data_path = os.path.abspath(os.path.join(
+                os.path.dirname(__file__), "..", "original_data",
+                f"{args[0]}-{args[1]}_format.json"))
         else:
             print("[!] 參數格式錯誤")
             sys.exit(1)
@@ -198,5 +206,5 @@ if __name__ == '__main__':
 
     # 將格式化後的資料寫入新的 JSON 檔案
     with open(format_data_path, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
+        json.dump(data, f, ensure_ascii=False)
         print("格式化完成，資料已寫入", f.name)
