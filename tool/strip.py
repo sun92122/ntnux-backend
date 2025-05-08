@@ -2,18 +2,22 @@ import json
 import os
 
 
-def strip_course(courses_list: list[dict], output_dir: str, output_file_prefix: str = "courses_"):
+def strip_course(courses_list: list[dict], output_dir: str):
     # === 輸出分段檔案 ===
     os.makedirs(output_dir, exist_ok=True)
 
-    files = {}
+    files = {f"{i}.min.json": [] for i in range(0, 10)}
 
     for course in courses_list:
         serial_no: str = course.get("serial_no")
+        # e.g., '1234' -> '2.min.json', '8000' -> '9.min.json'
         if serial_no is not None and len(serial_no) == 4:
-            file_key = f"{output_file_prefix}_{int(serial_no[0]) + 1}.min.json"
+            try:
+                file_key = f"{int(serial_no[0]) + 1}.min.json"
+            except ValueError:
+                file_key = "0.min.json"
         else:
-            file_key = f"{output_file_prefix}_0.min.json"
+            file_key = "0.min.json"
 
         if file_key not in files:
             files[file_key] = []
@@ -33,25 +37,19 @@ if __name__ == "__main__":
 
     args = sys.argv[1:]
     if args:
-        if len(args) == 3:
-            original_data_path = os.path.abspath(args[0])
-            output_dir = os.path.abspath(args[1])
-            output_prefix = args[2]
-        elif len(args) == 2:
+        if len(args) == 2:
             original_data_path = os.path.abspath(os.path.join(
                 os.path.dirname(__file__), "..", "original_data",
                 f"{args[0]}-{args[1]}_format.json"))
             output_dir = os.path.abspath(os.path.join(
                 os.path.dirname(__file__), "..", "..",
                 "frontend", "public", "data", f"{args[0]}-{args[1]}"))
-            output_prefix = f"{args[0]}-{args[1]}"
         else:
             print("[!] 參數格式錯誤")
             sys.exit(1)
     else:
         original_data_path = input("original data path:")
         output_dir = input("output dir:")
-        output_prefix = input("output prefix:")
     if not os.path.isfile(original_data_path):
         print(f"⚠️ 檔案格式錯誤：{original_data_path}")
         sys.exit(1)
@@ -60,5 +58,5 @@ if __name__ == "__main__":
         os.makedirs(output_dir)
     with open(original_data_path, "r", encoding="utf-8") as f:
         courses = json.load(f)
-    strip_course(courses, output_dir, output_prefix)
+    strip_course(courses, output_dir)
     print(f"✔️ 完成處理：{len(courses)} 筆課程資料")
