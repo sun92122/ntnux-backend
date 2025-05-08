@@ -2,25 +2,30 @@ import json
 import os
 
 
-CHUNK_SIZE = 100
-
-
 def strip_course(courses_list: list[dict], output_dir: str, output_file_prefix: str = "courses_"):
     # === 輸出分段檔案 ===
     os.makedirs(output_dir, exist_ok=True)
 
-    for i in range(0, len(courses_list), CHUNK_SIZE):
-        chunk = courses_list[i:i+CHUNK_SIZE]
-        path = os.path.join(
-            output_dir, f"{output_file_prefix}_{i//CHUNK_SIZE+1}.min.json")
-        with open(path, "w", encoding="utf-8") as out:
-            json.dump(chunk, out, ensure_ascii=False, separators=(",", ":"))
+    files = {}
 
-    file_num = (len(courses_list)-1)//CHUNK_SIZE+1
-    with open(os.path.join(output_dir, f"{output_file_prefix}_0.min.json"), "w", encoding="utf-8") as out:
-        json.dump({"total": file_num}, out,
-                  ensure_ascii=False, separators=(",", ":"))
-    print(f"✅ 完成輸出：{file_num} 個檔案 → {output_dir}")
+    for course in courses_list:
+        serial_no: str = course.get("serial_no")
+        if serial_no is not None and len(serial_no) == 4:
+            file_key = f"{output_file_prefix}_{int(serial_no[0]) + 1}.min.json"
+        else:
+            file_key = f"{output_file_prefix}_0.min.json"
+
+        if file_key not in files:
+            files[file_key] = []
+
+        files[file_key].append(course)
+
+    for file_key, data in files.items():
+        path = os.path.join(output_dir, file_key)
+        with open(path, "w", encoding="utf-8") as out:
+            json.dump(data, out, ensure_ascii=False, separators=(",", ":"))
+
+    print(f"✅ 完成輸出：{len(files)} 個檔案 → {output_dir}")
 
 
 if __name__ == "__main__":
@@ -32,6 +37,14 @@ if __name__ == "__main__":
             original_data_path = os.path.abspath(args[0])
             output_dir = os.path.abspath(args[1])
             output_prefix = args[2]
+        elif len(args) == 2:
+            original_data_path = os.path.abspath(os.path.join(
+                os.path.dirname(__file__), "..", "original_data",
+                f"{args[0]}-{args[1]}_format.json"))
+            output_dir = os.path.abspath(os.path.join(
+                os.path.dirname(__file__), "..", "..",
+                "frontend", "public", "data", f"{args[0]}-{args[1]}"))
+            output_prefix = f"{args[0]}-{args[1]}"
         else:
             print("[!] 參數格式錯誤")
             sys.exit(1)
