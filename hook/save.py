@@ -18,11 +18,17 @@ def response(flow: http.HTTPFlow) -> None:
         try:
             text = flow.response.get_text()
             new_data = json.loads(text)
+
+            general_core = flow.request.query.get("generalCore")
+            if general_core:
+                for item in new_data['List']:
+                    item["generalCore"] = [general_core,]
+
             with open(DATA_PATH, "r+", encoding="utf-8") as f:
                 data = json.load(f)
                 data.append(new_data)
                 f.seek(0)
-                f.write(json.dumps(data, ensure_ascii=False, indent=4))
+                f.write(json.dumps(data, ensure_ascii=False))
                 f.truncate()
             global counter
             counter += 1

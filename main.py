@@ -32,8 +32,7 @@ def main(year: int, term: int | str):
     original_data_path = os.path.abspath(os.path.join(
         os.path.dirname(__file__), "original_data", f"{year}-{term}.json"))
     with open(original_data_path, "w", encoding="utf-8") as f:
-        json.dump(course_datas, f, ensure_ascii=False,
-                  indent=4, separators=(",", ": "))
+        json.dump(course_datas, f, ensure_ascii=False, separators=(",", ": "))
     print(f"✔️ 完成處理 {year}-{term} 的課程資料，已儲存至 {original_data_path}")
 
 
