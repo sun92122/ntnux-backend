@@ -97,6 +97,7 @@
 # }
 
 import json
+import pandas as pd
 
 
 def time_location_format(time_inf: str) -> dict[str, str] | str:
@@ -168,6 +169,24 @@ def course_format_list(courses: list) -> list:
     :return: 格式化後的課程資訊列表
     """
     return [course_format(course) for course in courses]
+
+
+def course_format_df(courses: pd.DataFrame) -> pd.DataFrame:
+    """
+    將課程資訊 DataFrame 格式化為指定的格式
+    :param courses: 課程資訊 DataFrame
+    :return: 格式化後的課程資訊 DataFrame
+    """
+    courses["generalCore"] = courses["generalCore"].fillna("")
+    return courses[[
+        "acadm_year", "acadm_term", "authorize_p", "authorize_using",
+        "chn_name", "classes", "comment", "counter", "counter_exceptAuth",
+        "course_avg", "course_code", "course_group", "course_kind", "credit",
+        "dept_chiabbr", "dept_code", "dept_group_name", "eng_name",
+        "eng_teach", "form_s", "limit", "limit_count_h", "option_code",
+        "restrict", "rt", "serial_no", "teacher", "time_inf",
+        "generalCore"
+    ]]
 
 
 if __name__ == '__main__':
