@@ -1,55 +1,54 @@
-import time
-import sys
 import os
-import json
+import argparse
+import pandas as pd
 
-from crawl.browser import trigger_course_requests
-from tool.proxy import run_mitmproxy
-from tool.parse import parse_course
+from crawl.cofopdl import fetch_courses
+from hook.analysis import course_format_df
+from tool.strip import strip_course_df
 
 
-def main(year: int, term: int | str):
-    print("[*] 啟動 mitmproxy 攔截器...")
-    mitm_proc = run_mitmproxy()
-    time.sleep(3)  # 等待 proxy 啟動
-
-    # check if mitmproxy is running
-    if mitm_proc.poll() is not None:
-        print("[!] mitmproxy 啟動失敗")
+def save_courses(year: int, term: int, output_dir: str) -> None:
+    """
+    抓取課程資料並儲存為 TSV 檔案
+    :param year: 民國學年度，如 113
+    :param term: 學期：1 、 2 或 3
+    """
+    courses = fetch_courses(year, term)
+    if not courses:
+        print("沒有抓到任何課程資料")
         return
-    print("[*] mitmproxy 啟動成功，PID:", mitm_proc.pid)
 
-    print("[*] 開始 Selenium 自動操作...")
-    try:
-        trigger_course_requests(year, term)
-    finally:
-        print("[*] 結束 mitmproxy")
-        mitm_proc.terminate()
+    # 格式化課程資料
+    courses_df = course_format_df(pd.DataFrame(courses))
 
-    raw_data_path = os.path.abspath(os.path.join(
-        os.path.dirname(__file__), "data", "response_content.json"))
-    course_datas = parse_course(raw_data_path)
-    original_data_path = os.path.abspath(os.path.join(
-        os.path.dirname(__file__), "original_data", f"{year}-{term}.json"))
-    with open(original_data_path, "w", encoding="utf-8") as f:
-        json.dump(course_datas, f, ensure_ascii=False, separators=(",", ": "))
-    print(f"✔️ 完成處理 {year}-{term} 的課程資料，已儲存至 {original_data_path}")
+    # 移除所有 \t
+    courses_df = courses_df.map(
+        lambda x: x.replace("\t", "") if isinstance(x, str) else x)
+
+    # 儲存為 TSV 檔案
+    strip_course_df(courses_df, output_dir)
+    print(f"課程資料已儲存至 {output_dir}，"
+          f"共 {len(courses_df)} 筆課程資料")
+
+
+def main():
+    parser = argparse.ArgumentParser(description="抓取並儲存課程資料")
+    parser.add_argument("-y", "--year", type=int, required=True,
+                        help="民國學年度，如 113")
+    parser.add_argument("-t", "--term", type=int, required=True,
+                        help="學期：1 、 2 或 3")
+    parser.add_argument("-o", "--out", type=str,
+                        help="輸出目錄，預設為 ../frontend/public/data/{year}-{term}")
+    args = parser.parse_args()
+
+    if not args.out:
+        args.out = os.path.abspath(os.path.join(
+            os.path.dirname(__file__),
+            "..", "frontend", "public", "data",
+            f"{args.year}-{args.term}"))
+
+    save_courses(args.year, args.term, args.out)
 
 
 if __name__ == "__main__":
-    args = sys.argv[1:]
-    if args:
-        if len(args) == 2:  # 112 1, 113 2, 111 暑
-            args = tuple(int(i) if i.isdigit() else i for i in args)
-            print("[*] 使用自訂參數：", args, sep="")
-        if len(args) == 1:  # 112-1, 113-2, ...
-            try:
-                args = tuple(int(i) if i.isdigit()
-                             else i for i in args[0].split("-"))
-            except ValueError:
-                print("[!] 參數格式錯誤")
-                sys.exit(1)
-    else:
-        args = (113, 2)
-        print("[*] 使用預設參數：", args, sep="")
-    main(*args)
+    main()
