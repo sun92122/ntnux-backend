@@ -3,8 +3,8 @@ import argparse
 import pandas as pd
 
 from crawl.cofopdl import fetch_courses
-from hook.analysis import course_format_df
-from tool.strip import strip_course_df
+from tool.analysis import course_format
+from tool.strip import strip_course
 
 
 def save_courses(year: int, term: int, output_dir: str) -> None:
@@ -19,14 +19,14 @@ def save_courses(year: int, term: int, output_dir: str) -> None:
         return
 
     # 格式化課程資料
-    courses_df = course_format_df(pd.DataFrame(courses))
+    courses_df = course_format(pd.DataFrame(courses))
 
     # 移除所有 \t
     courses_df = courses_df.map(
         lambda x: x.replace("\t", "") if isinstance(x, str) else x)
 
     # 儲存為 TSV 檔案
-    strip_course_df(courses_df, output_dir)
+    strip_course(courses_df, output_dir)
     print(f"課程資料已儲存至 {output_dir}，"
           f"共 {len(courses_df)} 筆課程資料")
 
