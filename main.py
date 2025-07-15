@@ -25,6 +25,21 @@ def save_courses(year: int, term: int, output_dir: str) -> None:
     courses_df = courses_df.map(
         lambda x: x.replace("\t", "") if isinstance(x, str) else x)
 
+    # 儲存原始課程資料
+    for col in ["serial_no", "course_code", "course_group"]:
+        if col not in courses_df.columns:
+            courses_df[col] = pd.NA
+    courses_df = courses_df.sort_values(
+        by=["serial_no", "course_code", "course_group"],
+        ascending=True,
+        na_position="last"
+    )
+    courses_df.to_csv(
+        os.path.abspath(os.path.join(
+            os.path.dirname(__file__),
+            "original_data", f"{year}-{term}.tsv")),
+        sep="\t", index=False, encoding="utf-8-sig")
+
     # 儲存為 TSV 檔案
     strip_course(courses_df, output_dir)
     print(f"課程資料已儲存至 {output_dir}，"
