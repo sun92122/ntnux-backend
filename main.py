@@ -7,7 +7,7 @@ from tool.analysis import course_format
 from tool.strip import strip_course
 
 
-def save_courses(year: int, term: int, output_dir: str) -> None:
+def save_courses(year: int, term: int, output_dir: str, original_data_output: str) -> None:
     """
     抓取課程資料並儲存為 TSV 檔案
     :param year: 民國學年度，如 113
@@ -35,9 +35,7 @@ def save_courses(year: int, term: int, output_dir: str) -> None:
         na_position="last"
     )
     courses_df.to_csv(
-        os.path.abspath(os.path.join(
-            os.path.dirname(__file__),
-            "original_data", f"{year}-{term}.tsv")),
+        os.path.join(original_data_output, f"{year}-{term}.tsv"),
         sep="\t", index=False, encoding="utf-8-sig")
 
     # 儲存為 TSV 檔案
@@ -54,6 +52,8 @@ def main():
                         help="學期：1 、 2 或 3")
     parser.add_argument("-o", "--out", type=str,
                         help="輸出目錄，預設為 ../frontend/public/data/{year}-{term}")
+    parser.add_argument("-d", "--data", type=str,
+                        help="原始課程資料儲存目錄，預設為 original_data/")
     args = parser.parse_args()
 
     if not args.out:
@@ -61,8 +61,12 @@ def main():
             os.path.dirname(__file__),
             "..", "frontend", "public", "data",
             f"{args.year}-{args.term}"))
+    if not args.data:
+        args.data = os.path.abspath(os.path.join(
+            os.path.dirname(__file__),
+            "original_data"))
 
-    save_courses(args.year, args.term, args.out)
+    save_courses(args.year, args.term, args.out, args.data)
 
 
 if __name__ == "__main__":
