@@ -40,7 +40,6 @@ jobs:
           TERM=${{ github.event.inputs.term || '1' }}
           echo "Crawling data for year $YEAR, term $TERM"
       # uv run main.py --year $YEAR --term $TERM --out "output/$YEAR-$TERM" --data "original_data"
-
       - name: Push original data
         run: |
           YEAR=${{ github.event.inputs.year || '114' }}
@@ -53,9 +52,11 @@ jobs:
           echo "原始資料已推送到 main 分支"
 
       - name: Clone frontend repo
+        env:
+          FRONTEND_DEPLOY_KEY: ${{ secrets.FRONTEND_DEPLOY_KEY }}
         run: |
           mkdir -p ~/.ssh
-          echo "${{ secrets.FRONTEND_DEPLOY_KEY }}" > ~/.ssh/id_rsa
+          echo "$FRONTEND_DEPLOY_KEY" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan github.com >> ~/.ssh/known_hosts
 
