@@ -39,7 +39,8 @@ jobs:
           YEAR=${{ github.event.inputs.year || '114' }}
           TERM=${{ github.event.inputs.term || '1' }}
           echo "Crawling data for year $YEAR, term $TERM"
-      # uv run main.py --year $YEAR --term $TERM --out "output/$YEAR-$TERM" --data "original_data"
+          uv run main.py --year $YEAR --term $TERM --out "output/$YEAR-$TERM" --data "original_data"
+
       - name: Push original data
         run: |
           YEAR=${{ github.event.inputs.year || '114' }}
@@ -70,7 +71,7 @@ jobs:
           DEST_DIR="frontend-repo/public/data/${YEAR}-${TERM}"
 
           mkdir -p "$DEST_DIR"
-          cp -r "$SRC_DIR"/*.tsv "$DEST_DIR/"
+          cp -r "$SRC_DIR"/*.tsv "$DEST_DIR/" || echo "⚠️ 無資料可複製"
 
       - name: Commit and push changes
         run: |
