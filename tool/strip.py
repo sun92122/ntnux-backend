@@ -39,4 +39,4 @@ def strip_course(courses_df: pd.DataFrame, output_dir: str):
         data.to_csv(
             path, sep="\t", index=False, encoding="utf-8-sig"
         )
-        print(f"✅ 完成輸出：{file_key} → {path}")
+        print(f"✅ 完成輸出：{file_key} → {path}", flush=True)

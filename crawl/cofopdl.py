@@ -72,16 +72,17 @@ def fetch_courses(year: int, term: int, depts: list[str] = None):
             resp.raise_for_status()
             depts_original = json.loads(resp.text.replace("'", '"'))
             depts = [item[0] for item in depts_original]
-            print(f"共取得 {len(depts)} 個科系代碼")
+            print(f"共取得 {len(depts)} 個科系代碼", flush=True)
 
         for i, dept in enumerate(depts):
             try:
-                print(f"正在抓取 {depts_original[i][1]} 的課程資料...")
+                print(f"正在抓取 {depts_original[i][1]} 的課程資料...", flush=True)
             except IndexError:
-                print(f"正在抓取 {dept} 的課程資料...")
+                print(f"正在抓取 {dept} 的課程資料...", flush=True)
 
             if dept == "GU":
                 for core in GU_CORE:
+                    print(f"正在抓取 {core} 核心通識課程...", flush=True)
                     time.sleep(0.5)
                     resp = s.get(API_URL,
                                  headers=headers,
@@ -169,9 +170,11 @@ def fetch_course(year: int, term: int, dept: str):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("-y","--year", type=int, required=True, help="民國學年度，如 113")
-    parser.add_argument("-t","--term", type=int, required=True, help="學期：1 、 2 或 3")
-    parser.add_argument("-d","--dept", type=str, help="科系代碼，如 AIA")
+    parser.add_argument("-y", "--year", type=int,
+                        required=True, help="民國學年度，如 113")
+    parser.add_argument("-t", "--term", type=int,
+                        required=True, help="學期：1 、 2 或 3")
+    parser.add_argument("-d", "--dept", type=str, help="科系代碼，如 AIA")
     parser.add_argument("-o", "--out", type=str, default=None,
                         help="TSV 輸出檔名，可省略")
     args = parser.parse_args()
