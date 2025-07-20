@@ -4,7 +4,4 @@ version = "1.0.0"
 description = "crawler for NTNUx"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = [
-    "pandas>=2.3.1",
-    "requests>=2.32.4",
-]
+dependencies = ["pandas>=2.3.1", "requests>=2.32.4"]
