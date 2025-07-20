@@ -1,6 +1,7 @@
 import os
 import argparse
 import pandas as pd
+import json
 
 from crawl.cofopdl import fetch_courses
 from tool.analysis import course_format
@@ -10,8 +11,11 @@ from tool.strip import strip_course
 def save_courses(year: int, term: int, output_dir: str, original_data_output: str) -> None:
     """
     抓取課程資料並儲存為 TSV 檔案
+
     :param year: 民國學年度，如 113
     :param term: 學期：1 、 2 或 3
+    :param output_dir: 儲存格式化後課程資料的目錄
+    :param original_data_output: 儲存原始課程資料的目錄
     """
     courses = fetch_courses(year, term)
     if not courses:
@@ -40,6 +44,12 @@ def save_courses(year: int, term: int, output_dir: str, original_data_output: st
 
     # 儲存為 TSV 檔案
     strip_course(courses_df, output_dir)
+    # 更新 日期 json 檔案
+    with open(os.path.join(output_dir, "last_update.json"), "w", encoding="utf-8") as f:
+        json.dump({
+            "last_update": pd.Timestamp.now().strftime("%Y-%m-%d")
+        }, f, ensure_ascii=False)
+
     print(f"課程資料已儲存至 {output_dir}，"
           f"共 {len(courses_df)} 筆課程資料")
 
