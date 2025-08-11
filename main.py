@@ -17,7 +17,7 @@ def save_courses(year: int, term: int, output_dir: str, original_data_output: st
     :param output_dir: 儲存格式化後課程資料的目錄
     :param original_data_output: 儲存原始課程資料的目錄
     """
-    courses = fetch_courses(year, term)
+    courses, dense_courses_map = fetch_courses(year, term)
     if not courses:
         print("沒有抓到任何課程資料")
         return
@@ -41,9 +41,14 @@ def save_courses(year: int, term: int, output_dir: str, original_data_output: st
     courses_df.to_csv(
         os.path.join(original_data_output, f"{year}-{term}.tsv"),
         sep="\t", index=False, encoding="utf-8-sig")
+    with open(os.path.join(original_data_output, f"{year}-{term}-dense.json"), "w", encoding="utf-8") as f:
+        json.dump(dense_courses_map, f, ensure_ascii=False, indent=None)
 
     # 儲存為 TSV 檔案
     strip_course(courses_df, output_dir)
+    # 儲存為 JSON 檔案
+    with open(os.path.join(output_dir, f"{year}-{term}-dense.json"), "w", encoding="utf-8") as f:
+        json.dump(dense_courses_map, f, ensure_ascii=False, indent=None)
     # 更新 日期 json 檔案
     with open(os.path.join(output_dir, "last_update.json"), "w", encoding="utf-8") as f:
         json.dump({

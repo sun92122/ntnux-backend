@@ -25,8 +25,8 @@
 113	3	10	0	細胞及分子生物學實驗		【第一期】 ◎第二類課程	31	31		BIU0159		半	2.0	生科系（學）	SU43		laboratory Course for Cellular and Molecular Biology		3	0	30	選	◎必須先修過【BIU0172  普通生物學實驗甲（一）】、【BIU0144  生物化學實驗】、【BIU0143  生物化學】	N	0031	蘇銘燦 孫智雯 王麗婷 陳?均	◎密集課程	
 113	3	0	0	空間資訊技術實務（二） </br>[ 學分學程：空間學程 ]		【全期】 ◎第二類課程	16	16		PGU3005		半	3.0	空間學程	ZU9B		Spatial Information Technology Practice (II) </br>[ Program: The Program of Geospatial Information Science ]			0	50	選	◎必須先修過【PGU3004  空間資訊技術實務（一）】	N	0035	陳哲銘 王聖鐸 吳秉昇 陳瑩	◎密集課程	
 113	3	15	8	產業蹲點與實作	9	【第二期】 ◎第二類課程	17	9		OEC9115		半	3.0	光電學位學程（學）	HU77		Industrial Camps and Implementation			0	50	選	◎必須先修過【OEC8116  奈米磁性物理及其應用（一）】、【OEC8117  奈米磁性物理及其應用（二）】	N	0037	謝振傑	◎密集課程	
-113	3	10	0	水域休閒運動（一）		【第一期】     ◎第一類課程	17	17		PEU0306		半	2.0	體育系（學）	AU30		Aquatic Recreation Activity (I)			0	50	選		N	0040	鄭國輝	◎密集課程	
-113	3	10	0	運動心理學 </br>[ 學分學程：運動傷害防護學程 ]		【第二期】 ◎第一類課程	23	23		FPU0013		半	2.0	競技系（學）	AU32		Sports Psychology </br>[ Program: The Program of Injury Prevention and Athletic Training ]			0	50	必		N	0041	洪聰敏	◎密集課程	
+113	3	10	0	水域休閒運動（一）		【第一期】     ◎第一類課程	17	17		PEU0306		半	2.0	體育系	AU30		Aquatic Recreation Activity (I)			0	50	選		N	0040	鄭國輝	◎密集課程	
+113	3	10	0	運動心理學 </br>[ 學分學程：運動傷害防護學程 ]		【第二期】 ◎第一類課程	24	24		FPU0013		半	2.0	競技系（學）	AU32		Sports Psychology </br>[ Program: The Program of Injury Prevention and Athletic Training ]			0	50	必		N	0041	洪聰敏	◎密集課程	
 113	3	10	0	體育測驗與評量		【第一期】 ◎第一類課程	11	11		FPU0239		半	2.0	競技系（學）	AU32		Measurement and Evaluation in Physical Education			0	50	選		N	0042	劉錦璋	◎密集課程	
 113	3	0	0	英文（三）：文學與文化		【Summer Session 2】 ◎第一類課程	36	36		00UB9A1	A	半	2.0	共同科	CU		English (III): Literature and Culture	是		0	35	必	◎必須先修過【英文（一）】◎必須先修過【英文（二）】	N	0044	李金安	◎密集課程	
 113	3	0	0	英文（三）：藝術英文		【Summer Session 1 & 2】 ◎第一類課程	35	35		00UB9D1	A	半	2.0	共同科	CU		English (III):  English for Arts and Design	是		0	35	必	◎必須先修過【英文（一）】◎必須先修過【英文（二）】	N	0045	陳瑄	◎密集課程	
@@ -43,7 +43,7 @@
 113	3	10	0	創造力心理學 </br>[ 學分學程：音樂輔教學程 ]		【第一期】 ◎第一類課程	39	39		PCU0143		半	2.0	心輔系（學）	EU01		Creativity Psychology </br>[ Program: The Program of Music-assisted Guidance and Special Education ]			0	50	選		N	0058	張雨霖	◎密集課程	
 113	3	10	0	自我覺察與成長		【第二期】     ◎第一類課程	49	49		PCU0180		半	2.0	心輔系（學）	EU01		Self-Awareness and Growth			0	50	選		N	0059	傅筑君	◎密集課程	
 113	3	10	0	組織心理學		【Summer Session 2】    授課教師為：林佳樺老師。 ◎第二類課程	14	14		PCU0183		半	2.0	心輔系（學）	EU01		Organizational Psychology	是		0	50	選		N	0060	林佳樺	◎密集課程	
-113	3	10	0	病人衛生教育		【第二期】 ◎第二類課程	13	13		HEU0063		半	2.0	衛教系（學）	EU05		Patient Health Education			0	50	選		N	0061	張家臻	◎密集課程	
+113	3	10	0	病人衛生教育		【第二期】 ◎第二類課程	14	14		HEU0063		半	2.0	衛教系（學）	EU05		Patient Health Education			0	50	選		N	0061	張家臻	◎密集課程	
 113	3	10	0	休閒生活		【第一期】 ◎第一類課程	19	19		HEU0112		半	2.0	衛教系（學）	EU05		Leisure Life			0	50	選		N	0062	林宗毅	◎密集課程	
 113	3	10	0	衛生管理實務		【第二期】 ◎第二類課程	15	15		HEU0183		半	3.0	衛教系（學）	EU05		Practice of Health Management			0	50	選		N	0063	曾治乾	◎密集課程	
 113	3	10	0	法學緒論		【第一期】 ◎第一類課程	24	24		CEU0004		半	2.0	公領系（學）	EU07		Introduction to Jurisprudence			0	50	必		N	0064	林安邦	◎密集課程	
@@ -61,7 +61,7 @@
 113	3	10	0	數據視覺化與溝通		◎臺語      授課 【全期】 ◎第一類課程	37	37		05UG040		半	2.0	通識	GU		Data Visualization and Communication			0	50	通		N	0079	黃浩霆	◎密集課程	A4UG
 113	3	0	0	文學、電影中的青少年成長經驗		【第一期】 ◎第二類課程	50	50		0AUG228		半	2.0	通識	GU		Experiences of Teenage Growth in Literature and Movies			0	55	通		N	0080	鄭怡庭	◎密集課程	A1UG
 113	3	0	0	文學、電影中的情感經驗		【第一期】 ◎第二類課程	53	53		0AUG229		半	2.0	通識	GU		Love in Literature and Films			0	55	通		N	0081	鄭怡庭	◎密集課程	A1UG
-113	3	3	0	半導體與人工智慧	9	【Summer Session 2】  Total Credits: 3 credits (48 hours)  Intensive Course  Prerequisites: None  Class Schedule: August 11~August 22, 9:00 AM ~ 5:00 PM, for 11 days     ◎第二類課程	22	22		H5C9003		半	3.0	科技學院	H		Semiconductors and Artificial Intelligence	是		0	33	選		N	0082	劉祥麟 駱芳鈺 邱南福 楊承山 林政宏 劉傳璽 柯坤呈 辜漢文 張譽騰	◎密集課程	
+113	3	3	0	半導體與人工智慧	9	【Summer Session 2】  Total Credits: 3 credits (48 hours)  Intensive Course  Prerequisites: None  Class Schedule: August 11~August 22, 9:00 AM ~ 5:00 PM, for 11 days     ◎第二類課程	22	22		H5C9003		半	3.0	科技學院	H		Semiconductors and Artificial Intelligence	是		0	33	選		N	0082	劉祥麟 駱芳鈺 楊承山 林政宏 劉傳璽 柯坤呈 辜漢文 張譽騰 柯伯尼	◎密集課程	
 113	3	10	0	彩色成像技術		【全期】 ◎第二類課程	13	13		GCM0098		半	3.0	圖傳系（碩）	HM72		Color Imaging Technique		1	0	15	選	◎課程開放上修	N	0083	廖信	◎密集課程	
 113	3	10	0	有機光電元件原理與應用	8	【第二期】 ◎第二類課程	9	9		OEC8152		半	3.0	光電所（碩）	HM77		The Devices Physics and Applications for Organic Led			0	50	選	◎課程開放上修	N	0084	邱南福	◎密集課程	
 113	3	10	0	影視欣賞		【Summer Session 1 & 2】 ◎第二類課程	8	8		GCU0042		半	3.0	圖傳系（學）	HU72		Film / Video Appreciation	是	2	0	30	選		N	0085	張晏榕	◎密集課程	
@@ -92,7 +92,7 @@
 113	3	10	0	農業旅遊與自然資源永續經營	8	【Summer Session 1】 ◎第二類課程	7	7		EEC8081		半	3.0	永續所（碩）	SM46		Agricultural Tourism and Sustainable Management of Natural Resources	是		0	50	選	◎課程開放上修	N	0113	方偉達	◎密集課程	
 113	3	10	0	數學產業實習	9	【全期】    1.須於5月底參與實習課程說明會，始具選課資格。2.正式錄取後，每週須至實習單位工作至少兩日。 ◎第二類課程	6	6		MAC9042		半	2.0	數學系（學）	SU40		Industrial Practice			0	50	選		N	0114	林俊吉	◎密集課程	
 113	3	10	0	應用數學專題個案研究	9	【第二期】    7/21~8/14，每週一2-4、二2-4、三2-4、四2-4(數學館M310)。 ◎第二類課程	11	11		MAC9051		半	3.0	數學系（學）	SU40		Case Studies in Applied Mathematics			0	50	選		N	0115	陳賢修	◎密集課程	
-113	3	80	1	微積分乙（一）		【Summer Session 2】    7/22~8/15每週二2-4、三2-4、四2-4、五2-4(E102)。 ◎第一類課程	103	102		MAU0180		半	3.0	數學系（學）	SU40		Calculus B (I)		1	0	50	必	◎限外系修習	N	0116	黃侑仁	◎密集課程	
+113	3	80	1	微積分乙（一）		【Summer Session 2】    7/22~8/15每週二2-4、三2-4、四2-4、五2-4(E302)。 ◎第一類課程	103	102		MAU0180		半	3.0	數學系（學）	SU40		Calculus B (I)		1	0	50	必	◎限外系修習	N	0116	黃侑仁	◎密集課程	
 113	3	10	2	微積分乙（二）		【Summer Session 2】    7/21~8/14每週一6-8、二6-8、三6-8、四6-8(B103)。 ◎第一類課程	14	12		MAU0181		半	3.0	數學系（學）	SU40		Calculus B (II)		1	0	50	必	◎限外系修習◎必須先修過【MAU0180  微積分乙（一）】	N	0117	王建勛	◎密集課程	
 113	3	10	1	微分幾何（一） </br>[ 學分學程：天文重力學程 ]		1.【第一期】6/23~7/17每週一2-4、二2-4、三2-4、四2-4(第2-3節在數學館M310、第4節在理圖807電腦教室)。2.建議有修過高等微積分（一）的學生選修。 ◎第一類課程	50	49		MAU0106		半	3.0	數學系（學）	SU40		Differential Geometry (I) </br>[ Program: The Program of  Astronomy and Gravitation ]		3	0	50	必		N	0118	陳瑞堂	◎密集課程	
 113	3	10	0	表面物理導論（一）	9	【Summer Session 1】 ◎第二類課程	21	21		PHC0094		半	3.0	物理系（學）	SU41		Introduction to Surface Physics (I)	是		0	50	選		N	0119	傅祖怡	◎密集課程	
@@ -101,8 +101,8 @@
 113	3	5	3	野外生態學	9	【第二期】  上課地點在行政院農委會特有生物保育中心高海拔試驗站(台中高鐵站集合後統一上山)    須參加行前說明會，確定時間另行通知。 ◎第二類課程	18	15		BIC9068		半	3.0	生科系（學）	SU43		Field ecology			0	12	選	◎限本系(含雙主修)修習	N	0122	徐堉峰	◎密集課程	
 113	3	10	0	音訊技術與電腦音樂專題研究 </br>[ 學分學程：音樂科技學程 資訊科技應用學程 ]	9	【第一期】 ◎第二類課程	18	18		CSC9009		半	3.0	資工系（學）	SU47		Projects in Computer Music and Audio Technology </br>[ Program: The Program of Computer Music and Audio Technology The Program of Application of Information Technology ]			0	50	選		N	0123	李忠謀 趙菁文	◎密集課程	
 113	3	10	0	PASSION實習課程 </br>[ 學分學程：科技化教學產業學程 PASSION偏鄉教育學程 ]		【全期】 ◎第二類課程	29	29		PGUZ002		半	2.0	PASSION偏鄉學程	ZU79		Passion Teaching Practicum </br>[ Program: The Program of Technology-assisted Teaching Industry The Program of PASSION Quality Education in Rural Schools ]			0	50	必	◎必須先修過【PGUZ001  PASSION國英數教材教法】	N	0127	胡翠君	◎密集課程	
-113	3	10	0	中國思想史		【第二期】 ◎第二類課程	13	13		CLU0023		半	3.0	華語系（學）	IU84	應用華語文學組	History of Chinese Thought			0	50	選		N	0128	曾暐傑	◎密集課程	
-113	3	10	0	材料力學		【第二期】 ◎第一類課程	26	26		MTU0026		半	3.0	機電系（學）	HU73		Mechanics of Materials			0	50	必		N	0129	鄭淳護	◎密集課程	
+113	3	10	0	中國思想史		【第二期】 ◎第二類課程	14	14		CLU0023		半	3.0	華語系（學）	IU84	應用華語文學組	History of Chinese Thought			0	50	選		N	0128	曾暐傑	◎密集課程	
+113	3	10	0	材料力學		【第二期】 ◎第一類課程	27	27		MTU0026		半	3.0	機電系（學）	HU73		Mechanics of Materials			0	50	必		N	0129	鄭淳護	◎密集課程	
 113	3	10	0	材料科學 </br>[ 學分學程：台積電半導體學程 太陽能源與工程學程 ]		【第一期】 ◎第一類課程	27	27		MTU0097		半	3.0	機電系（學）	HU73		Materials Science </br>[ Program: NTNU and TSMC Semiconductor Program The Program of Solar Energy Engineering ]			0	50	必		N	0130	程金保	◎密集課程	
 113	3	10	0	數學活動與思維		【第一期】 ◎第二類課程	35	35		MAU0141		半	3.0	數學系（學）	SU40		Mathematical Activities and Thinking			0	50	選		N	0137	許志農	◎密集課程	
 113	3	10	0	代數特論（一）		本課程僅供大四以上有畢業需求的學生選修 ◎第一類課程	10	10		MAU0030		半	3.0	數學系（學）	SU40		Topics in Algebra (I)			0	50	選	◎限大四修習	N	0138	許志農	◎密集課程	
