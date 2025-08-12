@@ -47,7 +47,7 @@ def save_courses(year: int, term: int, output_dir: str, original_data_output: st
     # 儲存為 TSV 檔案
     strip_course(courses_df, output_dir)
     # 儲存為 JSON 檔案
-    with open(os.path.join(output_dir, f"{year}-{term}-dense.json"), "w", encoding="utf-8") as f:
+    with open(os.path.join(output_dir, "dense.json"), "w", encoding="utf-8") as f:
         json.dump(dense_courses_map, f, ensure_ascii=False, indent=None)
     # 更新 日期 json 檔案
     with open(os.path.join(output_dir, "last_update.json"), "w", encoding="utf-8") as f:
