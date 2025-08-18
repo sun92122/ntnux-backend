@@ -184,7 +184,7 @@
 114	1	10	-2	排球（一）			49	51		FPU0243		半	2.0	競技系（學）	AU32		Volleyball (I)		2	0	50	選		N	0184	張恩崇	五 3-4 公館 體育館二3樓	
 114	1	10	-9	羽球（一）			49	58		FPU0245		半	2.0	競技系（學）	AU32		Badminton (I)		2	0	50	選		N	0185	李建興	二 3-4 公館 中正堂	
 114	1	10	-10	桌球（一）			36	46		FPU0248		半	2.0	競技系（學）	AU32		Table Tennis (I)		2	0	50	選		N	0186	林岱樵	四 1-2 和平 桌球室	
-114	1	10	-13	運動生物力學 </br>[ 學分學程：肌力與體能學程 運動傷害防護學程 ]			56	69		FPU0016		半	2.0	競技系（學）	AU32		Sports Biomechanics </br>[ Program: The Program of Strength and Conditioning The Program of Injury Prevention and Athletic Training ]		3	0	50	必		N	0187	劉錦璋	一 3-4 公館 體育館二3樓會議室	
+114	1	10	-13	運動生物力學 </br>[ 學分學程：肌力與體能學程 運動傷害防護學程 ]			55	68		FPU0016		半	2.0	競技系（學）	AU32		Sports Biomechanics </br>[ Program: The Program of Strength and Conditioning The Program of Injury Prevention and Athletic Training ]		3	0	50	必		N	0187	劉錦璋	一 3-4 公館 體育館二3樓會議室	
 114	1	10	-2	教練心理學			10	12		FPU0037		半	2.0	競技系（學）	AU32		Coaching Psychology		3	0	50	選		N	0188	梁嘉音	二 3-4 公館 Ｓ501	
 114	1	10	-1	身體素質訓練法 </br>[ 學分學程：肌力與體能學程 ]			9	10		FPU0065		半	2.0	競技系（學）	AU32		Physical Characteristics Training </br>[ Program: The Program of Strength and Conditioning ]		3	0	50	選		N	0189	蔡於儒	一 6-7 公館 Ｓ204	
 114	1	10	-15	網球（一）			46	61		FPU0246		半	2.0	競技系（學）	AU32		Tennis (I)		3	0	50	選		N	0190	林岱樵	五 6-7 公館 網球場二	
@@ -710,7 +710,7 @@
 114	1	10	-1	社會教育概論			1	2		SOU0042		半	3.0	社教系（學）	EU02		Introduction to Social Education		1	0	50	必	◎限本系(含雙主修)修習◎限大一修習	N	0716	廖世璋	五 7-9 和平 誠208	
 114	1	10	0	行政管理學 </br>[ 學分學程：社團領導學程 ]			0	0		SOU0056		半	2.0	社教系（學）	EU02		Administration and Management </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]		1	0	50	選	◎限本系(含雙主修)修習◎限大一修習	N	0717	鄭勝分	二 3-4 和平 誠302	
 114	1	10	0	故事創作			0	0		SOU0116		半	2.0	社教系（學）	EU02		Story Writing		1	2	50	選	◎限本系(含雙主修)修習◎限大一修習	N	0718	曹仕翰	四 8-9 和平 誠208	
-114	1	10	-8	社會科學研究法			54	62		SOU0047		半	3.0	社教系（學）	EU02		Research Method of Social Science		2	0	50	必		N	0719	林玉鵬	四 2-4 和平 誠302	
+114	1	10	-8	社會科學研究法			53	61		SOU0047		半	3.0	社教系（學）	EU02		Research Method of Social Science		2	0	50	必		N	0719	林玉鵬	四 2-4 和平 誠302	
 114	1	10	-4	非營利組織導論			52	56		SOU0063		半	2.0	社教系（學）	EU02		Introduction to Non-Profit Organizations		2	0	50	必		N	0720	鄭勝分	三 6-7 和平 誠208	
 114	1	10	-5	網站設計與多媒體應用			29	34		SOU0071		半	2.0	社教系（學）	EU02		Website Design and Multimedia Application		2	0	50	選		N	0721	萬岳憲	三 A-B 和平 誠205	
 114	1	10	-3	文教採訪報導與應用			45	48		SOU0095		半	2.0	社教系（學）	EU02		News Report on Cultural and Educational Events		2	2	50	選		N	0722	詹婉如	一 A-B 和平 誠401	
@@ -726,7 +726,7 @@
 114	1	10	-19	文化機構實習			2	21		SOU0110		半	2.0	社教系（學）	EU02		Practicum: Cultural Institutions		4	0	50	必		N	0732	徐敏雄 郭郡羽	六 10-C 和平 教710	
 114	1	10	-8	文化行銷			38	46		SOU0125		半	2.0	社教系（學）	EU02		Culture Marketing and Marketing Culture		4	0	50	選		N	0733	徐凱玲	一 3-4 和平 誠108	
 114	1	10	-2	整合行銷傳播			26	28		SOU0126		半	2.0	社教系（學）	EU02		Integrated Marketing Communication		4	0	50	選	◎必須先修過【SOU0121  社會行銷】	N	0734	林鴻洲	二 3-4 和平 正202	
-114	1	10	-3	公共衛生教育實習		暑假時學生將會到各機關開始實習	26	29		HEU0029		半	2.0	衛教系（學）	EU05		Public Health Education Practice			0	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0155  健康促進與衛生教育計畫】、【HEU0028  公共衛生教育】	N	0735	吳文琪	六 1-4 和平 衛教系會議室	
+114	1	10	-3	公共衛生教育實習		暑假時學生將會到各機關開始實習	24	27		HEU0029		半	2.0	衛教系（學）	EU05		Public Health Education Practice			0	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0155  健康促進與衛生教育計畫】、【HEU0028  公共衛生教育】	N	0735	吳文琪	六 1-4 和平 衛教系會議室	
 114	1	15	0	學校健康服務專題研討	9		8	8		HEC9005		半	2.0	衛教系（學）	EU05		Seminar on School Health Services			1	50	選		N	0736	高松景	四 3-4 和平 正103	
 114	1	15	-3	應用統計學	9		4	7		HEC9007		半	2.0	衛教系（學）	EU05		Applied Statistics	是		1	50	選		N	0737	朱妮明	二 6-7 和平 正103	
 114	1	15	-3	衛生法規與倫理	9		26	29		HEC9008		半	2.0	衛教系（學）	EU05		Health Law and Ethics			1	50	必		N	0738	李銘杰	五 3-4 和平 正104	
@@ -734,13 +734,13 @@
 114	1	15	-1	健康促進與衛生教育導論			2	3		HEU0156		半	2.0	衛教系（學）	EU05		Introduction to Health Promotion and Health Education		1	1	50	必	◎限本系(含雙主修)、輔系修習◎限大一修習	N	0740	張鳳琴	一 6-7 和平 正103	
 114	1	15	-1	人體解剖生理學 </br>[ 學分學程：肌力與體能學程 音樂輔教學程 ]			2	3		HEU0179		半	3.0	衛教系（學）	EU05		Human Anatomy and Physiology </br>[ Program: The Program of Strength and Conditioning The Program of Music-assisted Guidance and Special Education ]		1	1	50	必	◎限本系(含雙主修)、輔系修習◎限大一修習	N	0741	王淑慧	一 2-4 和平 正103	
 114	1	15	0	醫務管理			0	0		HEU0190		半	2.0	衛教系（學）	EU05		Healthcare Management		1	1	50	選	◎限本系(含雙主修)、輔系修習◎限大一修習	N	0742	張芳維	一 8-9 和平 正103	
-114	1	15	-1	微生物學			33	34		HEU0009		半	2.0	衛教系（學）	EU05		Microbiology		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0743	賴韻如	二 8-9 公館 Ｂ101	
-114	1	15	-7	營養學 </br>[ 學分學程：肌力與體能學程 ]			33	40		HEU0012		半	2.0	衛教系（學）	EU05		Nutrition </br>[ Program: The Program of Strength and Conditioning ]		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0744	李銘杰	一 8-9 和平 正104	
-114	1	15	-4	流行病學 </br>[ 學分學程：空間學程 ]			43	47		HEU0017		半	3.0	衛教系（學）	EU05		Epidemiology </br>[ Program: The Program of Geospatial Information Science ]		2	0	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0181  生物統計學】	N	0745	連盈如	四 2-4 和平 正104	
+114	1	15	-1	微生物學			32	33		HEU0009		半	2.0	衛教系（學）	EU05		Microbiology		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0743	賴韻如	二 8-9 公館 Ｂ101	
+114	1	15	-7	營養學 </br>[ 學分學程：肌力與體能學程 ]			32	39		HEU0012		半	2.0	衛教系（學）	EU05		Nutrition </br>[ Program: The Program of Strength and Conditioning ]		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0744	李銘杰	一 8-9 和平 正104	
+114	1	15	-4	流行病學 </br>[ 學分學程：空間學程 ]			42	46		HEU0017		半	3.0	衛教系（學）	EU05		Epidemiology </br>[ Program: The Program of Geospatial Information Science ]		2	0	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0181  生物統計學】	N	0745	連盈如	四 2-4 和平 正104	
 114	1	3	-3	健康傳播導論			28	31		HEU0118		半	2.0	衛教系（學）	EU05		Introduction to Health Communication		2	1	35	選		N	0746	李錟鋒	四 10-A 和平 教403	
 114	1	15	-13	老人學概論			11	24		HEU0131		半	2.0	衛教系（學）	EU05		Introduction of gerontology		2	1	50	選		N	0747	張家臻	三 6-7 和平 正104	
-114	1	15	-2	衛生與福利政策導論			31	33		HEU0144		半	2.0	衛教系（學）	EU05		Introduction to Health and Welfare Policy		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0748	張鳳琴	一 3-4 和平 正104	
-114	1	15	-3	健康促進與衛生教育研究法			38	41		HEU0159		半	2.0	衛教系（學）	EU05		Research Methods in Health Promotion and Health Education		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0749	李思賢	二 3-4 和平 正104	
+114	1	15	-2	衛生與福利政策導論			30	32		HEU0144		半	2.0	衛教系（學）	EU05		Introduction to Health and Welfare Policy		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0748	張鳳琴	一 3-4 和平 正104	
+114	1	15	-3	健康促進與衛生教育研究法			37	40		HEU0159		半	2.0	衛教系（學）	EU05		Research Methods in Health Promotion and Health Education		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0749	李思賢	二 3-4 和平 正104	
 114	1	15	-3	性教育			21	24		HEU0014		半	3.0	衛教系（學）	EU05		Sexuality Education		3	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0750	高松景	三 8-10 和平 正104	
 114	1	15	-4	環境衛生			31	35		HEU0015		半	2.0	衛教系（學）	EU05		Environmental Health		3	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0751	曾治乾	四 6-7 和平 正103	
 114	1	5	-1	環境衛生實驗			7	8		HEU0016	A	半	1.0	衛教系（學）	EU05		Environmental Health Laboratory	是	3	0	30	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0752	曾治乾	一 2-4 和平 誠504	
@@ -781,11 +781,11 @@
 114	1	10	0	人類發展			1	1		HGU0004		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Human Development		1	0	50	必	◎限本系(含雙主修)、輔系修習◎限大一修習	N	0787	陳虹仰	四 6-8 和平 誠204	
 114	1	10	-3	家庭生活教育概論			2	5		HGU0233		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Introduction to Family Life Education		1	0	50	必	◎限本系(含雙主修)、輔系修習◎限大一修習	N	0788	黃淑滿	四 2-4 和平 正203	
 114	1	10	-2	營養學導論 </br>[ 學分學程：肌力與體能學程 ]			0	2		HGU0236		半	2.0	幼家科學系（學）	EU06	家庭生活教育組	Introduction to Nutrition </br>[ Program: The Program of Strength and Conditioning ]		1	0	50	選	◎限本系(含雙主修)修習◎限大一修習	N	0789	徐欣億	一 3-4 和平 誠206	
-114	1	10	-6	家庭資源與管理			40	46		HGU0020		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Family Resources and Management		2	0	50	必	◎必須先修過【HGU0233  家庭生活教育概論】	N	0790	魏秀珍	一 6-8 和平 誠206	
-114	1	10	-3	婚姻與家人關係			48	51		HGU0318		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Marriage and Family Relations		2	0	50	必	◎必須先修過【HGU0191  家庭發展】	N	0791	陳虹仰	二 2-4 和平 誠207	
+114	1	10	-6	家庭資源與管理			39	45		HGU0020		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Family Resources and Management		2	0	50	必	◎必須先修過【HGU0233  家庭生活教育概論】	N	0790	魏秀珍	一 6-8 和平 誠206	
+114	1	10	-3	婚姻與家人關係			47	50		HGU0318		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Marriage and Family Relations		2	0	50	必	◎必須先修過【HGU0191  家庭發展】	N	0791	陳虹仰	二 2-4 和平 誠207	
 114	1	10	-17	老人與家庭 </br>[ 學分學程：高齡學程 ]			48	65		HGU0321		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	The Elderly and Family </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]		2	0	50	選		N	0792	吳志文	四 2-4 和平 誠207	
-114	1	10	-4	家庭社會學			33	37		HGU0019		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Family Sociology		3	0	50	必	◎必須先修過【HGU0191  家庭發展】	N	0793	聶西平	五 2-4 和平 誠207	
-114	1	10	-5	家庭生活教育方案設計			31	36		HGU0237		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Program Design of Family Life Education		3	0	50	必	◎必須先修過【HGU0191  家庭發展】、【HGU0233  家庭生活教育概論】	N	0794	黃淑滿	二 2-4 和平 誠206	
+114	1	10	-4	家庭社會學			32	36		HGU0019		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Family Sociology		3	0	50	必	◎必須先修過【HGU0191  家庭發展】	N	0793	聶西平	五 2-4 和平 誠207	
+114	1	10	-5	家庭生活教育方案設計			30	35		HGU0237		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Program Design of Family Life Education		3	0	50	必	◎必須先修過【HGU0191  家庭發展】、【HGU0233  家庭生活教育概論】	N	0794	黃淑滿	二 2-4 和平 誠206	
 114	1	7	-4	服裝結構與製作（二）			7	11		HGU0268		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Clothing Construction (II)		3	0	18	選	◎必須先修過【HGU0267  服裝結構與製作（一）】	N	0795	楊翠竹	一 1-4 和平 勤101	
 114	1	10	-11	烘焙學			16	27		HGU0167		半	2.0	幼家科學系（學）	EU06	家庭生活教育組	Baking		4	0	30	選	◎必須先修過【HGU0010  食物製備】	N	0796	宋慧娟	五 1-4 和平 勤001	
 114	1	10	-5	婚姻教育			32	37		HGU0338		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Marriage Education		4	0	50	必	◎必須先修過【HGU0237  家庭生活教育方案設計】	N	0797	陳翠臻	四 6-8 和平 誠206	
@@ -933,7 +933,7 @@
 114	1	0	-124	鑑識科學概論			96	220		03UG031		半	2.0	通識	GU		Introduction to Forensic Sciences			0	120	通		N	0939	李承龍	三 8-9 和平 教201演講廳	A2UG
 114	1	10	-50	管理學入門			48	98		03UG041	A	半	2.0	通識	GU		Introduction to Management			0	60	通	◎企管系（學）不得選修	N	0940	廖仁傑	二 6-7 和平 誠102	A2UG/B2UG
 114	1	10	-78	管理學入門			47	125		03UG041	B	半	2.0	通識	GU		Introduction to Management			0	60	通	◎企管系（學）不得選修	N	0941	廖仁傑	三 6-7 和平 誠302	A2UG/B2UG
-114	1	10	-93	科技產業營業秘密保護與智慧財產權			27	120		03UG042		半	2.0	通識	GU		Trade Secret Protection and Intellectual Property Rights of Technology Industry			0	100	通		N	0942	劉傳璽	五 6-7 和平 綜509國際會議廳	A2UG
+114	1	10	-93	科技產業營業秘密保護與智慧財產權			26	119		03UG042		半	2.0	通識	GU		Trade Secret Protection and Intellectual Property Rights of Technology Industry			0	100	通		N	0942	劉傳璽	五 6-7 和平 綜509國際會議廳	A2UG
 114	1	1	-17	當代社會與文化關鍵議題			10	27		03UG045	A	半	2.0	通識	GU		Key Issues of Contemporary Society and Culture	是		2	50	通		N	0943	何家騏	三 3-4 和平 誠305	A2UG
 114	1	0	-66	當代社會與文化關鍵議題			42	108		03UG045	B	半	2.0	通識	GU		Key Issues of Contemporary Society and Culture	是		0	49	通		N	0944	范俊銘	四 10-A 公館 Ｓ204	A2UG
 114	1	3	-19	生活中的SDGs </br>[ 學分學程：環境人文學程 ]			20	39		03UG047		半	2.0	通識	GU		SDGs in Daily Life </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU ]	是		1	50	通		N	0945	蘇淑娟	三 3-4 和平 誠304	A2UG
@@ -1015,7 +1015,7 @@
 114	1	10	-169	個人投資理財			142	311		0AUG462		半	2.0	通識	GU		Personal Finance			0	170	通		N	1022	朱文增	三 3-4 和平 教201演講廳	A2UG
 114	1	10	-83	休閒與生活 </br>[ 學分學程：肌力與體能學程 ]			41	124		0AUG463		半	2.0	通識	GU		Leisure in Our Daily Life </br>[ Program: The Program of Strength and Conditioning ]			0	50	通		N	1023	李晶	三 3-4 和平 誠203	A2UG
 114	1	10	-4	學術寫作			5	9		0HUG011		半	2.0	通識	GU		Academic Writing			1	50	通		N	1024	謝秀卉	二 3-4 和平 樸306	A1UG
-114	1	10	-61	樂府詩與人生			28	89		0HUG249		半	2.0	通識	GU		Yuefu Poems and Life			0	135	通	◎國文系（學）不得選修	N	1025	林淑雲	一 6-7 和平 誠101	A1UG
+114	1	10	-61	樂府詩與人生			27	88		0HUG249		半	2.0	通識	GU		Yuefu Poems and Life			0	135	通	◎國文系（學）不得選修	N	1025	林淑雲	一 6-7 和平 誠101	A1UG
 114	1	10	-19	元宇宙敘事導論 </br>[ 學分學程：元宇宙學程 ]			14	33		0HUG253		半	2.0	通識	GU		Introduction to Metaverse Narrative </br>[ Program: The Program of Metaverse Narrative ]			2	50	通		N	1026	羅凡晸 曹筱玥	三 3-4 和平 教401	A1UG
 114	1	10	-33	莎士比亞的故事			46	79		0HUG432		半	2.0	通識	GU		Shakespeare			0	70	通		N	1027	蘇子中	二 6-7 和平 誠202	A1UG/B2UG
 114	1	5	-30	大腦中的語言：心理語言學入門			11	41		0HUG450		半	2.0	通識	GU		Language inside Our Heads: An Introduction to Psycholinguistics	是		0	50	通		N	1028	颯楊	三 8-9 和平 誠305	A1UG
@@ -1287,11 +1287,11 @@
 114	1	10	-9	自動控制			57	66		MTU0028		半	3.0	機電系（學）	HU73	　	Automatic Control Engineering		3	0	60	必	◎必須先修過【MTU0009  工程數學（一）】	N	1301	陳美勇	二 2-4 和平 誠203	
 114	1	10	-7	自動控制實驗			28	35		MTU0106	A	半	1.0	機電系（學）	HU73	　	Experiments of Automatic Control		3	0	30	必	◎必須先修過【MTU0009  工程數學（一）】	N	1302	辜漢文	五 2-4 和平 CAD/CAM	
 114	1	10	-3	自動控制實驗			12	15		MTU0106	B	半	1.0	機電系（學）	HU73	　	Experiments of Automatic Control		3	0	30	必	◎必須先修過【MTU0009  工程數學（一）】	N	1303	辜漢文	五 7-9 和平 CAD/CAM	
-114	1	10	0	機構學			39	39		MTU0025		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Mechanisms		3	0	50	必	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1304	陳美勇	五 A-C 和平 機202會議室	
-114	1	10	-1	材料力學			31	32		MTU0026		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Mechanics of Materials		3	0	50	必	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1305	鄭淳護	六 2-4 和平 誠207	
-114	1	3	-2	電腦輔助製造			29	31		MTU0103		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Computer-Aided Manufacturing		3	0	30	選	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1306	趙甦農	六 6-8 和平 教403	
-114	1	10	0	產業實務			33	33		MTU0127		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industry Practice		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1307	程金保 陳美勇		
-114	1	10	0	產業實務專題研討			33	33		MTU0128		半	2.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industrial Practice Seminar		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1308	程金保 陳美勇		
+114	1	10	0	機構學			38	38		MTU0025		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Mechanisms		3	0	50	必	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1304	陳美勇	五 A-C 和平 機202會議室	
+114	1	10	-1	材料力學			30	31		MTU0026		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Mechanics of Materials		3	0	50	必	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1305	鄭淳護	六 2-4 和平 誠207	
+114	1	3	-2	電腦輔助製造			28	30		MTU0103		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Computer-Aided Manufacturing		3	0	30	選	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1306	趙甦農	六 6-8 和平 教403	
+114	1	10	0	產業實務			32	32		MTU0127		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industry Practice		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1307	程金保 陳美勇		
+114	1	10	0	產業實務專題研討			32	32		MTU0128		半	2.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industrial Practice Seminar		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1308	程金保 陳美勇		
 114	1	20	-1	數位系統			0	1		AEU0003		半	3.0	電機系（學）	HU75		Digital Systems		1	0	120	必	◎限大一修習	N	1309	林政宏	一 7-9 和平 綜202演講廳	
 114	1	5	-2	計算機概論			0	2		AEU0005	A	半	3.0	電機系（學）	HU75		Introduction to Computer Science	是	1	0	35	必	◎限大一修習	N	1310	呂成凱	四 2-4 和平 多媒體與通訊實驗室	
 114	1	5	0	計算機概論			0	0		AEU0005	B	半	3.0	電機系（學）	HU75		Introduction to Computer Science	是	1	0	35	必	◎限大一修習	N	1311	呂成凱	四 7-9 和平 多媒體與通訊實驗室	
@@ -1335,8 +1335,8 @@
 114	1	10	0	能源科技概論 </br>[ 學分學程：太陽能源與工程學程 ]			0	0		VEU0002		半	2.0	車能學位學程（學）	HU76		Introduction to Energy Technology </br>[ Program: The Program of Solar Energy Engineering ]		1	5	50	必	◎限大一修習	N	1350	林煜軒	四 3-4 和平 工教系會議室	
 114	1	10	0	電路學（一） </br>[ 學分學程：太陽能源與工程學程 ]			0	0		VEU0003		半	3.0	車能學位學程（學）	HU76		Electric Circuits (I) </br>[ Program: The Program of Solar Energy Engineering ]		1	5	50	必	◎限大一修習	N	1351	白凱仁	一 6-8 和平 汽車工場B101	
 114	1	10	0	電路學實驗			0	0		VEU0004		半	3.0	車能學位學程（學）	HU76		Electrical Circuits Experiment	是	1	0	50	必	◎限大一修習	N	1352	劉華棟	四 6-9 和平 電機與感測實驗室	
-114	1	10	-16	工程數學（一） </br>[ 學分學程：太陽能源與工程學程 ]			50	66		VEU0010		半	3.0	車能學位學程（學）	HU76		Engineering Mathematics (I) </br>[ Program: The Program of Solar Energy Engineering ]		2	5	50	必		N	1353	洪翊軒	四 6-8 和平 工501(TA501)	
-114	1	10	-3	熱力學（一）			28	31		VEU0011		半	3.0	車能學位學程（學）	HU76		Thermo-Dynamics (I)	是	2	5	50	必		N	1354	陳韋任	二 2-4 和平 汽車工場B101	
+114	1	10	-16	工程數學（一） </br>[ 學分學程：太陽能源與工程學程 ]			49	65		VEU0010		半	3.0	車能學位學程（學）	HU76		Engineering Mathematics (I) </br>[ Program: The Program of Solar Energy Engineering ]		2	5	50	必		N	1353	洪翊軒	四 6-8 和平 工501(TA501)	
+114	1	10	-3	熱力學（一）			27	30		VEU0011		半	3.0	車能學位學程（學）	HU76		Thermo-Dynamics (I)	是	2	5	50	必		N	1354	陳韋任	二 2-4 和平 汽車工場B101	
 114	1	10	-5	自動控制			22	27		VEU0014		半	3.0	車能學位學程（學）	HU76		Automatic Control Engineering		3	5	50	必		N	1355	陳美勇	四 6-8 和平 汽車工場B101	
 114	1	10	-1	專題研究（一）			27	28		VEU0069		半	2.0	車能學位學程（學）	HU76		Special Topics (I)	是	3	0	50	必		N	1356	洪翊軒 陳韋任 白凱仁 張俊興 劉華棟 林煜軒	六 6-7 和平 汽車工場B101	
 114	1	10	-1	幾何光學	9		20	21		OEC9001		半	3.0	光電學位學程（學）	HU77		Geometrical Optics			5	50	必		N	1357	邱爾德	一 2-4 公館 Ｓ407	
@@ -1635,7 +1635,7 @@
 114	1	10	-2	社會語言學研討	8	The classroom is located on the 2nd floor of Yunhe Building (Address: No. 1 Yunhe Street). Students from other departments and universities will need to request building access.	3	5		ENC2061		半	3.0	英語系（碩）	LM21		Studies in Sociolinguistics	是		1	50	選	◎必須先修過【ENC2026  社會語言學】 ◎課程不開放上修	N	1650	蘇席瑤	一 7-9 和平 雲201	
 114	1	10	0	語言測驗與評量	8		4	4		ENC3029		半	3.0	英語系（碩）	LM21		Language Testing and Measurement	是		1	50	選	◎課程不開放上修	N	1651	張武昌	三 7-9 和平 誠701B	
 114	1	10	-3	英語科課程設計與教材評估	8		17	20		ENC3033		半	3.0	英語系（碩）	LM21		EFL Course Design and Evaluation of Teaching Materials	是		1	50	選	◎課程不開放上修	N	1652	曾琦芬	二 7-9 和平 誠701B	
-114	1	10	-2	外語習得	8		17	19		ENC3035		半	3.0	英語系（碩）	LM21		Second/Foreign Language Acquisition	是		1	50	選	◎課程不開放上修	N	1653	劉宇挺	一 2-4 和平 誠701A	
+114	1	10	-2	外語習得	8		16	18		ENC3035		半	3.0	英語系（碩）	LM21		Second/Foreign Language Acquisition	是		1	50	選	◎課程不開放上修	N	1653	劉宇挺	一 2-4 和平 誠701A	
 114	1	10	-2	閱讀與寫作教學：理論與實務	8		18	20		ENC3038		半	3.0	英語系（碩）	LM21		Teaching Reading and Writing in ESL/EFL Contexts	是		1	50	選	◎課程不開放上修	N	1654	陳秋蘭	三 2-4 和平 誠701A	
 114	1	10	-5	歷史學研究法（一）		本課程為碩二必修課程，碩二以下勿修習。	17	22		HIM0133		半	2.0	歷史系（碩）	LM22		Seminar in Research Methods of Historiography (I)			0	50	必	◎課程不開放上修	N	1655	楊彥彬	一 3-4 和平 歷史系研究生第1教室	
 114	1	10	0	隋唐史專題研究	8		5	5		HIC0021		半	3.0	歷史系（碩）	LM22		Special Topics in Sui,Tang History			3	50	選	◎課程不開放上修	N	1656	陳登武	三 3-5 和平 歷史系研究生第2教室	
@@ -1814,7 +1814,7 @@
 114	1	10	-1	英語聽講（一）	1		0	1		ENU0279		半	2.0	英語系（學）	LU21		Basic Aural-Oral Training in English (I)	是	1	0	40	選	◎限本系(含雙主修)修習◎限大一修習	N	1830	許月貴	一 6-7 和平 誠701B	
 114	1	10	-4	英語聽講（一）	2		0	4		ENU0279		半	2.0	英語系（學）	LU21		Basic Aural-Oral Training in English (I)	是	1	0	40	選	◎限本系(含雙主修)修習◎限大一修習	N	1831	吳靜蘭	一 6-7 和平 誠701A	
 114	1	10	-4	女性文學			10	14		ENU0146		半	3.0	英語系（學）	LU21		Literature by Women	是	2	0	50	選		N	1832	戴宇呈	三 6-8 和平 誠304	
-114	1	10	-6	英語教學概論 </br>[ 學分學程：科技化教學產業學程 ]		建議修習輔系第一年時選修	31	37		ENU0150	A	半	2.0	英語系（學）	LU21		Introduction to TEFL </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1833	李宜倩	四 6-7 和平 誠304	
+114	1	10	-6	英語教學概論 </br>[ 學分學程：科技化教學產業學程 ]		建議修習輔系第一年時選修	30	36		ENU0150	A	半	2.0	英語系（學）	LU21		Introduction to TEFL </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1833	李宜倩	四 6-7 和平 誠304	
 114	1	10	-8	英語教學概論 </br>[ 學分學程：科技化教學產業學程 ]		建議修習輔系第一年時選修	37	45		ENU0150	B	半	2.0	英語系（學）	LU21		Introduction to TEFL </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1834	劉宇挺	一 6-7 和平 誠304	
 114	1	10	-15	英語教學概論 </br>[ 學分學程：科技化教學產業學程 ]		建議修習輔系第一年時選修	34	49		ENU0150	C	半	2.0	英語系（學）	LU21		Introduction to TEFL </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1835	羅美蘭	二 3-4 和平 誠304	
 114	1	10	-5	英語字根研究			22	27		ENU0205		半	3.0	英語系（學）	LU21		Classical Roots in English	是	2	1	50	選		N	1836	陳乃嫻	一 2-4 和平 正302	
@@ -1834,7 +1834,7 @@
 114	1	10	-3	談判英文與溝通			17	20		ENU0343		半	3.0	英語系（學）	LU21		English for Negotiation and Communication	是	2	0	50	選		N	1851	孔繁偉	二 6-8 和平 正305	
 114	1	10	-36	文法與修辭 </br>[ 學分學程：科技化教學產業學程 ]			50	86		ENU6025	A	半	3.0	英語系（學）	LU21		Grammar & Rhetoric </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1852	丁仁	五 3-5 和平 誠305	
 114	1	10	-9	文法與修辭 </br>[ 學分學程：科技化教學產業學程 ]		建議修習輔系第一年時選修	14	23		ENU6025	B	半	3.0	英語系（學）	LU21		Grammar & Rhetoric </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1853	丁仁	五 6-8 和平 誠305	
-114	1	0	-13	英語演講：演說技巧	1		28	41		ENU0217	A	半	2.0	英語系（學）	LU21		Public Speaking: Speech	是	2	0	30	必	◎必須先修過【ENU0269  英語會話（一）】、【ENU0270  英語會話（二）】	N	1854	孔繁偉	四 8-9 和平 正306	
+114	1	0	-13	英語演講：演說技巧	1		27	40		ENU0217	A	半	2.0	英語系（學）	LU21		Public Speaking: Speech	是	2	0	30	必	◎必須先修過【ENU0269  英語會話（一）】、【ENU0270  英語會話（二）】	N	1854	孔繁偉	四 8-9 和平 正306	
 114	1	0	-14	英語演講：演說技巧	1		8	22		ENU0217	B	半	2.0	英語系（學）	LU21		Public Speaking: Speech	是	2	0	30	必	◎必須先修過【ENU0269  英語會話（一）】、【ENU0270  英語會話（二）】	N	1855	曾思旭	四 8-9 和平 正304	
 114	1	10	-11	語言學概論（一） </br>[ 學分學程：客語學程 科技化教學產業學程 ]	1	建議大二以上選修	50	61		ENU0259		半	2.0	英語系（學）	LU21		Introduction to Linguistics (I) </br>[ Program: The Program of Hakka Language and Culture The Program of Technology-assisted Teaching Industry ]	是	2	3	50	必		N	1856	李臻儀	一 6-7 和平 誠305	
 114	1	10	-13	英國文學：中古時期至十八世紀（一）	1		47	60		ENU0291		半	2.0	英語系（學）	LU21		English Literature: Medieval Period to the Eighteenth Century (I)	是	2	0	50	選		N	1857	楊志偉	一 8-9 和平 誠304	
@@ -2430,9 +2430,9 @@
 114	1	20	-13	統計學（一）		企管系大二學生學號末碼為單數號請選修統計學(一)A班;末碼為雙數號請選修統計學(一)B班。非企管系欲加修本課程的學生，可用線上選課和利用授課碼選課方式，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。	57	70		BAU0040	A	半	3.0	企管系（學）	OU57		Statistics (I)		2	0	60	必		N	2452	邱皓政	二 2-4 和平 誠102	
 114	1	20	-11	統計學（一）		企管系大二學生學號末碼為單數號請選修統計學(一)A班;末碼為雙數號請選修統計學(一)B班。非企管系欲加修本課程的學生，可用線上選課和利用授課碼選課方式，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。	57	68		BAU0040	B	半	3.0	企管系（學）	OU57		Statistics (I)		2	0	60	必		N	2453	邱皓政	二 7-9 和平 誠108	
 114	1	10	-5	策略管理 </br>[ 學分學程：社團領導學程 ]		企管系大三學生學號末碼為單數號請選修策略管理A班;末碼為雙數號請選修策略管理B班。非企管系欲加修本課程的學生，可用線上選課和利用授課碼選課方式，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。	34	39		BAU0010	A	半	3.0	企管系（學）	OU57		Strategic Management </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]		3	0	60	必	◎必須先修過【BAU0048  企業管理概論】、【BAU0021  行銷管理】	N	2454	徐景輝 康敏平	一 7-9 和平 誠201	
-114	1	10	-8	策略管理 </br>[ 學分學程：社團領導學程 ]		企管系大三學生學號末碼為單數號請選修策略管理A班;末碼為雙數號請選修策略管理B班。非企管系欲加修本課程的學生，可用線上選課和利用授課碼選課方式，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。	33	41		BAU0010	B	半	3.0	企管系（學）	OU57		Strategic Management </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]		3	0	60	必	◎必須先修過【BAU0048  企業管理概論】、【BAU0021  行銷管理】	N	2455	徐景輝 康敏平	二 7-9 和平 樸306	
+114	1	10	-8	策略管理 </br>[ 學分學程：社團領導學程 ]		企管系大三學生學號末碼為單數號請選修策略管理A班;末碼為雙數號請選修策略管理B班。非企管系欲加修本課程的學生，可用線上選課和利用授課碼選課方式，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。	32	40		BAU0010	B	半	3.0	企管系（學）	OU57		Strategic Management </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]		3	0	60	必	◎必須先修過【BAU0048  企業管理概論】、【BAU0021  行銷管理】	N	2455	徐景輝 康敏平	二 7-9 和平 樸306	
 114	1	20	-10	作業管理		企管系大三學生學號末碼為單數號請選修作業管理A班;末碼為雙數號請選修作業管理B班。非企管系欲加修本課程的學生，可用線上選課和利用授課碼選課方式，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。	51	61		BAU0018	A	半	3.0	企管系（學）	OU57		Operations Management		3	0	60	必	◎必須先修過【BAU0040  統計學（一）】、【BAU0041  統計學（二）】	N	2456	吳彥濬 鍾震耀	一 2-4 和平 樸205	
-114	1	10	-8	作業管理		企管系大三學生學號末碼為單數號請選修作業管理A班;末碼為雙數號請選修作業管理B班。非企管系欲加修本課程的學生，可用線上選課和利用授課碼選課方式，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。	29	37		BAU0018	B	半	3.0	企管系（學）	OU57		Operations Management		3	0	50	必	◎必須先修過【BAU0040  統計學（一）】、【BAU0041  統計學（二）】	N	2457	吳彥濬 鍾震耀	一 6-8 和平 樸306	
+114	1	10	-8	作業管理		企管系大三學生學號末碼為單數號請選修作業管理A班;末碼為雙數號請選修作業管理B班。非企管系欲加修本課程的學生，可用線上選課和利用授課碼選課方式，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。	28	36		BAU0018	B	半	3.0	企管系（學）	OU57		Operations Management		3	0	50	必	◎必須先修過【BAU0040  統計學（一）】、【BAU0041  統計學（二）】	N	2457	吳彥濬 鍾震耀	一 6-8 和平 樸306	
 114	1	10	0	體育（適應體育）		因傷病等因素無法上一般體育課之學生，請於開學兩週內至健康中心辦理適應體育班申請手續。	0	0		00UP003		半	1.0	普通體育	PE		Physical Education (Adapted Physical Education)			0	50	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選允許重複修	N	2458	王重引	三 3-4 和平 大韻律教室	
 114	1	5	-5	體育（國術）			9	14		00UP013	A	半	1.0	普通體育	PE		Physical Education (Kou Shu)			0	50	必	允許重複修	N	2459	陳慶鴻	五 1-2 和平 大韻律教室	
 114	1	5	-7	體育（國術）			9	16		00UP013	B	半	1.0	普通體育	PE		Physical Education (Kou Shu)			0	50	必	允許重複修	N	2460	陳慶鴻	五 3-4 和平 大韻律教室	
@@ -2483,7 +2483,7 @@
 114	1	5	-33	體育（羽球初級）			34	67		00UP109	B	半	1.0	普通體育	PE		Physical Education (Beginning Badminton)			0	50	必	允許重複修	N	2505	楊琇惟	三 6-7 和平 體育館一4F	
 114	1	5	-36	體育（羽球初級）			34	70		00UP109	C	半	1.0	普通體育	PE		Physical Education (Beginning Badminton)	是		0	50	必	允許重複修	N	2506	蔡虔祿	三 8-9 和平 體育館一4F	
 114	1	3	-10	體育（羽球初級）			20	30		00UP109	D	半	1.0	普通體育	PE		Physical Education (Beginning Badminton)			0	30	必	允許重複修	N	2507	徐孟達	四 3-4 公館 中正堂	
-114	1	3	-15	體育（羽球初級）			21	36		00UP109	E	半	1.0	普通體育	PE		Physical Education (Beginning Badminton)			0	30	必	允許重複修	N	2508	鄭筱澐	五 1-2 公館 中正堂	
+114	1	3	-15	體育（羽球初級）			20	35		00UP109	E	半	1.0	普通體育	PE		Physical Education (Beginning Badminton)			0	30	必	允許重複修	N	2508	鄭筱澐	五 1-2 公館 中正堂	
 114	1	3	-19	體育（羽球初級）			22	41		00UP109	F	半	1.0	普通體育	PE		Physical Education (Beginning Badminton)			0	30	必	允許重複修	N	2509	鄭筱澐	五 3-4 公館 中正堂	
 114	1	5	-26	體育（羽球初級）			36	62		00UP109	G	半	1.0	普通體育	PE		Physical Education (Beginning Badminton)			0	50	必	允許重複修	N	2510	潘光敏	五 8-9 和平 體育館一4F	
 114	1	3	-13	體育（羽球初級）			22	35		00UP109	H	半	1.0	普通體育	PE		Physical Education (Beginning Badminton)			0	30	必	允許重複修	N	2511	徐孟達	四 6-7 公館 中正堂	
@@ -2510,7 +2510,7 @@
 114	1	5	-2	體育（太極拳初級）			3	5		00UP121	B	半	1.0	普通體育	PE		Physical Education (Beginning Tai Chi Chuan)			3	50	必	允許重複修	N	2533	黃長福	二 3-4 和平 大韻律教室	
 114	1	5	-4	體育（太極拳初級）			12	16		00UP121	C	半	1.0	普通體育	PE		Physical Education (Beginning Tai Chi Chuan)			0	50	必	允許重複修	N	2534	張耀庭	四 1-2 和平 武術房一	
 114	1	5	-4	體育（太極拳初級）			14	18		00UP121	D	半	1.0	普通體育	PE		Physical Education (Beginning Tai Chi Chuan)			0	50	必	允許重複修	N	2535	張耀庭	四 3-4 和平 武術房一	
-114	1	5	-6	體育（太極拳初級）			24	30		00UP121	E	半	1.0	普通體育	PE		Physical Education (Beginning Tai Chi Chuan)			0	50	必	允許重複修	N	2536	張耀庭	四 6-7 和平 武術房一	
+114	1	5	-6	體育（太極拳初級）			23	29		00UP121	E	半	1.0	普通體育	PE		Physical Education (Beginning Tai Chi Chuan)			0	50	必	允許重複修	N	2536	張耀庭	四 6-7 和平 武術房一	
 114	1	5	-3	體育（跆拳道初級）			14	17		00UP129		半	1.0	普通體育	PE		Physical Education (Beginning Taekwondo)			0	50	必	允許重複修	N	2537	黃珮昀	四 6-7 公館 體育館二1樓	
 114	1	5	-10	體育（體操遊戲初級）			34	44		00UP132	A	半	1.0	普通體育	PE		Physical Education (Beginning Playing Gymnastics)			0	45	必	允許重複修	N	2538	麥劉湘涵	三 6-7 和平 體操房	
 114	1	5	-15	體育（體操遊戲初級）			32	47		00UP132	B	半	1.0	普通體育	PE		Physical Education (Beginning Playing Gymnastics)			0	45	必	允許重複修	N	2539	麥劉湘涵	四 3-4 和平 體操房	
@@ -2564,7 +2564,7 @@
 114	1	10	0	數學教育研究專題（一）			1	1		MAM0097		半	2.0	數學系（碩）	SM40		Topics in Mathematics Education Research (I)			0	50	必	◎課程開放上修	N	2587	謝豐瑞 楊凱琳 王婷瑩	三 8-9 公館 數學館M212	
 114	1	10	-1	數學教育研究專題（二）			5	6		MAM0098		半	2.0	數學系（碩）	SM40		Topics in Mathematics Education Research (II)			0	50	必	◎課程開放上修	N	2588	謝豐瑞 楊凱琳 王婷瑩	三 9-10 公館 數學館M211	
 114	1	10	-1	數學教育研究設計（一）	8		2	3		MAC0027		半	3.0	數學系（碩）	SM40		Research Methodology in Mathematics Education (I)			0	50	選	◎課程開放上修	N	2589	謝豐瑞	一 7-9 公館 數學館M211	
-114	1	10	0	解析數論（一）	8		2	2		MAC0077		半	3.0	數學系（碩）	SM40		Analytic Number Theory (I)			5	50	選	◎課程開放上修	N	2590	許志農	三 10 公館 數學館M311, 四 9-10 公館 數學館M311	
+114	1	10	0	解析數論（一）	8		1	1		MAC0077		半	3.0	數學系（碩）	SM40		Analytic Number Theory (I)			5	50	選	◎課程開放上修	N	2590	許志農	三 10 公館 數學館M311, 四 9-10 公館 數學館M311	
 114	1	10	0	優選理論專題（一）	8		2	2		MAC0081		半	3.0	數學系（碩）	SM40		Topics in Optimization Theory (I)	是		5	50	選	◎課程開放上修	N	2591	陳界山	二 6-8 公館 數學館M212	
 114	1	10	-2	數學課程發展研究專題（二）　	8		3	5		MAC0105		半	3.0	數學系（碩）	SM40		Topics in Development of Mathematical Curriculum (II)			0	50	選	◎課程開放上修	N	2592	王婷瑩	二 2-4 公館 數學館M311	
 114	1	10	0	數學師資訓練（一）	8		1	1		MAC0169		半	3.0	數學系（碩）	SM40		Mathematics Teacher Education(I)			0	50	選	◎課程開放上修	N	2593	林福來 楊凱琳	一 7-9 公館 數學館M417	
@@ -2585,7 +2585,7 @@
 114	1	10	-4	廣義相對論（一） </br>[ 學分學程：天文重力學程 ]	8		7	11		PHC0114		半	3.0	物理系（碩）	SM41		General Relativity (I) </br>[ Program: The Program of  Astronomy and Gravitation ]	是		3	50	選	◎課程開放上修	N	2608	卜宏毅	五 2-4 公館 Ｓ701	
 114	1	10	-3	二維量子材料特論（一）	8		4	7		PHC8030		半	3.0	物理系（碩）	SM41		Topics on Two Dimensional Quantum Materials (I)	是		3	50	選	◎課程開放上修	N	2609	藍彥文	二 6-8 公館 Ｓ701	
 114	1	10	0	第一原理計算在固態物理的應用	8		2	2		PHC8046		半	1.0	物理系（碩）	SM41		Quantum Espresso Course for Solid-State Physics	是		3	50	選	◎課程開放上修	N	2610	齋藤理一郎	◎密集課程	
-114	1	10	-1	書報討論（一）			14	15		CMM0001	A	半	2.0	化學系（碩）	SM42		Seminar (I)			0	40	選	允許重複修 ◎課程不開放上修	N	2611	林文偉	三 3-4 公館 Ｓ401	
+114	1	10	-1	書報討論（一）			13	14		CMM0001	A	半	2.0	化學系（碩）	SM42		Seminar (I)			0	40	選	允許重複修 ◎課程不開放上修	N	2611	林文偉	三 3-4 公館 Ｓ401	
 114	1	10	-2	書報討論（一）			8	10		CMM0001	B	半	2.0	化學系（碩）	SM42		Seminar (I)			0	40	選	允許重複修 ◎課程不開放上修	N	2612	謝明惠	三 3-4 公館 Ｃ102	
 114	1	10	0	書報討論（一）			6	6		CMM0001	C	半	2.0	化學系（碩）	SM42		Seminar (I)			0	40	選	允許重複修 ◎課程不開放上修	N	2613	王禎翰	三 3-4 公館 Ｃ107	
 114	1	10	0	書報討論（一）			10	10		CMM0001	D	半	2.0	化學系（碩）	SM42		Seminar (I)			0	40	選	允許重複修 ◎課程不開放上修	N	2614	李君婷	三 3-4 公館 Ｓ403	
@@ -2595,7 +2595,7 @@
 114	1	10	0	高等無機化學（一）	8		1	1		CMC0019		半	3.0	化學系（碩）	SM42		Advanced Inorganic Chemistry (I)			0	40	選	◎課程開放上修	N	2619	謝明惠	二 2-4 公館 Ｃ105	
 114	1	10	0	高等分析化學（一）	8		4	4		CMC0029		半	3.0	化學系（碩）	SM42		Advanced analytical chemistry (I)			0	40	選	◎課程不開放上修	N	2620	陳頌方	三 7-9 公館 Ｃ105	
 114	1	7	-3	現代化學專論（一）	8		3	6		CMC8002	A	半	1.0	化學系（碩）	SM42		Seminar on Contemporary Chemistry (I)			0	180	選	允許重複修 ◎課程開放上修	N	2621	劉沂欣	一 7 公館 Ｅ302	
-114	1	7	-11	現代化學專論（一）	8		62	73		CMC8002	B	半	1.0	化學系（碩）	SM42		Seminar on Contemporary Chemistry (I)			0	180	選	允許重複修 ◎課程開放上修	N	2622	李祐慈	一 8 公館 Ｅ302	
+114	1	7	-11	現代化學專論（一）	8		61	72		CMC8002	B	半	1.0	化學系（碩）	SM42		Seminar on Contemporary Chemistry (I)			0	180	選	允許重複修 ◎課程開放上修	N	2622	李祐慈	一 8 公館 Ｅ302	
 114	1	3	-1	配位分子科技	8		3	4		CMC8004		半	3.0	化學系（碩）	SM42		Coordination Molecular Technology	是		0	37	選	◎課程開放上修	N	2623	今野巧	四 7-9 公館 理圖802	
 114	1	10	-1	新興化學科技探究（一）	8		2	3		CMC8005		半	1.0	化學系（碩）	SM42		The Exploration of Emerging Chemical Technology (I)	是		0	40	選	允許重複修 ◎課程開放上修	N	2624	黎重義	一 7 公館 教室自排	
 114	1	10	-1	專題討論			3	4		BIM0123	A	半	2.0	生科系（碩）	SM43		Seminar			0	50	必	允許重複修 ◎課程不開放上修	N	2625	趙怡姍	五 3-4 公館 Ｅ202	
@@ -2793,10 +2793,10 @@
 114	1	10	-1	化學數學			74	75		CMU0020		半	3.0	化學系（學）	SU42		Mathematics for Chemistry			0	100	選		N	2818	王禎翰	四 2-4 公館 Ｅ302	
 114	1	10	-19	有機光譜學 </br>[ 學分學程：太陽能源與工程學程 ]			100	119		CMU0055		半	3.0	化學系（學）	SU42		Organic Spectroscopy </br>[ Program: The Program of Solar Energy Engineering ]			0	100	選		N	2819	姚清發	一 1 公館 Ｅ302, 二 1 公館 Ｅ302, 四 1 公館 Ｅ302	
 114	1	10	-12	高分子化學			49	61		CMU0077		半	3.0	化學系（學）	SU42		Polymer Chemistry			0	80	選		N	2820	許貫中	五 2-4 公館 Ｅ101	
-114	1	10	0	普通化學實驗（一）		預先帶入地科系二年級生	40	40		CMU0131	D	半	1.0	化學系（學）	SU42		General Chemistry Laboratory(I)			0	40	必	◎限外系修習	N	2821	陳頌方	四 2-4 公館 Ｄ407	
+114	1	10	0	普通化學實驗（一）		預先帶入地科系二年級生	39	39		CMU0131	D	半	1.0	化學系（學）	SU42		General Chemistry Laboratory(I)			0	40	必	◎限外系修習	N	2821	陳頌方	四 2-4 公館 Ｄ407	
 114	1	10	-9	有機化學（一） </br>[ 學分學程：台積電半導體學程 ]			89	98		CMU0137		半	3.0	化學系（學）	SU42		Organic Chemistry(I) </br>[ Program: NTNU and TSMC Semiconductor Program ]			0	100	必		N	2822	簡敦誠	一 3-4 公館 Ｅ302, 三 6 公館 Ｅ302	
 114	1	10	0	儀器分析實驗（一）			6	6		CMU0161		半	2.0	化學系（學）	SU42		Instrumental Analysis Laboratory (I)			0	40	選		N	2823	李君婷	四 6-9 公館 Ｄ401	
-114	1	10	-7	普通化學甲（一） </br>[ 學分學程：台積電半導體學程 ]		預先帶入地科系二年級生	55	62		CMU0176	B	半	3.0	化學系（學）	SU42		General Chemistry A (I) </br>[ Program: NTNU and TSMC Semiconductor Program ]			0	70	必	◎限外系修習	N	2824	王彥士	二 7-9 公館 Ｂ103	
+114	1	10	-7	普通化學甲（一） </br>[ 學分學程：台積電半導體學程 ]		預先帶入地科系二年級生	54	61		CMU0176	B	半	3.0	化學系（學）	SU42		General Chemistry A (I) </br>[ Program: NTNU and TSMC Semiconductor Program ]			0	70	必	◎限外系修習	N	2824	王彥士	二 7-9 公館 Ｂ103	
 114	1	10	-11	有機化學實驗技術（一）			73	84		CMU0179		半	1.0	化學系（學）	SU42		Organic Chemistry Laboratory Techniques (I)			0	90	選		N	2825	簡敦誠 吳學亮 杜玲嫻	一 2 公館 Ｅ302	
 114	1	10	-1	科學文獻探討（一）			7	8		CMU0190	A	半	2.0	化學系（學）	SU42		Scientific Literature Study (I)			0	50	選		N	2826	劉沂欣	二 3-4 公館 Ｓ401	
 114	1	10	-3	科學文獻探討（一）			25	28		CMU0190	B	半	2.0	化學系（學）	SU42		Scientific Literature Study (I)			0	50	選		N	2827	劉沂欣	四 3-4 公館 Ｓ401	
@@ -2837,7 +2837,7 @@
 114	1	10	-7	物理化學－熱力學 </br>[ 學分學程：台積電半導體學程 ]			83	90		CMU0184		半	3.0	化學系（學）	SU42		Physical Chemistry- Thermodynamics </br>[ Program: NTNU and TSMC Semiconductor Program ]		3	0	100	必		N	2863	王迪彥	二 7-9 公館 Ｅ302	
 114	1	10	-5	保育生物學導論			38	43		BIU0088		半	3.0	生科系（學）	SU43		Introduction to Conservation Biology			0	60	選		N	2864	林思民	五 6-8 公館 理圖001	
 114	1	10	-2	普通生物學乙			4	6		BIU0170		半	3.0	生科系（學）	SU43		General Biology B			0	50	選		N	2865	林炎壽	二 7-9 公館 Ｅ202	
-114	1	10	-2	普通生物學實驗甲（一）			10	12		BIU0172		半	1.0	生科系（學）	SU43		General Biology Laboratory A (I)			1	30	必		N	2866	孫智雯 李明忠	一 10-B 公館 Ｄ205	
+114	1	10	-2	普通生物學實驗甲（一）			9	11		BIU0172		半	1.0	生科系（學）	SU43		General Biology Laboratory A (I)			1	30	必		N	2866	孫智雯 李明忠	一 10-B 公館 Ｄ205	
 114	1	10	-2	普通生物學實驗乙			2	4		BIU0174		半	1.0	生科系（學）	SU43		General Biology Laboratory B			0	30	選		N	2867	李明忠	三 10-B 公館 Ｄ205	
 114	1	10	-5	發育生物學	9		28	33		BIC0123		半	3.0	生科系（學）	SU43		Developmental Biology			0	50	選		N	2868	王慈蔚	二 6-8 公館 Ｃ302	
 114	1	10	-7	森林生態學 </br>[ 學分學程：環境人文學程 環境監測學程 ]	9		20	27		BIC0170		半	3.0	生科系（學）	SU43		Forest Ecology </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU The Program of Environmental Monitoring and Disaster Mitigation ]	是		0	50	選		N	2869	林登秋	一 6-8 公館 Ｃ302	
@@ -2860,8 +2860,8 @@
 114	1	10	-5	微生物學實驗			17	22		BIU0184		半	1.0	生科系（學）	SU43		Microbiology Laboratory		2	0	30	選		N	2887	李明忠	四 8-10 公館 Ｄ203	
 114	1	10	-2	昆蟲學	1		21	23		BIU0037		半	2.0	生科系（學）	SU43		Entomology		2	5	50	選		N	2888	徐堉峰	四 3-4 公館 Ｓ302	
 114	1	10	-4	遺傳學	1		38	42		BIU0044		半	3.0	生科系（學）	SU43		Genetics		2	0	50	必	◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0170  普通生物學乙】其中一門	N	2889	蘇銘燦 廖培鈞 陳怡辰	二 2-4 公館 Ｅ201	
-114	1	10	-5	生物化學	2		39	44		BIU0143		半	4.0	生科系（學）	SU43		Biochemistry		2	0	60	必	◎必須先修過【BIU0008  有機化學】、【CMU0178  普通化學乙】、【NSU0004  有機化學】其中一門	N	2890	蘇銘燦 李冠群	二 6-9 公館 Ｅ201	
-114	1	10	-2	生物化學實驗	2		26	28		BIU0144		半	2.0	生科系（學）	SU43		Biochemistry Laboratory		2	0	30	必	◎必須先修過【BIU0008  有機化學】、【CMU0178  普通化學乙】、【NSU0004  有機化學】其中一門	N	2891	蘇銘燦 李冠群	一 8-A 公館 Ｄ313	
+114	1	10	-5	生物化學	2		37	42		BIU0143		半	4.0	生科系（學）	SU43		Biochemistry		2	0	60	必	◎必須先修過【BIU0008  有機化學】、【CMU0178  普通化學乙】、【NSU0004  有機化學】其中一門	N	2890	蘇銘燦 李冠群	二 6-9 公館 Ｅ201	
+114	1	10	-2	生物化學實驗	2		25	27		BIU0144		半	2.0	生科系（學）	SU43		Biochemistry Laboratory		2	0	30	必	◎必須先修過【BIU0008  有機化學】、【CMU0178  普通化學乙】、【NSU0004  有機化學】其中一門	N	2891	蘇銘燦 李冠群	一 8-A 公館 Ｄ313	
 114	1	10	-1	植物生理學實驗			5	6		BIU0014		半	2.0	生科系（學）	SU43		Plant Physiology Laboratory		3	0	30	選	◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】◎必須先修過(也可以同時修)【BIU0143  生物化學】	N	2892	孫智雯	二 7-10 公館 Ｄ313	
 114	1	10	-4	生態學 </br>[ 學分學程：環境人文學程 環境監測學程 空間學程 ]			36	40		BIU0046		半	3.0	生科系（學）	SU43		Ecology </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU The Program of Environmental Monitoring and Disaster Mitigation The Program of Geospatial Information Science ]	是	3	1	60	選		N	2893	周均珈	二 2-4 公館 Ｓ504	
 114	1	10	-9	生物資訊學導論			51	60		BIU0155		半	3.0	生科系（學）	SU43		Introduction to Bioinformatics		3	0	60	選		N	2894	沈林琥	四 A-C 公館 理圖807	
@@ -2895,7 +2895,7 @@
 114	1	20	0	地球科學概論（含實習） </br>[ 學分學程：環境監測學程 ]			0	0		ESU0177		半	2.0	地科系（學）	SU44		Introduction to Earth Science (including Lab.) </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation ]		1	3	50	選	◎限大一修習	N	2922	葉庭光	二 6-7 公館 Ｓ101	
 114	1	10	-1	普通地質學（含實習） </br>[ 學分學程：環境監測學程 ]			0	1		ESU0180		半	3.0	地科系（學）	SU44		Physical Geology (including Lab.) </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation ]		1	2	50	必	◎限本系(含雙主修)修習◎限大一修習	N	2923	葉恩肇 賴昱銘	五 6-8 公館 Ｅ302	
 114	1	20	-1	地球物理通論（含實習）			0	1		ESU0184		半	3.0	地科系（學）	SU44		Introduction to Geophysics (including Lab.)		1	5	50	必	◎限本系(含雙主修)修習◎限大一修習	N	2924	陳卉瑄 林佩瑩	五 2-4 公館 理圖003	
-114	1	10	-11	應用數學（一）			50	61		ESU0023		半	3.0	地科系（學）	SU44		Applied Mathematics (I)		2	0	50	必		N	2925	陳慧如	二 2-4 公館 Ｅ202	
+114	1	10	-11	應用數學（一）			49	60		ESU0023		半	3.0	地科系（學）	SU44		Applied Mathematics (I)		2	0	50	必		N	2925	陳慧如	二 2-4 公館 Ｅ202	
 114	1	0	-1	星系天文學 </br>[ 學分學程：天文重力學程 ]			22	23		ESU0194		半	3.0	地科系（學）	SU44		Galaxies </br>[ Program: The Program of  Astronomy and Gravitation ]		2	5	50	選		N	2926	陳林文	五 7-9 公館 Ｂ413天文實習室	
 114	1	10	-4	大氣觀測（含實習） </br>[ 學分學程：太陽能源與工程學程 ]			24	28		ESU0199		半	3.0	地科系（學）	SU44		Atmospheric Observations (including Lab.) </br>[ Program: The Program of Solar Energy Engineering ]		2	3	50	選		N	2927	曾莉珊	一 2-4 公館 Ｃ409	
 114	1	10	-2	行星科學導論			14	16		ESU0216		半	3.0	地科系（學）	SU44		Introduction to Planetary Science		2	10	50	選		N	2928	曾瑋玲	五 2-4 公館 Ｓ407	
@@ -2940,11 +2940,11 @@
 114	1	10	-1	食物學實驗		臺大系統雙主修或輔系學生請與授課老師取得授權碼選課。	0	1		NSU0002		半	1.0	營養學位學程（學）	SU51		Foods Laboratory		1	0	30	必	◎限本系(含雙主修)修習◎限大一修習	N	2967	蔡帛蓉	三 9-A 和平 勤001	
 114	1	10	-1	食物製備原理		臺大系統雙主修或輔系學生請與授課老師取得授權碼選課。	0	1		NSU0026		半	1.0	營養學位學程（學）	SU51		Principles of Food Preparation		1	0	30	選	◎限本系(含雙主修)修習◎限大一修習	N	2968	沈賜川	一 6 和平 勤001	
 114	1	10	-1	食物製備實驗		臺大系統雙主修或輔系學生請與授課老師取得授權碼選課。	0	1		NSU0045		半	1.0	營養學位學程（學）	SU51		Food Preparation Laboratory		1	0	30	選	◎限本系(含雙主修)修習◎限大一修習	N	2969	沈賜川	一 7-9 和平 勤001	
-114	1	10	-7	營養學（二）		臺大系統雙主修或輔系學生請與授課老師取得授權碼選課。	35	42		NSU0007		半	2.0	營養學位學程（學）	SU51		Nutritional Science (II)		2	0	50	必	◎必須先修過【NSU0006  營養學（一）】	N	2970	吳啟豪	二 3-4 公館 Ｓ403	
-114	1	10	-9	營養學實驗			22	31		NSU0008		半	1.0	營養學位學程（學）	SU51		Nutrition Laboratory		2	0	40	必	◎必須先修過【NSU0003  人體生理學】、【NSU0004  有機化學】	N	2971	吳啟豪	一 2-4 和平 勤001	
-114	1	10	-6	生物化學			23	29		NSU0009		半	3.0	營養學位學程（學）	SU51		Biochemistry		2	0	60	必	◎必須先修過【NSU0004  有機化學】、【CMU0178  普通化學乙】	N	2972	蘇銘燦 陳晶	一 6-8 公館 理圖002	
-114	1	10	-6	生物化學實驗			26	32		NSU0010		半	2.0	營養學位學程（學）	SU51		Biochemistry Laboratory		2	0	30	必	◎必須先修過【CMU0178  普通化學乙】、【NSU0004  有機化學】	N	2973	蘇銘燦 陳晶	五 6-9 公館 Ｄ313	
-114	1	10	-5	食品衛生與安全			36	41		NSU0014		半	3.0	營養學位學程（學）	SU51		Food Sanitation and Safety		2	0	50	必		N	2974	蔡帛蓉	四 6-8 公館 Ｓ403	
+114	1	10	-7	營養學（二）		臺大系統雙主修或輔系學生請與授課老師取得授權碼選課。	32	39		NSU0007		半	2.0	營養學位學程（學）	SU51		Nutritional Science (II)		2	0	50	必	◎必須先修過【NSU0006  營養學（一）】	N	2970	吳啟豪	二 3-4 公館 Ｓ403	
+114	1	10	-9	營養學實驗			20	29		NSU0008		半	1.0	營養學位學程（學）	SU51		Nutrition Laboratory		2	0	40	必	◎必須先修過【NSU0003  人體生理學】、【NSU0004  有機化學】	N	2971	吳啟豪	一 2-4 和平 勤001	
+114	1	10	-6	生物化學			21	27		NSU0009		半	3.0	營養學位學程（學）	SU51		Biochemistry		2	0	60	必	◎必須先修過【NSU0004  有機化學】、【CMU0178  普通化學乙】	N	2972	蘇銘燦 陳晶	一 6-8 公館 理圖002	
+114	1	10	-6	生物化學實驗			23	29		NSU0010		半	2.0	營養學位學程（學）	SU51		Biochemistry Laboratory		2	0	30	必	◎必須先修過【CMU0178  普通化學乙】、【NSU0004  有機化學】	N	2973	蘇銘燦 陳晶	五 6-9 公館 Ｄ313	
+114	1	10	-5	食品衛生與安全			34	39		NSU0014		半	3.0	營養學位學程（學）	SU51		Food Sanitation and Safety		2	0	50	必		N	2974	蔡帛蓉	四 6-8 公館 Ｓ403	
 114	1	10	-2	基礎營養實習 </br>[ 學分學程：高齡學程 ]			31	33		NSU0036		半	1.0	營養學位學程（學）	SU51		Basic practice in nutrition </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]		2	0	50	選	◎必須先修過【NSU0001  食物學】	N	2975	洪永瀚	二 6-8 公館 Ｓ403	
 114	1	10	-3	食品微生物			21	24		NSU0046		半	2.0	營養學位學程（學）	SU51		Food Microbiology		2	0	50	選	◎必須先修過【NSU0001  食物學】	N	2976	洪永瀚	三 6-7 公館 Ｓ303	
 114	1	5	-2	食品微生物實驗			20	22		NSU0047		半	1.0	營養學位學程（學）	SU51		Food Microbiology Laboratory		2	0	30	選	◎必須先修過【NSU0001  食物學】	N	2977	阮氏金銀 洪永瀚	三 8-10 公館 Ｄ203	
