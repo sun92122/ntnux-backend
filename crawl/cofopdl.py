@@ -71,9 +71,9 @@ def getGUCore(course: dict, s: requests.Session) -> str:
         "courseCode": course["course_code"],
         "courseGroup": course["course_group"],
         "deptCode": course["dept_code"],
-        "deptGroup": "",
-        "formS": "",
-        "aClass": "",
+        "deptGroup": course.get("dept_group_name", ""),
+        "formS": course.get("form_s", ""),
+        "aClass": course.get("classes", ""),
         "language": "chinese",
     }
     resp = s.get(GU_API_URL, params=params)
@@ -101,9 +101,9 @@ def getDenseCourseInfo(course: dict, s: requests.Session) -> list[dict]:
         "courseCode": course["course_code"],
         "courseGroup": course["course_group"],
         "deptCode": course["dept_code"],
-        "deptGroup": "",
-        "formS": "",
-        "aClass": "",
+        "deptGroup": course.get("dept_group_name", ""),
+        "formS": course.get("form_s", ""),
+        "aClass": course.get("classes", ""),
         "language": "chinese",
     }
     resp = s.get(DENSE_API_URL, params=params)
