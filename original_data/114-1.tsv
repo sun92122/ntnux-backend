@@ -1181,7 +1181,7 @@
 114	1	10	0	技術及職業教育概論			16	16		IEU0111		半	2.0	工教系（學）	HU70		Introduction to Technological and Vocational Education		1	0	50	必	◎限大一修習	N	1193	詹育 曾璧光	三 5-6 和平 研討六	
 114	1	3	0	程式設計 </br>[ 學分學程：空間學程 ]			16	16		IEU0119		半	3.0	工教系（學）	HU70		Computer Programming </br>[ Program: The Program of Geospatial Information Science ]		1	0	27	必	◎限大一修習	N	1194	吳順德	五 2-4 和平 教404	
 114	1	10	0	感測與轉換			40	40		IEU0117		半	3.0	工教系（學）	HU70		Sensors and Transducers		3	0	50	必		N	1195	白凱仁	二 2-4 和平 研討六	
-114	1	10	0	機構設計		師資生優先選課	16	16		ITU0164		半	3.0	科技系（學）	HU71		Mechanical Design			0	30	選		N	1196	汪殿杰	四 10-B 和平 科技系TC504教室	
+114	1	10	0	機構設計		師資生優先選課	16	16		ITU0164		半	3.0	科技系（學）	HU71		Mechanical Design			0	30	選	◎限大二修習	N	1196	汪殿杰	四 10-B 和平 科技系TC504教室	
 114	1	10	0	教育大數據專題製作 </br>[ 學分學程：教育大數據微學程 ]			1	1		ITU0168		半	3.0	科技系（學）	HU71		Educational Big Data Projects </br>[ Program: The Program of Big Data in Education ]			0	50	選		N	1197	蔡芸琤	四 6-8 和平 科技系TB312教室	
 114	1	10	0	資料探勘在教育上的應用 </br>[ 學分學程：教育大數據微學程 ]			4	4		ITU2084		半	3.0	科技系（學）	HU71		Data Mining Projects in Education Research </br>[ Program: The Program of Big Data in Education ]			0	50	選		N	1198	蔡芸琤	三 7-9 和平 科技系TB312教室	
 114	1	0	0	專業實習	9	因本課程性質與執行所需，將安排相關產業實習說明會及選課學生甄選等相關事項，以全人工方式選課，並限本系與大三、大四及碩二修習。	17	17		ITC9004		半	3.0	科技系（學）	HU71		Professional Internship			0	50	選	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	1199	陳淑媛	三 10-C 和平 科技系TB311教室	
@@ -2062,7 +2062,7 @@
 114	1	10	0	鋼琴室內樂演奏（三）			14	14		MUM0257		半	2.0	音樂系（碩）	MM90		Chamber Music with Piano Performance (III)			0	50	選	◎課程開放上修	N	2092	鍾家瑋	一 3-4 和平 音樂系B1雙琴室	
 114	1	10	0	學校音樂教育專題	8		7	7		MUC0036		半	2.0	音樂系（碩）	MM90		Independent Study: Music Learning Theories			0	50	選	◎課程開放上修	N	2093	莊惠君	二 5-6 和平 樂研一	
 114	1	10	0	南島語系文化圈之音樂研究（一）	8		5	5		MUC0084		半	2.0	音樂系（碩）	MM90		Comparative study of Cultural Zone on Astronesian Music(I)			0	50	選	◎必須先修過【MUM0020  研究方法論】 ◎課程開放上修	N	2094	錢善華	一 3-4 和平 樂研一	
-114	1	10	0	音樂書寫與論述	8		9	9		MUC8001		半	2.0	音樂系（碩）	MM90		Seminar for Music Writings			0	50	選	◎課程開放上修	N	2095	趙菁文	四 6-7 和平 樂研六	
+114	1	10	0	音樂書寫與論述	8		9	9		MUC8001		半	2.0	音樂系（碩）	MM90		Seminar for Music Writings			0	50	選	◎課程開放上修	N	2095	趙菁文	四 6-7 和平 音209	
 114	1	10	0	一九四五年以後之音樂研究（一） </br>[ 學分學程：音樂科技學程 ]	8		12	12		MUC8009		半	2.0	音樂系（碩）	MM90		Research in Music after 1945 (I) </br>[ Program: The Program of Computer Music and Audio Technology ]			0	30	選	◎課程開放上修	N	2096	林梅芳	五 7-8 和平 音209	
 114	1	10	0	巴洛克時期室內樂作品研究與實作	8		3	3		MUC8012		半	2.0	音樂系（碩）	MM90		Study and Performance of Baroque Chamber Music			0	50	選	◎課程開放上修	N	2097	蔡佳璇	五 3-4 和平 音410	
 114	1	10	0	俄國音樂專題	8		9	9		MUC8018		半	2.0	音樂系（碩）	MM90		Selected Topics in Russian Music	是		0	50	選	◎課程開放上修	N	2098	司信寧	一 8-9 和平 音410	
@@ -2346,7 +2346,7 @@
 114	1	10	0	音樂劇歌唱訓練（五）			16	16		PAU0075		半	2.0	表演學位學程（學）	MU92		Singing for Musicals (V)			0	50	選	◎必須先修過【PAU0060  唱歌訓練 （四）】、【PAU0074  音樂劇歌唱訓練（四）】其中一門	N	2378	鄭帆婷	四 8-9 和平 表藝中心	
 114	1	10	0	劇場燈光（一）			23	23		PAU0077		半	2.0	表演學位學程（學）	MU92		Theatrical Lighting (I)			0	50	選		N	2379	梁志民	五 10-A 和平 知音劇場	
 114	1	10	0	導演實務	9		14	14		PAC9001		半	2.0	表演學位學程（學）	MU92		Practice of Directing			5	50	必		N	2380	梁志民	二 9-10 和平 知音劇場	
-114	1	10	0	舞台設計	9	授課教師：曾蘇銘	22	22		PAC9009		半	2.0	表演學位學程（學）	MU92		Stage Design			0	50	選		N	2381	未定	三 3-4 和平 綜10樓教室	
+114	1	10	0	舞台設計	9		22	22		PAC9009		半	2.0	表演學位學程（學）	MU92		Stage Design			0	50	選		N	2381	曾蘇銘	三 3-4 和平 綜10樓教室	
 114	1	10	0	劇本寫作	9		8	8		PAC9014		半	2.0	表演學位學程（學）	MU92		Playwriting			1	50	選	◎必須先修過【PAU0046  劇本導讀】	N	2382	梁文菁	三 8-9 和平 表藝中心	
 114	1	10	0	劇本導讀			21	21		PAU0046		半	2.0	表演學位學程（學）	MU92		Guided Reading of Plays	是	1	0	50	必	◎限大一修習	N	2383	Jonathan Bollen	五 3-4 和平 綜10樓教室	
 114	1	10	0	表演訓練（一）			21	21		PAU0063		半	2.0	表演學位學程（學）	MU92		Acting Training (I)		1	3	35	必	◎限大一修習	N	2384	張仰瑄	二 3-4 和平 知音劇場	
