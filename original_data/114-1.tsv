@@ -947,7 +947,7 @@
 114	1	0	0	臺灣文史與城市發展			24	24		04UG024	A	半	2.0	通識	GU		Culture, History and Urban Development of Taiwan			0	65	通		N	0955	黃玫瑄	二 3-4 和平 誠301	A1UG
 114	1	0	0	臺灣文史與城市發展			15	15		04UG024	B	半	2.0	通識	GU		Culture, History and Urban Development of Taiwan			0	65	通		N	0956	黃玫瑄	二 6-7 和平 誠301	A1UG
 114	1	0	0	客家社會探究			37	37		04UG030		半	2.0	通識	GU		Social Inquiry of Hakka Community			0	65	通		N	0957	黃玫瑄	三 3-4 和平 誠302	A2UG
-114	1	2	0	東南亞文化與歷史概略		修課學生需具備流利英語能力。	15	15		04UG033		半	2.0	通識	GU		An Overview of Southeast Asian Culture and History	是		2	50	通		N	0958	廖弘民	五 6-7 和平 誠104	A1UG
+114	1	6	0	東南亞文化與歷史概略		修課學生需具備流利英語能力。	15	15		04UG033		半	2.0	通識	GU		An Overview of Southeast Asian Culture and History	是		2	50	通		N	0958	廖弘民	五 6-7 和平 誠104	A1UG
 114	1	10	0	臺灣原住民族文化展演 </br>[ 學分學程：原民教育學程 ]			9	9		04UG036		半	2.0	通識	GU		Taiwan Indigenous Cultural Performance </br>[ Program: The Program of Indigenous Education and Culture ]			0	50	通		N	0959	王宏豪	二 6-7 和平 誠201	A1UG
 114	1	0	0	探索臺灣飲食文化		本課程授課為全台語文進行為主	26	26		04UG037		半	2.0	通識	GU		Exploring Taiwan Food Culture			0	50	通		N	0960	魏俊陽	三 9-10 和平 誠203	A1UG
 114	1	0	0	邏輯思考與應用		全國最有個性的通識課，但保證教到會(免費個別教導)。	91	91		05UG001	A	半	2.0	通識	GU		Logical Thinking and Application			15	155	通		N	0961	王銀國	二 3-4 和平 誠101	A3UG/B2UG
@@ -2899,7 +2899,7 @@
 114	1	10	0	地球科學教學實習（一）（教）			20	20		ESUE110		半	2.0	地科系（學）	SU44		Teaching Practicum: Earth Sciences(I)		4	0	50	選	◎限 二階生 教育學程生 幼教師資生 不佔名額生 登記修習生 可修	N	2937	許瑛玿 洪逸文	一 1-4 公館 Ｓ504	
 114	1	10	0	科學教育與傳播的未來： AI理論與實踐	9		6	6		SEC9002		半	3.0	科教所（學）	SU45		The Future of Science Education and Communication: AI Theory and Practice			3	50	選		N	2938	林志鴻	四 2-4 公館 教室自排	
 114	1	10	0	程式設計（一） </br>[ 學分學程：音樂科技學程 資訊科技應用學程 人工智慧學程 空間學程 ]			60	60		CSU0001	A	半	3.0	資工系（學）	SU47		Computer Programming (I) </br>[ Program: The Program of Computer Music and Audio Technology The Program of Application of Information Technology The Program of Technology and Application of Artificial Intelligence The Program of Geospatial Information Science ]			0	60	必		N	2939	張鈞法	一 2-4 公館 理圖807	
-114	1	0	0	資料結構			34	34		CSU0013	A	半	3.0	資工系（學）	SU47		Data Structures			0	50	必	◎必須先修過【CSU0001  程式設計（一）】	N	2940	王鈞右	五 7-9 公館 Ｂ102	
+114	1	20	0	資料結構			34	34		CSU0013	A	半	3.0	資工系（學）	SU47		Data Structures			0	50	必	◎必須先修過【CSU0001  程式設計（一）】	N	2940	王鈞右	五 7-9 公館 Ｂ102	
 114	1	10	0	線性代數			60	60		CSU0016	A	半	3.0	資工系（學）	SU47		Linear Algebra			3	60	選		N	2941	官振傑	二 2-4 公館 Ｂ101	
 114	1	5	0	類比數位運算元件			85	85		CSU0049		半	3.0	資工系（學）	SU47		Analog and Digital Computing Elements	是		3	85	選		N	2942	王超	二 2 公館 Ｅ301, 五 8-9 公館 Ｅ301	
 114	1	10	0	資訊科技教材教法（教）			5	5		CSUE301		半	2.0	資工系（學）	SU47		Teaching Materials and Methods: Computer Science and Information Technology			0	50	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修	N	2943	李忠謀 柯佳伶	四 3-4 公館 Ｓ204	
