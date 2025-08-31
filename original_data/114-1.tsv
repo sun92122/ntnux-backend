@@ -1720,7 +1720,7 @@
 114	1	10	0	樂府詩（一）			50	50		CHU0285		半	2.0	國文系（學）	LU20		Ancient Chinese Poems & Songs (I)		1	5	50	選		N	1737	林淑雲	二 3-4 和平 樸305	
 114	1	10	0	四書（一）			44	44		CHU0310	A	半	2.0	國文系（學）	LU20		Four Books (I)		1	5	50	選		N	1738	金培懿	二 8-9 和平 樸303	
 114	1	10	0	四書（一）			46	46		CHU0310	B	半	2.0	國文系（學）	LU20		Four Books (I)		1	5	50	選		N	1739	黃瑩暖	三 8-9 和平 樸303	
-114	1	3	0	韓非子（一）			28	28		CHU0314		半	2.0	國文系（學）	LU20		Han Fei-Tzu (I)		1	5	35	選		N	1740	曾暐傑	二 3-4 和平 誠106	
+114	1	13	0	韓非子（一）			28	28		CHU0314		半	2.0	國文系（學）	LU20		Han Fei-Tzu (I)		1	5	35	選		N	1740	曾暐傑	二 3-4 和平 誠106	
 114	1	10	0	書法及習作（一）			23	23		CHU0337	A	半	2.0	國文系（學）	LU20		Chinese Calligraphy (I)		1	5	45	選		N	1741	林宜蓉	一 6-7 和平 樸307	
 114	1	10	0	書法及習作（一）			24	24		CHU0337	B	半	2.0	國文系（學）	LU20		Chinese Calligraphy (I)		1	0	45	選		N	1742	羅凡晸	三 8-9 和平 樸307	
 114	1	10	0	兒童文學 </br>[ 學分學程：文學創作學程 ]			30	30		CHU0340		半	2.0	國文系（學）	LU20		Children's Literature </br>[ Program: The Program of Literature Creation ]		1	5	50	選		N	1743	陳室如	二 6-7 和平 樸304	
@@ -1758,7 +1758,7 @@
 114	1	10	0	跨文化對話			12	12		CHU0207		半	2.0	國文系（學）	LU20		Trans-Cultural Dialogue		3	5	50	選		N	1775	劉滄龍	三 8-9 和平 樸204	
 114	1	10	0	宋明理學導讀（一）			24	24		CHU0253		半	2.0	國文系（學）	LU20		Intro to Neo-Confucianism of Sung & Ming Dynasties (I)		3	5	50	選		N	1776	黃瑩暖	二 8-9 和平 樸205	
 114	1	10	0	文心雕龍（一）			22	22		CHU0267		半	2.0	國文系（學）	LU20		Liu Shih`s Critical Theories & Essays (I)		3	5	50	選		N	1777	祁立峰	四 6-7 和平 樸204	
-114	1	3	0	墨子（一）			35	35		CHU0322		半	2.0	國文系（學）	LU20		Mozi (I)		3	5	35	選		N	1778	曾暐傑	二 8-9 和平 誠106	
+114	1	13	0	墨子（一）			35	35		CHU0322		半	2.0	國文系（學）	LU20		Mozi (I)		3	5	35	選		N	1778	曾暐傑	二 8-9 和平 誠106	
 114	1	4	0	現代小說 </br>[ 學分學程：文學創作學程 ]			42	42		CHU0326		半	2.0	國文系（學）	LU20		Contemporary Novels </br>[ Program: The Program of Literature Creation ]		3	2	40	選		N	1779	石曉楓	三 8-9 和平 誠105	
 114	1	10	0	昭明文選			36	36		CHU0382		半	2.0	國文系（學）	LU20		Jau-Ming Wen-Sheuan		3	5	50	選		N	1780	林淑雲	二 6-7 和平 樸305	
 114	1	3	0	世界華文新文學史（二）			16	16		CHU3009		半	2.0	國文系（學）	LU20		The Modern History of Global Chinese Literature (II)		3	5	47	選		N	1781	石曉楓	二 8-9 和平 誠104	
@@ -3099,7 +3099,7 @@
 114	1	10	0	品牌策略			39	39		VDU0257		半	2.0	設計系（學）	TU68		Strategic Brand		4	0	50	必	◎必須先修過(也可以同時修)【VDU0179  設計畢業製作（一）】	N	3141	王千睿	四 6-7 和平 設計系3A教室	
 114	1	0	0	PASSION國英數教材教法 </br>[ 學分學程：科技化教學產業學程 PASSION偏鄉教育學程 ]			33	33		PGUZ001		半	2.0	PASSION偏鄉學程	ZU79		PASSION Teaching Materials and Methods </br>[ Program: The Program of Technology-assisted Teaching Industry The Program of PASSION Quality Education in Rural Schools ]			5	30	必	◎初選 PASSION偏鄉學程 研究生得下修	N	3142	胡翠君	五 6-7 和平 正405	
 114	1	3	0	PASSION遠距教學實習 </br>[ 學分學程：PASSION偏鄉教育學程 ]			27	27		PGUZ006		半	2.0	PASSION偏鄉學程	ZU79		PASSION Distance Learning </br>[ Program: The Program of PASSION Quality Education in Rural Schools ]			5	27	必	允許重複修◎初選 PASSION偏鄉學程 研究生得下修◎必須先修過【PGUZ002  PASSION實習課程】	N	3143	胡翠君	一 8-9 公館 理圖802	
-114	1	10	0	統計學 </br>[ 學分學程：基礎管理學程 ]			32	32		PGUA007		半	3.0	基礎管理學程	ZU83		Statistics </br>[ Program: The Program of Fundamental Management ]			3	50	必		N	3144	邱皓政	三 8-10 和平 誠301	
+114	1	20	0	統計學 </br>[ 學分學程：基礎管理學程 ]			32	32		PGUA007		半	3.0	基礎管理學程	ZU83		Statistics </br>[ Program: The Program of Fundamental Management ]			3	50	必		N	3144	邱皓政	三 8-10 和平 誠301	
 114	1	10	0	期貨與選擇權 </br>[ 學分學程：財金學程 ]			45	45		PGUB014		半	3.0	財金學程	ZU84		Futures and Options </br>[ Program: The Program of Finance ]			3	60	選		N	3146	楊智元	三 A-C 和平 樸201	
 114	1	5	0	地景調查與分析 </br>[ 學分學程：環境監測學程 區域學程 ]			29	29		PGUS007		半	3.0	環境監測學程	ZU89		Landscape Survey and Analysis </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation The Program of Region and Tourism Planning ]			3	50	選	◎初選 環境監測學程 研究生得下修	N	3147	洪致文	二 7-9 和平 正206	
 114	1	5	0	環境教育概論 </br>[ 學分學程：環境監測學程 區域學程 ]			14	14		PGUS014		半	2.0	環境監測學程	ZU89		Introduction to Environmental Education </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation The Program of Region and Tourism Planning ]			3	50	選	◎初選 環境監測學程 研究生得下修	N	3148	林炯明	三 6-7 和平 正205	
