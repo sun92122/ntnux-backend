@@ -215,7 +215,7 @@
 114	1	0		中文閱讀與思辨		原則上不發放授權碼。				00UA7A3	B	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必		N	0218	林津羽	五 1-2 和平 誠204	
 114	1	0		中文閱讀與思辨		原則上不發放授權碼。				00UA7A3	C	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必		N	0219	徐敏媛	五 1-2 和平 樸205	
 114	1	0		中文閱讀與思辨		原則上不發放授權碼。				00UA7A3	D	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必		N	0220	陳惠鈴	五 1-2 和平 樸203	
-114	1	0		中文閱讀與思辨		原則上不發放授權碼。				00UA7A3	E	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必		N	0221	陳筱筠	五 1-2 和平 樸206	
+114	1	2		中文閱讀與思辨		原則上不發放授權碼。				00UA7A3	E	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必		N	0221	陳筱筠	五 1-2 和平 樸206	
 114	1	0		中文閱讀與思辨		原則上不發放授權碼。				00UA7A3	F	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必		N	0222	謝秀卉	五 1-2 和平 樸306	
 114	1	3		中文閱讀與思辨		原則上不發放授權碼。				00UA7A3	G	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必		N	0223	謝嘉文	五 1-2 和平 正406	
 114	1	0		中文閱讀與思辨		原則上不發放授權碼。				00UA7A3	H	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必		N	0224	魏伯全	五 1-2 和平 正102	
@@ -936,12 +936,12 @@
 114	1	5		２０世紀動盪時局下的知識份子						04UG023		半	2.0	通識	GU		Intellectuals during Turbulent Times in the 20th Century			0	50	通	◎東亞系（學）不得選修	N	0954	胡元玲	二 9-10 和平 正301	A1UG
 114	1	0		臺灣文史與城市發展						04UG024	A	半	2.0	通識	GU		Culture, History and Urban Development of Taiwan			0	65	通		N	0955	黃玫瑄	二 3-4 和平 誠301	A1UG
 114	1	0		臺灣文史與城市發展						04UG024	B	半	2.0	通識	GU		Culture, History and Urban Development of Taiwan			0	65	通		N	0956	黃玫瑄	二 6-7 和平 誠301	A1UG
-114	1	0		客家社會探究						04UG030		半	2.0	通識	GU		Social Inquiry of Hakka Community			0	65	通		N	0957	黃玫瑄	三 3-4 和平 誠302	A2UG
+114	1	7		客家社會探究						04UG030		半	2.0	通識	GU		Social Inquiry of Hakka Community			0	65	通		N	0957	黃玫瑄	三 3-4 和平 誠302	A2UG
 114	1	6		東南亞文化與歷史概略		修課學生需具備流利英語能力。				04UG033		半	2.0	通識	GU		An Overview of Southeast Asian Culture and History	是		2	50	通		N	0958	廖弘民	五 6-7 和平 誠104	A1UG
 114	1	20		臺灣原住民族文化展演 </br>[ 學分學程：原民教育學程 ]						04UG036		半	2.0	通識	GU		Taiwan Indigenous Cultural Performance </br>[ Program: The Program of Indigenous Education and Culture ]			0	50	通		N	0959	王宏豪	二 6-7 和平 誠201	A1UG
 114	1	0		探索臺灣飲食文化		本課程授課為全台語文進行為主				04UG037		半	2.0	通識	GU		Exploring Taiwan Food Culture			0	50	通		N	0960	魏俊陽	三 9-10 和平 誠203	A1UG
 114	1	20		邏輯思考與應用		全國最有個性的通識課，但保證教到會(免費個別教導)。				05UG001	A	半	2.0	通識	GU		Logical Thinking and Application			15	155	通		N	0961	王銀國	二 3-4 和平 誠101	A3UG/B2UG
-114	1	20		邏輯思考與應用		全國最有個性的通識課，但保證教到會(免費個別教導)。				05UG001	B	半	2.0	通識	GU		Logical Thinking and Application			15	155	通		N	0962	王銀國	二 8-9 和平 誠101	A3UG/B2UG
+114	1	21		邏輯思考與應用		全國最有個性的通識課，但保證教到會(免費個別教導)。				05UG001	B	半	2.0	通識	GU		Logical Thinking and Application			15	155	通		N	0962	王銀國	二 8-9 和平 誠101	A3UG/B2UG
 114	1	0		邏輯思考與應用						05UG001	C	半	2.0	通識	GU		Logical Thinking and Application			2	55	通		N	0963	蔡承志	二 6-7 和平 誠203	A3UG/B2UG
 114	1	5		邏輯思考與應用						05UG001	D	半	2.0	通識	GU		Logical Thinking and Application			0	60	通		N	0964	王鍾山	五 3-4 和平 誠401	A3UG/B2UG
 114	1	0		科學思維 </br>[ 學分學程：科技化教學產業學程 理工實作學程 ]		不開放授權碼。				05UG002	A	半	2.0	通識	GU		Introduction to Scientific Thinking </br>[ Program: The Program of Technology-assisted Teaching Industry The Program of STEM Innovation and Practices ]			0	75	通		N	0965	鍾兆晉	一 10-A 和平 誠203	A3UG
@@ -998,7 +998,7 @@
 114	1	10		汽車與生活						06UG025		半	2.0	通識	GU		Vehicle and Life			0	50	通		N	1016	張俊興	四 3-4 和平 工501(TA501)	A3UG
 114	1	20		音樂概論						0AUG203		半	2.0	通識	GU		Introduction to Music			0	65	通	◎音樂系（學）不得選修	N	1017	吳佩蓉	三 3-4 和平 音308	A1UG
 114	1	10		心理學 </br>[ 學分學程：人社學程 肌力與體能學程 音樂輔教學程 ]		中文授課				0AUG402		半	2.0	通識	GU		Psychology </br>[ Program: Human Services and Social Work Credit Program The Program of Strength and Conditioning The Program of Music-assisted Guidance and Special Education ]			0	50	通		N	1018	楊諮燕	四 3-4 和平 誠202	A2UG/B1UG
-114	1	0		健康與生活						0AUG408		半	2.0	通識	GU		Health and Life			0	60	通		N	1019	黃玫瑄	四 3-4 和平 誠301	A3UG
+114	1	10		健康與生活						0AUG408		半	2.0	通識	GU		Health and Life			0	60	通		N	1019	黃玫瑄	四 3-4 和平 誠301	A3UG
 114	1	10		歷史與人物						0AUG435		半	2.0	通識	GU		History and Personage			0	50	通		N	1020	陳健文	二 6-7 和平 誠401	A1UG
 114	1	0		聖經與人生						0AUG442		半	2.0	通識	GU		The Bible and Human Life	是		0	49	通		N	1021	范俊銘	四 B-C 公館 Ｓ204	A1UG
 114	1	11		個人投資理財						0AUG462		半	2.0	通識	GU		Personal Finance			0	170	通		N	1022	朱文增	三 3-4 和平 教201演講廳	A2UG
@@ -1045,7 +1045,7 @@
 114	1	10		大學入門		限幼家科學系幼教組(學)選修 非大一、非幼家科學系幼教組的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG526	J	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限幼家科學系（學）「幼兒發展與教育組」選修	N	1064	吳怡萱	三 3-4 和平 誠109	B3UG
 114	1	9		大學入門		非大一、非國文系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG531	A	半	2.0	通識	GU		Introduction to University Studies			0	90	通	◎限大一修習◎限國文系（學）選修	N	1065	胡衍南	三 3-4 和平 教103	B3UG
 114	1	10		大學入門		限英語系修。非大一、非英語系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG531	B	半	2.0	通識	GU		Introduction to University Studies			0	60	通	◎限大一修習◎限英語系（學）選修	N	1066	許月貴	五 3-4 和平 誠203	B3UG
-114	1	5		大學入門		非大一、非歷史系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG531	C	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限歷史系（學）選修	N	1067	陳昭揚	三 3-4 和平 文學院B1會議室	B3UG
+114	1	30		大學入門		非大一、非歷史系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG531	C	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限歷史系（學）選修	N	1067	陳昭揚	三 3-4 和平 文學院B1會議室	B3UG
 114	1	4		大學入門		部分週次與E組共同上課；非大一、非地理系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG531	D	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限地理系（學）選修	N	1068	李宗祐	三 3-4 和平 誠107	B3UG
 114	1	5		大學入門		部分週次與D組共同上課；非大一、非地理系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG531	E	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限地理系（學）選修	N	1069	洪立三	三 3-4 和平 誠402	B3UG
 114	1	10		大學入門		限台文系修習，非台文系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG531	F	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限臺文系（學）選修	N	1070	莊育穎	五 3-4 和平 誠108	B3UG
@@ -1069,7 +1069,7 @@
 114	1	5		大學入門		限華語系（學）「應用華語文學組」選修  非大一、非本組的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG538	C	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限華語系（學）「應用華語文學組」選修	N	1088	陳嘉凌	三 3-4 和平 正301	B3UG
 114	1	5		大學入門		本課程限大一且為全球學士學位學程學生選修，其他學生請先取得授課教師同意，並以授權碼加選。				0SUG538	D	半	2.0	通識	GU		Introduction to University Studies	是		0	50	通	◎限大一修習◎限全球研究學位學程（學選修	N	1089	鄭怡庭	三 9-10 和平 誠109	B3UG
 114	1	40		自主學習：專題探究		專題名稱：陰性創作與出版實務。台大台科大學生選課需授課教師同意以授權碼選課				0SUG539	A	半	2.0	通識	GU		Self-Directed Learning: Inquiry Study			0	0	通	允許重複修	N	1090	涂卉	五 A-B 和平 誠204	C1UG
-114	1	8		自主學習：專題探究		專題名稱：青少年成長議題與影視製作。台大台科大學生選課需授課教師同意以授權碼選課				0SUG539	B	半	2.0	通識	GU		Self-Directed Learning: Inquiry Study			0	0	通	允許重複修	N	1091	鄭怡庭	五 A-B 和平 正101	C1UG
+114	1	15		自主學習：專題探究		專題名稱：青少年成長議題與影視製作。台大台科大學生選課需授課教師同意以授權碼選課				0SUG539	B	半	2.0	通識	GU		Self-Directed Learning: Inquiry Study			0	0	通	允許重複修	N	1091	鄭怡庭	五 A-B 和平 正101	C1UG
 114	1	3		自主學習：自主探究		已選課或欲選課者，第一週必須出席課堂；並於期限前繳交計畫書或第一周至課堂繳交，否則請務必退選或勿再加選。				0SUG542	A	半	2.0	通識	GU		Self-Directed Learning: Guided Study			1	43	通		N	1092	楊承山 鄭怡庭	三 A-B 和平 誠105	C1UG
 114	1	0		自主學習：自主探究		已選課或欲選課者，第一週必須出席課堂；並於期限前繳交計畫書或第一周至課堂繳交，否則請務必退選或勿再加選。				0SUG542	B	半	2.0	通識	GU		Self-Directed Learning: Guided Study			1	43	通		N	1093	曾暐傑 劉建成	三 A-B 和平 誠106	C1UG
 114	1	10		專題研究		This course is an EMI (English-Medium Instruction) course held at Gongguan Campus, Classroom A100 in the College of Science Building.				H5M0001		半	4.0	科技學院	H		Independent Study	是		0	30	必	◎課程開放上修	N	1094	劉祥麟	一 A-D 公館 教室自排	
@@ -2449,7 +2449,7 @@
 114	1	5		體育（籃球初級）						00UP104	B	半	1.0	普通體育	PE		Physical Education (Beginning Basketball)			0	50	必	允許重複修	N	2494	李秉鴻	五 1-2 公館 體育館二3樓	
 114	1	5		體育（籃球初級）						00UP104	C	半	1.0	普通體育	PE		Physical Education (Beginning Basketball)			0	50	必	允許重複修	N	2495	李秉鴻	五 3-4 公館 室外籃球場二	
 114	1	5		體育（籃球初級）						00UP104	D	半	1.0	普通體育	PE		Physical Education (Beginning Basketball)			0	50	必	允許重複修	N	2496	張容軒	一 3-4 公館 體育館二3樓	
-114	1	5		體育（籃球初級）						00UP104	E	半	1.0	普通體育	PE		Physical Education (Beginning Basketball)			0	50	必	允許重複修	N	2497	張容軒	二 6-7 公館 體育館二3樓	
+114	1	10		體育（籃球初級）						00UP104	E	半	1.0	普通體育	PE		Physical Education (Beginning Basketball)			0	50	必	允許重複修	N	2497	張容軒	二 6-7 公館 體育館二3樓	
 114	1	5		體育（籃球初級）						00UP104	F	半	1.0	普通體育	PE		Physical Education (Beginning Basketball)			0	50	必	允許重複修	N	2498	張容軒	一 1-2 公館 體育館二3樓	
 114	1	5		體育（排球初級）						00UP105	A	半	1.0	普通體育	PE		Physical Education (Beginning Volleyball)			0	50	必	允許重複修	N	2499	楊怡真	一 3-4 和平 體育館一4F	
 114	1	5		體育（排球初級）						00UP105	B	半	1.0	普通體育	PE		Physical Education (Beginning Volleyball)			0	50	必	允許重複修	N	2500	?良財	二 6-7 和平 體育館一4F	
