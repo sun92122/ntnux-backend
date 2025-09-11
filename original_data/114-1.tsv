@@ -312,7 +312,7 @@
 114	1	0		英文（三）：文學與文化						00UB9A1	D	半	2.0	共同科	CU		English (III): Literature and Culture	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0314	蘇榕	五 3-4 和平 正405	
 114	1	2		英文（三）：教育英文						00UB9B1	A	半	2.0	共同科	CU		English (III): English for Education	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0315	陳惠芬	一 3-4 公館 Ｓ403	
 114	1	0		英文（三）：教育英文						00UB9B1	B	半	2.0	共同科	CU		English (III): English for Education	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0316	范雅筑	五 3-4 和平 樸406	
-114	1	1		英文（三）：教育英文						00UB9B1	C	半	2.0	共同科	CU		English (III): English for Education	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0317	范雅筑	五 6-7 和平 樸406	
+114	1	2		英文（三）：教育英文						00UB9B1	C	半	2.0	共同科	CU		English (III): English for Education	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0317	范雅筑	五 6-7 和平 樸406	
 114	1	0		英文（三）：科技英文						00UB9C1	A	半	2.0	共同科	CU		English (III): English for Science and Technology	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0318	許月貴	一 3-4 和平 誠701B	
 114	1	0		英文（三）：科技英文						00UB9C1	B	半	2.0	共同科	CU		English (III): English for Science and Technology	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0319	項瑞芳	四 3-4 和平 正404	
 114	1	0		英文（三）：科技英文						00UB9C1	C	半	2.0	共同科	CU		English (III): English for Science and Technology	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0320	柯衣凡	四 6-7 和平 正404	
@@ -2898,7 +2898,7 @@
 114	1	0		人工智慧導論	9					CSC9014		半	3.0	資工系（學）	SU47		Fundamentals of Artificial Intelligence			0	50	選		N	2952	賀耀華	四 7-9 公館 Ｓ203	
 114	1	0		物聯網概論與資料科學	9					CSC9015		半	3.0	資工系（學）	SU47		Internet of Things with Data Science			0	50	選		N	2953	賀耀華	一 7-9 公館 理圖801	
 114	1	0		程式設計（一） </br>[ 學分學程：音樂科技學程 資訊科技應用學程 人工智慧學程 空間學程 ]						CSU0001		半	3.0	資工系（學）	SU47		Computer Programming (I) </br>[ Program: The Program of Computer Music and Audio Technology The Program of Application of Information Technology The Program of Technology and Application of Artificial Intelligence The Program of Geospatial Information Science ]		1	0	70	必		N	2954	蔣宗哲	三 8-9 公館 理圖807, 五 7 公館 理圖807	
-114	1	10		資料結構						CSU0013		半	3.0	資工系（學）	SU47		Data Structures		2	0	65	必	◎必須先修過【CSU0001  程式設計（一）】	N	2955	柯佳伶	一 8-9 公館 Ｅ102, 四 2 公館 Ｅ102	
+114	1	11		資料結構						CSU0013		半	3.0	資工系（學）	SU47		Data Structures		2	0	65	必	◎必須先修過【CSU0001  程式設計（一）】	N	2955	柯佳伶	一 8-9 公館 Ｅ102, 四 2 公館 Ｅ102	
 114	1	28		機率論						CSU0015		半	3.0	資工系（學）	SU47		Theory of Probability		2	3	70	選		N	2956	陳柏琳	二 8-9 公館 Ｅ102, 五 2 公館 Ｅ102	
 114	1	10		線性代數						CSU0016		半	3.0	資工系（學）	SU47		Linear Algebra		2	3	70	選		N	2957	蔡榮宗	一 7 公館 Ｅ102, 五 3-4 公館 Ｅ102	
 114	1	10		系統程式						CSU0027		半	3.0	資工系（學）	SU47		System Programming		3	2	80	選		N	2958	黃冠寰	一 8-9 公館 Ｂ101, 四 3 公館 Ｂ101	
