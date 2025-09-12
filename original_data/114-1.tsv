@@ -307,10 +307,10 @@
 114	1	0		英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系				00UB7A5	D	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0309	藍偉華	五 3-4 和平 正304	
 114	1	0		英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組				00UB7A5	E	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0310	林政憲	五 6-7 和平 正303	
 114	1	0		英文（三）：文學與文化						00UB9A1	A	半	2.0	共同科	CU		English (III): Literature and Culture	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0311	柯衣凡	一 3-4 和平 正204	
-114	1	1		英文（三）：文學與文化						00UB9A1	B	半	2.0	共同科	CU		English (III): Literature and Culture	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0312	蘇子中	一 3-4 和平 正405	
+114	1	2		英文（三）：文學與文化						00UB9A1	B	半	2.0	共同科	CU		English (III): Literature and Culture	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0312	蘇子中	一 3-4 和平 正405	
 114	1	0		英文（三）：文學與文化						00UB9A1	C	半	2.0	共同科	CU		English (III): Literature and Culture	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0313	柯衣凡	四 3-4 和平 正204	
 114	1	0		英文（三）：文學與文化						00UB9A1	D	半	2.0	共同科	CU		English (III): Literature and Culture	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0314	蘇榕	五 3-4 和平 正405	
-114	1	2		英文（三）：教育英文						00UB9B1	A	半	2.0	共同科	CU		English (III): English for Education	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0315	陳惠芬	一 3-4 公館 Ｓ403	
+114	1	3		英文（三）：教育英文						00UB9B1	A	半	2.0	共同科	CU		English (III): English for Education	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0315	陳惠芬	一 3-4 公館 Ｓ403	
 114	1	0		英文（三）：教育英文						00UB9B1	B	半	2.0	共同科	CU		English (III): English for Education	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0316	范雅筑	五 3-4 和平 樸406	
 114	1	2		英文（三）：教育英文						00UB9B1	C	半	2.0	共同科	CU		English (III): English for Education	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0317	范雅筑	五 6-7 和平 樸406	
 114	1	0		英文（三）：科技英文						00UB9C1	A	半	2.0	共同科	CU		English (III): English for Science and Technology	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0318	許月貴	一 3-4 和平 誠701B	
@@ -318,8 +318,8 @@
 114	1	0		英文（三）：科技英文						00UB9C1	C	半	2.0	共同科	CU		English (III): English for Science and Technology	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0320	柯衣凡	四 6-7 和平 正404	
 114	1	10		英文（三）：藝術英文						00UB9D1	A	半	2.0	共同科	CU		English (III):  English for Arts and Design	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0321	陳瑄	五 3-4 和平 樸201	
 114	1	0		英文（三）：運動英文						00UB9E1	A	半	2.0	共同科	CU		English (III): English for Sports	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0322	柯珍宜	一 6-7 公館 Ｓ503	
-114	1	18		英文（三）：運動英文						00UB9E1	B	半	2.0	共同科	CU		English (III): English for Sports	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0323	李世文	五 3-4 和平 正201	
-114	1	19		英文（三）：運動英文						00UB9E1	C	半	2.0	共同科	CU		English (III): English for Sports	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0324	李世文	五 6-7 和平 正201	
+114	1	19		英文（三）：運動英文						00UB9E1	B	半	2.0	共同科	CU		English (III): English for Sports	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0323	李世文	五 3-4 和平 正201	
+114	1	20		英文（三）：運動英文						00UB9E1	C	半	2.0	共同科	CU		English (III): English for Sports	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0324	李世文	五 6-7 和平 正201	
 114	1	0		英文（三）：商用英文						00UB9H1	A	半	2.0	共同科	CU		English (III): English for Business	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0325	陳惠芬	四 3-4 和平 正302	
 114	1	1		英文（三）：商用英文						00UB9H1	B	半	2.0	共同科	CU		English (III): English for Business	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0326	陳惠芬	四 6-7 和平 正302	
 114	1	0		英文（三）：科學英文						00UB9L1	A	半	2.0	共同科	CU		English (III):English for Science	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0327	項瑞芳	一 6-7 公館 Ｓ202	
@@ -915,7 +915,7 @@
 114	1	0		多元文化 </br>[ 學分學程：PASSION偏鄉教育學程 社團領導學程 ]						03UG003		半	2.0	通識	GU		Multicultural Literacy </br>[ Program: The Program of PASSION Quality Education in Rural Schools The Program of Club Members Leadership And Empowerment Cultivation ]	是		0	49	通		N	0932	范俊銘	四 8-9 公館 Ｓ204	A2UG
 114	1	10		現代公民與法律						03UG005		半	2.0	通識	GU		Citizenship and Law			0	50	通	◎公領系（學）不得選修	N	0933	陳彥?	四 A-B 和平 誠104	A2UG
 114	1	6		憲法與人權 </br>[ 學分學程：社團領導學程 ]						03UG006		半	2.0	通識	GU		Constitution and Human Rights </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]			0	50	通	◎公領系（學）不得選修	N	0934	呂啟民	四 6-7 和平 誠402	A2UG
-114	1	18		臺灣流行文化		中文授課				03UG012		半	2.0	通識	GU		Taiwan Popular Culture			3	120	通		N	0935	莊佳穎	五 3-4 和平 誠101	A2UG/B2UG
+114	1	19		臺灣流行文化		中文授課				03UG012		半	2.0	通識	GU		Taiwan Popular Culture			3	120	通		N	0935	莊佳穎	五 3-4 和平 誠101	A2UG/B2UG
 114	1	40		環境與傳播						03UG024		半	2.0	通識	GU		Environment and Communication			0	100	通		N	0936	楊樺	一 3-4 公館 Ｅ102	A2UG
 114	1	0		女性文學、性別平等理論與婦運		不使用授權碼，網上加退選。建議英語閱讀能力中高級者選修。上課前請學會用Microsoft Teams、Moodle，有關Microsoft Teams之資訊見網大同步教學工具便利包與登入Moodle。作業、信件與簡訊註明(1)姓名、(2)課名、A組、(3)學號、(4)星期幾與節次、(5)中文授課。				03UG027	A	半	2.0	通識	GU		Women's Literature, Feminist Theory, and the Women's Movement			0	72	通		N	0937	左乙萱	四 8-9 和平 誠401	A1UG
 114	1	0		女性文學、性別平等理論與婦運		Add the course online. Students should be able to read journal articles written in English and write an essay in English. Learn how to use Microsoft Teams and Moodle. Include your name, your student number, course title, and group B in all correspondence.				03UG027	B	半	2.0	通識	GU		Women's Literature, Feminist Theory, and the Women's Movement	是		0	55	通		N	0938	左乙萱	四 6-7 和平 正301	A1UG
@@ -1891,13 +1891,13 @@
 114	1	4		宗教與永續發展：臺灣傳統華人宗教的歷史與創新研討 </br>[ 學分學程：環境人文學程 ]	9					HIC9040		半	3.0	歷史系（學）	LU22		Religions and Sustainable Development: Seminar on History and Innovations of Traditional Chinese Religions in Modern Taiwan </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU ]	是		0	50	選		N	1923	吳有能	一 9-A 和平 誠109	
 114	1	10		中國傳統法律、文化與社會研討	9					HIC9044		半	3.0	歷史系（學）	LU22		Seminar on Law, Culture and Society in Traditional China			3	50	選		N	1924	陳俊強	五 2-4 和平 歷史系視聽教室	
 114	1	10		臺灣戰後檔案解讀與歷史田野研討	9					HIC9047		半	3.0	歷史系（學）	LU22		Seminar on Postwar Taiwan Archival Interpretation and Historical Field Research			2	50	選		N	1925	林欣宜 許佩賢	一 6-8 和平 誠306	
-114	1	12		史學導論		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0062	A	半	2.0	歷史系（學）	LU22		Introduction to Historiography		1	0	30	必		N	1928	楊彥彬	二 8-9 和平 正406	
+114	1	13		史學導論		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0062	A	半	2.0	歷史系（學）	LU22		Introduction to Historiography		1	0	30	必		N	1928	楊彥彬	二 8-9 和平 正406	
 114	1	15		史學導論		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0062	B	半	2.0	歷史系（學）	LU22		Introduction to Historiography		1	0	30	必		N	1929	林欣宜	二 8-9 和平 誠307	
 114	1	11		世界通史（上古）		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0344	A	半	2.0	歷史系（學）	LU22		General History of the World (Ancient History)		1	0	30	必		N	1930	陳秀鳳	五 3-4 和平 誠307	
-114	1	10		世界通史（上古）		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0344	B	半	2.0	歷史系（學）	LU22		General History of the World (Ancient History)		1	0	30	必		N	1931	楊彥彬	五 3-4 和平 誠306	
+114	1	11		世界通史（上古）		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0344	B	半	2.0	歷史系（學）	LU22		General History of the World (Ancient History)		1	0	30	必		N	1931	楊彥彬	五 3-4 和平 誠306	
 114	1	15		臺灣通史（1895年前）		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0348	A	半	2.0	歷史系（學）	LU22		General History of Taiwan (Before 1895)		1	0	30	必		N	1932	林欣宜	二 6-7 和平 正406	
 114	1	10		臺灣通史（1895年前）		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0348	B	半	2.0	歷史系（學）	LU22		General History of Taiwan (Before 1895)		1	0	30	必		N	1933	王麒銘	二 6-7 和平 誠307	
-114	1	10		中國通史（上古）		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0380	A	半	2.0	歷史系（學）	LU22		General History of China (Ancient History)		1	0	30	必		N	1934	陳健文	一 3-4 和平 正406	
+114	1	11		中國通史（上古）		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0380	A	半	2.0	歷史系（學）	LU22		General History of China (Ancient History)		1	0	30	必		N	1934	陳健文	一 3-4 和平 正406	
 114	1	15		中國通史（上古）		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0380	B	半	2.0	歷史系（學）	LU22		General History of China (Ancient History)		1	0	30	必		N	1935	呂春盛	一 3-4 和平 誠307	
 114	1	10		中國通史（近世）		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0342	A	半	2.0	歷史系（學）	LU22		General History of China (Early-Modern)		2	0	30	必		N	1936	陳昭揚	二 8-9 和平 誠401	
 114	1	10		中國通史（近世）		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0342	B	半	2.0	歷史系（學）	LU22		General History of China (Early-Modern)		2	0	30	必		N	1937	李宗翰	二 8-9 和平 樸204	
@@ -2652,10 +2652,10 @@
 114	1	10		數學教學解題（一）（IB） </br>[ 學分學程：國際教師學程-數學 ]	9					MAC9027		半	3.0	數學系（學）	SU40		Problem-Solving in Mathematical Teaching (I) (IB) </br>[ Program: The Program of International Baccalaureate Educator Certificate-International  Mathematics Education ]	是		0	50	選		N	2703	游森棚	一 2-4 公館 數學館M310	
 114	1	10		數學史（IB） </br>[ 學分學程：國際教師學程-數學 ]	9					MAC9028		半	3.0	數學系（學）	SU40		History of Mathematics (IB) </br>[ Program: The Program of International Baccalaureate Educator Certificate-International  Mathematics Education ]	是		0	50	選		N	2704	張秉瑩	五 6-8 公館 數學館M211	
 114	1	3		科學計算導論 </br>[ 學分學程：理工實作學程 科學計算學程 ]	9					MAC9029	A	半	3.0	數學系（學）	SU40		Introduction to Scientific Computation </br>[ Program: The Program of STEM Innovation and Practices The Program of Scientific Computation ]			0	37	必		N	2705	黃聰明	一 6 公館 理圖802, 五 3-4 公館 Ｓ404	
-114	1	22		科學計算導論 </br>[ 學分學程：理工實作學程 科學計算學程 ]	9					MAC9029	B	半	3.0	數學系（學）	SU40		Introduction to Scientific Computation </br>[ Program: The Program of STEM Innovation and Practices The Program of Scientific Computation ]			5	50	必		N	2706	謝世峰	一 6 公館 理圖807, 二 6-7 公館 Ｅ301	
+114	1	23		科學計算導論 </br>[ 學分學程：理工實作學程 科學計算學程 ]	9					MAC9029	B	半	3.0	數學系（學）	SU40		Introduction to Scientific Computation </br>[ Program: The Program of STEM Innovation and Practices The Program of Scientific Computation ]			5	50	必		N	2706	謝世峰	一 6 公館 理圖807, 二 6-7 公館 Ｅ301	
 114	1	10		數理統計（一）	9					MAC9032		半	3.0	數學系（學）	SU40		Mathematical Statistics (I)			5	50	選		N	2707	張少同	五 2-4 公館 數學館M310	
 114	1	3		科學計算導論探索	9					MAC9038	A	半	1.0	數學系（學）	SU40		Exploration of Introduction to Scientific Computation			0	37	選	◎必須先修過(也可以同時修)【MAC9029  科學計算導論】	N	2708	黃聰明	一 7 公館 理圖802	
-114	1	20		科學計算導論探索	9					MAC9038	B	半	1.0	數學系（學）	SU40		Exploration of Introduction to Scientific Computation			5	50	選	◎必須先修過(也可以同時修)【MAC9029  科學計算導論】	N	2709	謝世峰	一 7 公館 理圖807	
+114	1	23		科學計算導論探索	9					MAC9038	B	半	1.0	數學系（學）	SU40		Exploration of Introduction to Scientific Computation			5	50	選	◎必須先修過(也可以同時修)【MAC9029  科學計算導論】	N	2709	謝世峰	一 7 公館 理圖807	
 114	1	10		實驗設計與分析	9					MAC9050		半	3.0	數學系（學）	SU40		Experiment Design and Analysis			5	50	選		N	2710	蔡碧紋	二 2-4 公館 數學館M210	
 114	1	10		電子計算機概論						MAU0065		半	3.0	數學系（學）	SU40		Instruction to Computer		1	5	50	選		N	2711	楊青育	一 6-8 公館 Ｓ601	
 114	1	20		微積分乙（一）		物一甲				MAU0180	A	半	3.0	數學系（學）	SU40		Calculus B (I)		1	5	50	必	◎限外系修習	N	2712	范洪源	一 6-8 公館 Ｂ103	
@@ -2885,7 +2885,7 @@
 114	1	20		程式設計（一） </br>[ 學分學程：音樂科技學程 資訊科技應用學程 人工智慧學程 空間學程 ]						CSU0001	A	半	3.0	資工系（學）	SU47		Computer Programming (I) </br>[ Program: The Program of Computer Music and Audio Technology The Program of Application of Information Technology The Program of Technology and Application of Artificial Intelligence The Program of Geospatial Information Science ]			0	60	必		N	2939	張鈞法	一 2-4 公館 理圖807	
 114	1	20		資料結構						CSU0013	A	半	3.0	資工系（學）	SU47		Data Structures			0	50	必	◎必須先修過【CSU0001  程式設計（一）】	N	2940	王鈞右	五 7-9 公館 Ｂ102	
 114	1	15		線性代數						CSU0016	A	半	3.0	資工系（學）	SU47		Linear Algebra			3	60	選		N	2941	官振傑	二 2-4 公館 Ｂ101	
-114	1	10		類比數位運算元件						CSU0049		半	3.0	資工系（學）	SU47		Analog and Digital Computing Elements	是		3	85	選		N	2942	王超	二 2 公館 Ｅ301, 五 8-9 公館 Ｅ301	
+114	1	11		類比數位運算元件						CSU0049		半	3.0	資工系（學）	SU47		Analog and Digital Computing Elements	是		3	85	選		N	2942	王超	二 2 公館 Ｅ301, 五 8-9 公館 Ｅ301	
 114	1	10		資訊科技教材教法（教）						CSUE301		半	2.0	資工系（學）	SU47		Teaching Materials and Methods: Computer Science and Information Technology			0	50	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修	N	2943	李忠謀 柯佳伶	四 3-4 公館 Ｓ204	
 114	1	29		資料探勘	9					CSC0001		半	3.0	資工系（學）	SU47		Data Mining			3	50	選		N	2944	柯佳伶	五 2-4 公館 Ｂ101	
 114	1	20		網路計算與XML	9					CSC0006		半	3.0	資工系（學）	SU47		Web Computing and XML			0	50	選		N	2945	葉耀明	二 7-9 公館 Ｂ102	
@@ -2993,7 +2993,7 @@
 114	1	10		西方美術史（一）		授課教師:趙可卿				ATU0305		半	2.0	美術系（學）	TU60		History of Western Art (I)		1	3	50	必		N	3048	趙可卿	二 6-7 和平 美101	
 114	1	10		中國美術史						ATU0026		半	2.0	美術系（學）	TU60		History of Chinese Art		2	3	50	必		N	3049	白適銘	二 8-9 和平 美101	
 114	1	10		繪畫發展與心智成長						ATU0232		半	2.0	美術系（學）	TU60		Drawing Development and Mental Growth		2	2	50	選		N	3050	江學瀅	一 1-2 和平 美301	
-114	1	10		美學（一） </br>[ 學分學程：社團領導學程 ]						ATU0237		半	2.0	美術系（學）	TU60		Aesthetics (I) </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]		2	3	50	必		N	3051	魏竹君	五 6-7 和平 美101	
+114	1	11		美學（一） </br>[ 學分學程：社團領導學程 ]						ATU0237		半	2.0	美術系（學）	TU60		Aesthetics (I) </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]		2	3	50	必		N	3051	魏竹君	五 6-7 和平 美101	
 114	1	10		版畫（一）		授課教師:楊紋瑜				ATU0307		半	2.0	美術系（學）	TU60		Printmaking (I)		2	2	30	選		N	3052	楊紋瑜	五 3-4 和平 美201	
 114	1	10		攝影		授課教師:張國治				ATU6013		半	2.0	美術系（學）	TU60		Photography		2	3	30	選		N	3053	張國治	一 9-10 和平 美301	
 114	1	10		基礎雕塑		授課教師:林正仁				ATU0023		半	3.0	美術系（學）	TU60		Sculpture - University Foundation Level		3	1	30	選		N	3054	林正仁	五 2-4 和平 美101	
