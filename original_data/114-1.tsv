@@ -2384,7 +2384,7 @@
 114	1	10	0	體育（適應體育）		因傷病等因素無法上一般體育課之學生，請於開學兩週內至健康中心辦理適應體育班申請手續。	11	11		00UP003		半	1.0	普通體育	PE		Physical Education (Adapted Physical Education)			0	50	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選允許重複修	N	2458	王重引	三 3-4 和平 大韻律教室	
 114	1	5	0	體育（國術）			38	38		00UP013	A	半	1.0	普通體育	PE		Physical Education (Kou Shu)			5	50	必	允許重複修	N	2459	陳慶鴻	五 1-2 和平 大韻律教室	
 114	1	5	2	體育（國術）			49	47		00UP013	B	半	1.0	普通體育	PE		Physical Education (Kou Shu)			5	50	必	允許重複修	N	2460	陳慶鴻	五 3-4 和平 大韻律教室	
-114	1	3	2	體育（韻律活動）			32	30		00UP014		半	1.0	普通體育	PE		Physical Education (Rhythmic Activities)			0	30	必	允許重複修	N	2461	未定	五 8-9 和平 小韻律教室	
+114	1	3	2	體育（韻律活動）			32	30		00UP014		半	1.0	普通體育	PE		Physical Education (Rhythmic Activities)			0	30	必	允許重複修	N	2461	陳佳伶	五 8-9 和平 小韻律教室	
 114	1	5	0	體育（柔道）			34	34		00UP017		半	1.0	普通體育	PE		Physical Education (Judo)			3	50	必	允許重複修	N	2462	黃國恩	三 8-9 和平 武術房一	
 114	1	5	0	體育（體適能）			38	38		00UP018	A	半	1.0	普通體育	PE		Physical Education (Conditioning)			0	40	必	允許重複修	N	2463	林雯雯	二 6-7 公館 體育館二1樓	
 114	1	8	0	體育（體適能）			40	40		00UP018	B	半	1.0	普通體育	PE		Physical Education (Conditioning)			0	40	必	允許重複修	N	2464	林淑惠	二 8-9 和平 重量訓練室一	
@@ -2458,10 +2458,10 @@
 114	1	5	1	體育（太極拳初級）			46	45		00UP121	D	半	1.0	普通體育	PE		Physical Education (Beginning Tai Chi Chuan)			0	50	必	允許重複修	N	2535	張耀庭	四 3-4 和平 武術房一	
 114	1	5	2	體育（太極拳初級）			47	45		00UP121	E	半	1.0	普通體育	PE		Physical Education (Beginning Tai Chi Chuan)			0	50	必	允許重複修	N	2536	張耀庭	四 6-7 和平 武術房一	
 114	1	5	0	體育（跆拳道初級）			39	39		00UP129		半	1.0	普通體育	PE		Physical Education (Beginning Taekwondo)			0	50	必	允許重複修	N	2537	黃珮昀	四 6-7 公館 體育館二1樓	
-114	1	9	8	體育（體操遊戲初級）			52	44		00UP132	A	半	1.0	普通體育	PE		Physical Education (Beginning Playing Gymnastics)			0	45	必	允許重複修	N	2538	未定	三 6-7 和平 體操房	
-114	1	9	3	體育（體操遊戲初級）			48	45		00UP132	B	半	1.0	普通體育	PE		Physical Education (Beginning Playing Gymnastics)			0	45	必	允許重複修	N	2539	未定	四 3-4 和平 體操房	
-114	1	9	9	體育（體操遊戲初級）			51	42		00UP132	C	半	1.0	普通體育	PE		Physical Education (Beginning Playing Gymnastics)			0	45	必	允許重複修	N	2540	未定	五 3-4 和平 體操房	
-114	1	5	5	體育（體操遊戲初級）			50	45		00UP132	D	半	1.0	普通體育	PE		Physical Education (Beginning Playing Gymnastics)			0	45	必	允許重複修	N	2541	未定	五 6-7 和平 體操房	
+114	1	9	8	體育（體操遊戲初級）			52	44		00UP132	A	半	1.0	普通體育	PE		Physical Education (Beginning Playing Gymnastics)			0	45	必	允許重複修	N	2538	龔芸	三 6-7 和平 體操房	
+114	1	9	3	體育（體操遊戲初級）			48	45		00UP132	B	半	1.0	普通體育	PE		Physical Education (Beginning Playing Gymnastics)			0	45	必	允許重複修	N	2539	龔芸	四 3-4 和平 體操房	
+114	1	9	9	體育（體操遊戲初級）			51	42		00UP132	C	半	1.0	普通體育	PE		Physical Education (Beginning Playing Gymnastics)			0	45	必	允許重複修	N	2540	龔芸	五 3-4 和平 體操房	
+114	1	5	5	體育（體操遊戲初級）			50	45		00UP132	D	半	1.0	普通體育	PE		Physical Education (Beginning Playing Gymnastics)			0	45	必	允許重複修	N	2541	陳佳伶	五 6-7 和平 體操房	
 114	1	5	0	體育（重量訓練初級）			38	38		00UP134	A	半	1.0	普通體育	PE		Physical Education (Beginning Weight Training)			0	40	必	允許重複修	N	2542	林雯雯	一 6-7 公館 體育館二1樓	
 114	1	8	7	體育（重量訓練初級）			47	40		00UP134	B	半	1.0	普通體育	PE		Physical Education (Beginning Weight Training)			0	40	必	允許重複修	N	2543	林淑惠	二 6-7 和平 重量訓練室一	
 114	1	5	0	體育（重量訓練初級）			40	40		00UP134	C	半	1.0	普通體育	PE		Physical Education (Beginning Weight Training)			0	40	必	允許重複修	N	2544	林雯雯	三 6-7 公館 體育館二1樓	
@@ -2471,7 +2471,7 @@
 114	1	5	0	體育（木球初級）			46	46		00UP136		半	1.0	普通體育	PE		Physical Education (Beginning Woodball)			0	50	必	允許重複修	N	2548	程紹同	四 1-2 公館 操場二	
 114	1	10	4	體育（保齡球初級）			54	50		00UP139		半	1.0	普通體育	PE		Physical Education (Beginning Bowling)			0	50	必	允許重複修	N	2549	徐孟達	三 3-4 和平 教室自排	
 114	1	6	6	體育（瑜珈）			36	30		00UP146	A	半	1.0	普通體育	PE		Physical Education (Yoga)			0	30	必	允許重複修	N	2550	洪銀玲	一 8-9 和平 小韻律教室	
-114	1	3	3	體育（瑜珈）			32	29		00UP146	B	半	1.0	普通體育	PE		Physical Education (Yoga)			0	30	必	允許重複修	N	2551	未定	五 1-2 和平 小韻律教室	
+114	1	3	3	體育（瑜珈）			32	29		00UP146	B	半	1.0	普通體育	PE		Physical Education (Yoga)			0	30	必	允許重複修	N	2551	陳佳伶	五 1-2 和平 小韻律教室	
 114	1	5	0	體育（定向越野）			50	50		00UP148	A	半	1.0	普通體育	PE		Physical Education (Orienteering)			0	50	必	允許重複修	N	2552	莊珮琪	三 3-4 和平 金牌講堂	
 114	1	5	0	體育（定向越野）			42	42		00UP148	B	半	1.0	普通體育	PE		Physical Education (Orienteering)			0	50	必	允許重複修	N	2553	莊珮琪	四 6-7 和平 樸105	
 114	1	10	9	體育（排球中級）			43	34		00UP205		半	1.0	普通體育	PE		Physical Education (Intermediate Volleyball)			0	50	必	允許重複修 ◎必須先修過【00UP105  體育（排球初級）】、【00UP205  體育（排球中級）】、【00UP905  體育校隊（排球）】其中一門	N	2554	劉錦璋	三 3-4 和平 體育館一4F	
@@ -3074,7 +3074,7 @@
 114	1	20	5	大師創業論壇－打造你的創業夢 </br>[ 學分學程：科技化教學產業學程 肌力與體能學程 大師創業學程 ]			56	51		PGU9003		半	2.0	大師創業學程	ZU9V		Master Entrepreneur Forum: Building Your Own Enterprise </br>[ Program: The Program of Technology-assisted Teaching Industry The Program of Strength and Conditioning Program of Entrepreneurship ]			5	50	必		N	3167	林政宏	二 A-B 和平 誠102	
 114	1	10	0	正義與人權			34	34		GBU0012		半	3.0	全球研究學位學程（學）	IUH0		Justice and Human Rights	是	2	3	50	選		N	3168	黃獻寬	一 6-8 和平 綜210展覽廳	
 114	1	10	0	臺灣當代文化歷史 </br>[ 學分學程：環境人文學程 ]	8		15	15		TCC1029		半	3.0	臺文系（碩）	LM26		Contemporary Cultural Histories of Taiwan </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU ]	是		0	50	選	◎課程開放上修	N	3169	天江喜久	三 2-4 和平 正102	
-114	1	10	4	邊界，權力與臺灣文化 </br>[ 學分學程：環境人文學程 ]			26	22		TCU1017		半	3.0	臺文系（學）	LU26		Borders, Power, and Culture in Taiwan </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU ]	是		0	50	選		N	3170	天江喜久	一 8-10 和平 正206	
+114	1	10	4	邊界，權力與臺灣文化 </br>[ 學分學程：環境人文學程 ]			26	22		TCU1017		半	3.0	臺文系（學）	LU26		Borders, Power, and Culture in Taiwan </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU ]	是		0	50	選		N	3170	天江喜久	一 8 和平 正206, 一 9-10 和平 誠105	
 114	1	0	0	專題製作（二） </br>[ 學分學程：理工實作學程 ]		本系學生請依指導老師選課，外系勿選。	10	10		ITU0156	E	半	1.0	科技系（學）	HU71		Capstone Projects (II) </br>[ Program: The Program of STEM Innovation and Practices ]		4	0	50	必		N	3171	張敬珣	五 C-D 和平 科技系TB210教室	
 114	1	50	18	漢字教學			18	0		CLU1058		半	2.0	華語系（學）	IU84	應用華語文學組	Teaching of Chinese Characters			0	0	必		N	3172	林振興	五 3-4 和平 樸105	
 114	1	10	0	運動管理學專題研究		和平校區I體育館3樓運動管理學研究室	5	5		PED0065		半	3.0	體育系（博）	AD30		Special Topics in Sport Management			0	50	選	◎課程開放上修	N	3173	鄭志富	四 2-4 和平 教室自排	
