@@ -48,7 +48,7 @@
 114	1	5	0	休閒思想演變研究			21	21		SRM0052		半	3.0	休旅所（碩）	AM31		Studies in Evolution of Leisure: Historical and Philosophical Perspectives			2	30	選	◎課程不開放上修	N	0048	林儷蓉	三 2-4 和平 綜604	
 114	1	5	0	國際運動休閒現勢專題討論			24	24		SRM0071		半	3.0	休旅所（碩）	AM31		Seminar on International Trends of Sport and Leisure			3	30	選	◎課程開放上修	N	0049	湯添進	四 7-9 和平 綜604	
 114	1	5	2	運動觀光研究與實作			21	19		SRM0073		半	3.0	休旅所（碩）	AM31		Studies and Practices in Sport Tourism			2	30	選	◎課程不開放上修	N	0050	林伯修	五 3-5 和平 綜604	
-114	1	5	0	休閒治療評估方法與研究			22	22		SRM0085		半	3.0	休旅所（碩）	AM31		Studies in Client Assessment and Evaluation in Therapeutic Recreation			2	30	選	◎課程開放上修	N	0051	林儷蓉	二 2-4 和平 綜604	
+114	1	5	0	休閒治療評估方法與研究			23	23		SRM0085		半	3.0	休旅所（碩）	AM31		Studies in Client Assessment and Evaluation in Therapeutic Recreation			2	30	選	◎課程開放上修	N	0051	林儷蓉	二 2-4 和平 綜604	
 114	1	10	0	餐旅業當代議題 </br>[ 學分學程：環境人文學程 ]	8		11	11		SRC0015		半	3.0	休旅所（碩）	AM31		Contemporary Issues for the Hospitality and Tourism Industry </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU ]	是		0	30	選	◎課程不開放上修	N	0052	雷芷卉	三 7-9 和平 綜603	
 114	1	10	0	餐旅消費者行為研究	8		16	16		SRC8009		半	3.0	休旅所（碩）	AM31		Studies in Hospitality Consumer Behavior	是		0	30	選	◎課程不開放上修	N	0053	雷芷卉	三 2-4 和平 綜603	
 114	1	0	0	研究法			18	18		SRM0011	A	半	3.0	休旅所（碩）	AM31		Research Methodology		1	0	30	必	◎課程不開放上修	N	0054	麥康妮	五 7-9 和平 綜603	
@@ -1184,7 +1184,7 @@
 114	1	9	9	程式語言 </br>[ 學分學程：元宇宙學程 ]	1		44	35		ITU0127		半	3.0	科技系（學）	HU71		Programming Language </br>[ Program: The Program of Metaverse Narrative ]		2	3	35	必		N	1220	蔡芸琤	四 2-4 和平 科技系TB311教室	
 114	1	10	0	展示設計		設科組優先選課	16	16		ITU0051		半	3.0	科技系（學）	HU71		Design for Displays and Exhibitions		3	0	35	選		N	1221	耿剛	二 10-B 和平 科技系TB213教室	
 114	1	10	0	多媒體教材設計與製作 </br>[ 學分學程：高齡學程 ]		學科組優先選課	29	29		ITU2053		半	3.0	科技系（學）	HU71		Design & Production for Multimedia Instructional Materials </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]		3	0	30	必		N	1222	丁玉良	二 7-9 和平 科技系TC411教室	
-114	1	9	2	資料庫系統		學科組優先選課	29	27		ITU2075		半	3.0	科技系（學）	HU71		Database Systems	是	3	3	35	選	◎必須先修過【ITU0127  程式語言】、【ITU1028  網際網路概論】其中一門	N	1223	蔡芸琤	一 2-4 和平 科技系TB311教室	
+114	1	9	2	資料庫系統 </br>[ 學分學程：教育大數據微學程 ]		學科組優先選課	29	27		ITU2075		半	3.0	科技系（學）	HU71		Database Systems </br>[ Program: The Program of Big Data in Education ]	是	3	3	35	選	◎必須先修過【ITU0127  程式語言】、【ITU1028  網際網路概論】其中一門	N	1223	蔡芸琤	一 2-4 和平 科技系TB311教室	
 114	1	10	0	產品設計 </br>[ 學分學程：理工實作學程 ]		設科組優先選課	18	18		ITU2080		半	3.0	科技系（學）	HU71		Products Design </br>[ Program: The Program of STEM Innovation and Practices ]		3	0	30	必		N	1224	簡佑宏	四 2-4 和平 科技系TB310教室	
 114	1	10	0	生活科技科教學實習（一）（教）		師資生優先選課	20	20		ITUE210		半	2.0	科技系（學）	HU71		Teaching Practicum: Living Technology(I)		3	0	30	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修	N	1225	張玉山 周家卉	一 7-10 和平 科技系TD301教室	
 114	1	10	1	產品分析與企劃		設科組優先選課	16	15		ITU0039		半	3.0	科技系（學）	HU71		Analysis and Planning of Products		4	1	35	選		N	1226	張敬珣	四 2-4 和平 科技系TB213教室	
@@ -1397,10 +1397,10 @@
 114	1	10	0	質的研究			12	12		MCM0013		半	3.0	大傳所（碩）	IM88		Qualitative Research			2	30	選	◎課程不開放上修	N	1440	蔡如音	五 3-5 和平 綜7樓大傳所大教室	
 114	1	10	0	全球化與媒體研究			20	20		MCM0082		半	3.0	大傳所（碩）	IM88		Studies in Globalization and Media			2	30	選	◎課程不開放上修	N	1441	胡綺珍	三 3-5 和平 綜7樓大傳所大教室	
 114	1	10	1	傳播專題討論（一）			23	22		MCM0112		半	1.0	大傳所（碩）	IM88		Seminar in Communication (I)			0	35	選	◎課程不開放上修	N	1442	胡綺珍	三 7 和平 綜7樓大傳所大教室	
-114	1	10	0	傳播社會文化基礎			27	27		MCM0123		半	3.0	大傳所（碩）	IM88		The Social and Cultural Foundation of Communication			0	30	選	◎課程不開放上修	N	1443	胡綺珍 王維菁	二 3-5 和平 美術館601	
+114	1	10	0	傳播社會文化基礎 </br>[ 學分學程：科傳學程 ]			27	27		MCM0123		半	3.0	大傳所（碩）	IM88		The Social and Cultural Foundation of Communication </br>[ Program: The Program of Science Communication ]			0	30	選	◎課程不開放上修	N	1443	胡綺珍 王維菁	二 3-5 和平 美術館601	
 114	1	10	0	傳播專業實習		限大傳所暑期實習學生修習	8	8		MCM0124		半	3.0	大傳所（碩）	IM88		Practicum in Communication			0	30	選	◎課程不開放上修	N	1444	王維菁	五 6-A 和平 綜7樓大傳所大教室	
-114	1	10	0	AI科技的社會治理			11	11		MCM0126		半	3.0	大傳所（碩）	IM88		AI-The Social Governance of Technology			5	30	選	◎課程不開放上修	N	1445	王維菁	一 3-5 和平 綜7樓大傳所大教室	
-114	1	10	0	科技與人本設計			7	7		MCM0127		半	3.0	大傳所（碩）	IM88		Human-Centered Design in Tech			2	30	選	◎課程不開放上修	N	1446	蕭維傑	二 7-9 和平 綜7樓大傳所大教室	
+114	1	10	0	AI科技的社會治理 </br>[ 學分學程：科傳學程 ]			11	11		MCM0126		半	3.0	大傳所（碩）	IM88		AI-The Social Governance of Technology </br>[ Program: The Program of Science Communication ]			5	30	選	◎課程不開放上修	N	1445	王維菁	一 3-5 和平 綜7樓大傳所大教室	
+114	1	10	0	科技與人本設計 </br>[ 學分學程：科傳學程 ]			7	7		MCM0127		半	3.0	大傳所（碩）	IM88		Human-Centered Design in Tech </br>[ Program: The Program of Science Communication ]			2	30	選	◎課程不開放上修	N	1446	蕭維傑	二 7-9 和平 綜7樓大傳所大教室	
 114	1	10	0	社會工作理論專題			29	29		SWM0002		半	3.0	社工所（碩）	IM89		Seminar in Social Work Theory			0	50	必	◎課程開放上修	N	1447	張文	一 8-10 和平 樸SW504	
 114	1	3	0	進階社會統計			13	13		SWM0003		半	3.0	社工所（碩）	IM89		Advanced Social Statistics			0	37	選	◎課程開放上修	N	1448	沈慶盈	三 6-8 和平 綜1001	
 114	1	10	0	家庭與經濟安全專題			9	9		SWM0020		半	3.0	社工所（碩）	IM89		Seminar in Family and Economic Security			0	50	選	◎課程開放上修	N	1449	王永慈	二 7-9 和平 樸SW504	
@@ -1517,8 +1517,8 @@
 114	1	5	0	兩岸僑務			18	18		CLU1073		半	3.0	華語系（學）	IU84	應用華語文學組	Comparison of Overseas Chinese Affairs		4	1	50	選		N	1561	陳嘉凌	二 2-4 和平 樸206	
 114	1	10	0	漢英翻譯		學生修課前至少須具備以下語言能力：English: IELT score of 6.5 or CEFR B2 or TOEFL iBT 92-93 or TOEFL ITP 527 or above Chinese: CEFR B2 or TOCFL B2 or ACTFL advanced high or HSK level 6 *教室容納：20人	10	10		CLU1078		半	3.0	華語系（學）	IU84	應用華語文學組	Chinese-English Translation		4	0	50	選		N	1562	王瓊淑	四 6-8 和平 綜903	
 114	1	5	0	華人藝術欣賞			20	20		CLU1089		半	3.0	華語系（學）	IU84	應用華語文學組	Introduction to Contemporary Chinese Arts		4	0	50	選		N	1563	洪逸柔	一 6-8 和平 樸402	
-114	1	3	1	大數據與資訊視覺化	9		25	24		MCC9002		半	3.0	大傳所（學）	IU88		Big Data and Information Visualization			3	31	選		N	1564	蔣旭政	一 7-9 和平 教403	
-114	1	6	6	數位公關廣告策略與規劃	9		25	19		MCC9005		半	3.0	大傳所（學）	IU88		Digital Advertising/Public Relations Strategy and Planning			2	18	選		N	1565	林慧斐	二 3-5 和平 綜7樓大傳所大教室	
+114	1	3	1	大數據與資訊視覺化 </br>[ 學分學程：科傳學程 ]	9		25	24		MCC9002		半	3.0	大傳所（學）	IU88		Big Data and Information Visualization </br>[ Program: The Program of Science Communication ]			3	31	選		N	1564	蔣旭政	一 7-9 和平 教403	
+114	1	6	6	數位公關廣告策略與規劃 </br>[ 學分學程：科傳學程 ]	9		25	19		MCC9005		半	3.0	大傳所（學）	IU88		Digital Advertising/Public Relations Strategy and Planning </br>[ Program: The Program of Science Communication ]			2	18	選		N	1565	林慧斐	二 3-5 和平 綜7樓大傳所大教室	
 114	1	10	1	全球研究導論（一）			61	60		GBU0001		半	3.0	全球研究學位學程（學）	IUH0		Introduction to Global Studies (I)	是	1	3	70	必		N	1566	邱愷欣	三 6-8 和平 綜202演講廳	
 114	1	10	0	國際關係入門			22	22		GBU0003		半	3.0	全球研究學位學程（學）	IUH0		Introduction to International Relations	是	1	3	50	必		N	1567	孫國祥 關弘昌	四 9-A 和平 誠306	
 114	1	10	0	從電影認識臺灣			20	20		GBU0010		半	3.0	全球研究學位學程（學）	IUH0		Understanding Taiwan from the Lens of Movies	是	1	0	50	選		N	1568	徐明瀚	四 6-8 和平 綜509國際會議廳	
@@ -1716,7 +1716,7 @@
 114	1	10	0	魏晉玄學概論			27	27		CHU0333		半	2.0	國文系（學）	LU20		Introduction to Metaphysics in the Wei-Chin Dynasties		2	5	50	選		N	1763	鄭燦山	三 6-7 和平 樸205	
 114	1	10	3	紅樓夢與戲曲			51	48		CHU0346		半	2.0	國文系（學）	LU20		A Dream of Red Mansions and Chinese Opera		2	5	50	選		N	1764	蔡孟珍	三 8-9 和平 樸302	
 114	1	10	0	楚辭			35	35		CHU0383		半	2.0	國文系（學）	LU20		Chu-Tzu		2	5	50	選		N	1765	郭乃禎	三 6-7 和平 樸303	
-114	1	10	0	英語世界中的中國哲學			24	24		CHU0388		半	2.0	國文系（學）	LU20		Chinese Philosophy in the English-Speaking World		2	5	50	選		N	1766	郭芳如	四 8-9 和平 樸203	
+114	1	10	0	英語世界中的中國哲學 </br>[ 學分學程：哲學學程 ]			24	24		CHU0388		半	2.0	國文系（學）	LU20		Chinese Philosophy in the English-Speaking World </br>[ Program: The Program in Philosophy ]		2	5	50	選		N	1766	郭芳如	四 8-9 和平 樸203	
 114	1	10	0	文字學（一）	1		32	32		CHU0211		半	2.0	國文系（學）	LU20		Chinese Etymology (I)		2	0	50	必		N	1767	羅凡晸	三 6-7 和平 樸307	
 114	1	10	3	中國文學史（一）	1		53	50		CHU0291		半	3.0	國文系（學）	LU20		History of Chinese Literature (I)		2	5	50	必		N	1768	陳亭佑	二 2-4 和平 樸203	
 114	1	10	1	文字學（一）	2		50	49		CHU0211		半	2.0	國文系（學）	LU20		Chinese Etymology (I)		2	5	50	必		N	1769	黃麗娟	四 3-4 和平 樸206	
@@ -2740,7 +2740,7 @@
 114	1	10	3	普通化學實驗（一）		預先帶入地科系二年級生	42	39		CMU0131	D	半	1.0	化學系（學）	SU42		General Chemistry Laboratory(I)			0	40	必	◎限外系修習	N	2821	陳頌方	四 2-4 公館 Ｄ407	
 114	1	10	1	有機化學（一） </br>[ 學分學程：台積電半導體學程 ]			101	100		CMU0137		半	3.0	化學系（學）	SU42		Organic Chemistry(I) </br>[ Program: NTNU and TSMC Semiconductor Program ]			0	100	必		N	2822	簡敦誠	一 3-4 公館 Ｅ302, 三 6 公館 Ｅ302	
 114	1	10	0	儀器分析實驗（一）			9	9		CMU0161		半	2.0	化學系（學）	SU42		Instrumental Analysis Laboratory (I)			0	40	選		N	2823	李君婷	四 6-9 公館 Ｄ401	
-114	1	10	2	普通化學甲（一） </br>[ 學分學程：台積電半導體學程 ]		預先帶入地科系二年級生	68	66		CMU0176	B	半	3.0	化學系（學）	SU42		General Chemistry A (I) </br>[ Program: NTNU and TSMC Semiconductor Program ]			0	70	必	◎限外系修習	N	2824	王彥士	二 7-9 公館 Ｂ103	
+114	1	10	2	普通化學甲（一） </br>[ 學分學程：台積電半導體學程 能源材料學程 ]		預先帶入地科系二年級生	68	66		CMU0176	B	半	3.0	化學系（學）	SU42		General Chemistry A (I) </br>[ Program: NTNU and TSMC Semiconductor Program (待補) ]			0	70	必	◎限外系修習	N	2824	王彥士	二 7-9 公館 Ｂ103	
 114	1	10	0	有機化學實驗技術（一）			85	85		CMU0179		半	1.0	化學系（學）	SU42		Organic Chemistry Laboratory Techniques (I)			0	90	選		N	2825	簡敦誠 吳學亮 杜玲嫻	一 2 公館 Ｅ302	
 114	1	10	0	科學文獻探討（一）			35	35		CMU0190	B	半	2.0	化學系（學）	SU42		Scientific Literature Study (I)			0	50	選		N	2827	劉沂欣	四 3-4 公館 Ｃ102	
 114	1	10	0	科學實例操作（一）			11	11		CMU0192		半	2.0	化學系（學）	SU42		Operation of Scientific Cases (I)			0	50	選		N	2828	陳焜銘	三 9-10 公館 Ｃ107	
@@ -2760,8 +2760,8 @@
 114	1	10	0	普通化學實驗（一）		預先帶入生科系一甲新生	33	33		CMU0131	F	半	1.0	化學系（學）	SU42		General Chemistry Laboratory(I)		1	0	40	必	◎限外系修習	N	2845	葉怡均	一 6-8 公館 Ｄ407	
 114	1	10	0	普通化學實驗（一）		預先帶入生科系一乙新生	36	36		CMU0131	G	半	1.0	化學系（學）	SU42		General Chemistry Laboratory(I)		1	0	40	必	◎限外系修習	N	2846	葉怡均	二 2-4 公館 Ｄ407	
 114	1	10	0	普通化學實驗（一）		預先帶入物理系一乙新生	37	37		CMU0131	H	半	1.0	化學系（學）	SU42		General Chemistry Laboratory(I)	是	1	0	40	必		N	2847	黎重義 張一知	四 2-4 公館 Ｄ409	
-114	1	10	2	普通化學甲（一） </br>[ 學分學程：台積電半導體學程 ]		預先帶入化學系新生	96	94		CMU0176	A	半	3.0	化學系（學）	SU42		General Chemistry A (I) </br>[ Program: NTNU and TSMC Semiconductor Program ]		1	0	100	必		N	2848	陳家俊	二 2-4 公館 Ｅ302	
-114	1	10	1	普通化學甲（一） </br>[ 學分學程：台積電半導體學程 ]		預先帶入物理系一乙新生	55	54		CMU0176	C	半	3.0	化學系（學）	SU42		General Chemistry A (I) </br>[ Program: NTNU and TSMC Semiconductor Program ]	是	1	5	70	必		N	2849	黎重義	五 2-4 公館 Ｓ101	
+114	1	10	2	普通化學甲（一） </br>[ 學分學程：台積電半導體學程 能源材料學程 ]		預先帶入化學系新生	96	94		CMU0176	A	半	3.0	化學系（學）	SU42		General Chemistry A (I) </br>[ Program: NTNU and TSMC Semiconductor Program (待補) ]		1	0	100	必		N	2848	陳家俊	二 2-4 公館 Ｅ302	
+114	1	10	1	普通化學甲（一） </br>[ 學分學程：台積電半導體學程 能源材料學程 ]		預先帶入物理系一乙新生	55	54		CMU0176	C	半	3.0	化學系（學）	SU42		General Chemistry A (I) </br>[ Program: NTNU and TSMC Semiconductor Program (待補) ]	是	1	5	70	必		N	2849	黎重義	五 2-4 公館 Ｓ101	
 114	1	10	0	普通化學乙 </br>[ 學分學程：文物保存修復學程 ]		預先帶入生科系及營養科學學士學位學程一年級新生	94	94		CMU0178	A	半	3.0	化學系（學）	SU42		General Chemistry B </br>[ Program: The Program of Conservation of Cultural Relics ]		1	0	100	必	◎限外系修習	N	2850	葉怡均	五 2-4 公館 Ｅ301	
 114	1	30	20	普通化學乙 </br>[ 學分學程：文物保存修復學程 ]		預先帶入物理系一甲及光電工程學士學位學程新生	90	70		CMU0178	B	半	3.0	化學系（學）	SU42		General Chemistry B </br>[ Program: The Program of Conservation of Cultural Relics ]		1	0	70	必	◎限外系修習	N	2851	蔡明剛	四 2-4 公館 Ｅ202	
 114	1	4	0	有機化學實驗（一）			28	28		CMU0139	A	半	1.0	化學系（學）	SU42		Organic Chemistry Laboratory(I)		2	0	28	必	◎必須先修過(也可以同時修)【CMU0179  有機化學實驗技術（一）】	N	2852	簡敦誠	一 7-9 公館 Ｄ409	
@@ -2775,7 +2775,7 @@
 114	1	4	0	物理化學實驗（一）			26	26		CMU0147	A	半	1.0	化學系（學）	SU42		Physical Chemistry Laboratory(I)		3	0	26	必		N	2860	李以仁	四 8-10 公館 Ｄ415	
 114	1	4	0	物理化學實驗（一）			23	23		CMU0147	B	半	1.0	化學系（學）	SU42		Physical Chemistry Laboratory(I)		3	0	26	必		N	2861	李以仁	五 2-4 公館 Ｄ415	
 114	1	4	0	物理化學實驗（一）			26	26		CMU0147	C	半	1.0	化學系（學）	SU42		Physical Chemistry Laboratory(I)		3	0	26	必		N	2862	王迪彥	五 6-8 公館 Ｄ415	
-114	1	10	0	物理化學－熱力學 </br>[ 學分學程：台積電半導體學程 ]			93	93		CMU0184		半	3.0	化學系（學）	SU42		Physical Chemistry- Thermodynamics </br>[ Program: NTNU and TSMC Semiconductor Program ]		3	0	100	必		N	2863	王迪彥	二 7-9 公館 Ｅ302	
+114	1	10	0	物理化學－熱力學 </br>[ 學分學程：台積電半導體學程 能源材料學程 ]			93	93		CMU0184		半	3.0	化學系（學）	SU42		Physical Chemistry- Thermodynamics </br>[ Program: NTNU and TSMC Semiconductor Program (待補) ]		3	0	100	必		N	2863	王迪彥	二 7-9 公館 Ｅ302	
 114	1	10	5	保育生物學導論			64	59		BIU0088		半	3.0	生科系（學）	SU43		Introduction to Conservation Biology			0	60	選		N	2864	林思民	五 6-8 公館 理圖001	
 114	1	10	4	普通生物學乙			42	38		BIU0170		半	3.0	生科系（學）	SU43		General Biology B			0	50	選		N	2865	林炎壽	二 7-9 公館 Ｅ202	
 114	1	10	0	普通生物學實驗甲（一）			23	23		BIU0172		半	1.0	生科系（學）	SU43		General Biology Laboratory A (I)			1	30	必		N	2866	孫智雯 李明忠	一 10-B 公館 Ｄ205	
@@ -2847,7 +2847,7 @@
 114	1	10	0	地球科學教材教法（教）			23	23		ESUE001		半	2.0	地科系（學）	SU44		Teaching Materials and Methods: Earth Sciences		3	0	50	選	◎限 二階生 教育學程生 幼教師資生 不佔名額生 登記修習生 可修	N	2935	張俊彥	三 8-9 公館 Ｓ404	
 114	1	10	0	地球科學概論甲（含實習）			10	10		ESU0218	A	半	4.0	地科系（學）	SU44		Introduction to Earth Science A (including Lab.)		4	0	50	選	◎限外系修習	N	2936	曾莉珊 葉恩肇 橋本康弘 葉庭光	一 6-9 公館 Ｓ501	
 114	1	10	2	地球科學教學實習（一）（教）			22	20		ESUE110		半	2.0	地科系（學）	SU44		Teaching Practicum: Earth Sciences(I)		4	0	50	選	◎限 二階生 教育學程生 幼教師資生 不佔名額生 登記修習生 可修	N	2937	洪逸文 許瑛玿	一 1-4 公館 SE102教學實驗室	
-114	1	10	0	科學教育與傳播的未來： AI理論與實踐	9		12	12		SEC9002		半	3.0	科教所（學）	SU45		The Future of Science Education and Communication: AI Theory and Practice			3	50	選		N	2938	林志鴻	四 2-4 公館 教室自排	
+114	1	10	0	科學教育與傳播的未來： AI理論與實踐 </br>[ 學分學程：科傳學程 ]	9		12	12		SEC9002		半	3.0	科教所（學）	SU45		The Future of Science Education and Communication: AI Theory and Practice </br>[ Program: The Program of Science Communication ]			3	50	選		N	2938	林志鴻	四 2-4 公館 教室自排	
 114	1	20	13	程式設計（一） </br>[ 學分學程：音樂科技學程 資訊科技應用學程 人工智慧學程 空間學程 ]			73	60		CSU0001	A	半	3.0	資工系（學）	SU47		Computer Programming (I) </br>[ Program: The Program of Computer Music and Audio Technology The Program of Application of Information Technology The Program of Technology and Application of Artificial Intelligence The Program of Geospatial Information Science ]			0	60	必		N	2939	張鈞法	一 2-4 公館 理圖807	
 114	1	20	1	資料結構			42	41		CSU0013	A	半	3.0	資工系（學）	SU47		Data Structures			0	50	必	◎必須先修過【CSU0001  程式設計（一）】	N	2940	王鈞右	五 7-9 公館 Ｂ102	
 114	1	15	12	線性代數			74	62		CSU0016	A	半	3.0	資工系（學）	SU47		Linear Algebra			3	60	選		N	2941	官振傑	二 2-4 公館 Ｂ101	
@@ -2958,7 +2958,7 @@
 114	1	10	6	藝術概論 </br>[ 學分學程：社團領導學程 ]		授課教師:顧素琿	58	52		ATU0013		半	2.0	美術系（學）	TU60		An Introduction to Art </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]		1	3	50	必		N	3047	顧素琿	三 6-7 和平 美101	
 114	1	10	5	西方美術史（一）		授課教師:趙可卿	58	53		ATU0305		半	2.0	美術系（學）	TU60		History of Western Art (I)		1	3	50	必		N	3048	趙可卿	二 6-7 和平 美101	
 114	1	10	1	中國美術史			51	50		ATU0026		半	2.0	美術系（學）	TU60		History of Chinese Art		2	3	50	必		N	3049	白適銘	二 8-9 和平 美101	
-114	1	10	9	繪畫發展與心智成長			55	46		ATU0232		半	2.0	美術系（學）	TU60		Drawing Development and Mental Growth		2	2	50	選		N	3050	江學瀅	一 1-2 和平 美301	
+114	1	10	9	繪畫發展與心智成長 </br>[ 學分學程：藝教學程 ]			55	46		ATU0232		半	2.0	美術系（學）	TU60		Drawing Development and Mental Growth </br>[ Program: The Program of Art Education Therapy ]		2	2	50	選		N	3050	江學瀅	一 1-2 和平 美301	
 114	1	11	9	美學（一） </br>[ 學分學程：社團領導學程 ]			62	53		ATU0237		半	2.0	美術系（學）	TU60		Aesthetics (I) </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]		2	3	50	必		N	3051	魏竹君	五 6-7 和平 美101	
 114	1	10	5	版畫（一）		授課教師:楊紋瑜	30	25		ATU0307		半	2.0	美術系（學）	TU60		Printmaking (I)		2	2	30	選		N	3052	楊紋瑜	五 3-4 和平 美201	
 114	1	10	10	攝影		授課教師:張國治	38	28		ATU6013		半	2.0	美術系（學）	TU60		Photography		2	3	30	選		N	3053	張國治	一 9-10 和平 美301	
