@@ -1167,7 +1167,7 @@
 114	2	0	0	專題製作（一） </br>[ 學分學程：理工實作學程 ]		本系學生請依指導老師選課，外系勿選。	0	0		ITU0155	C	半	1.0	科技系（學）	HU71		Capstone Projects (I) </br>[ Program: The Program of STEM Innovation and Practices ]		3	0	50	必	◎限本系(含雙主修)修習◎限大三修習	N	1173	蔡芸琤	五 C-D 和平 科技系TB212教室	
 114	2	0	0	專題製作（一） </br>[ 學分學程：理工實作學程 ]		本系學生請依指導老師選課，外系勿選。	0	0		ITU0155	D	半	1.0	科技系（學）	HU71		Capstone Projects (I) </br>[ Program: The Program of STEM Innovation and Practices ]		3	0	50	必	◎限本系(含雙主修)修習◎限大三修習	N	1174	張玉山 許庭嘉	五 C-D 和平 科技系TB312教室	
 114	2	0	0	專題製作（一） </br>[ 學分學程：理工實作學程 ]		本系學生請依指導老師選課，外系勿選。	0	0		ITU0155	E	半	1.0	科技系（學）	HU71		Capstone Projects (I) </br>[ Program: The Program of STEM Innovation and Practices ]		3	0	50	必	◎限本系(含雙主修)修習◎限大三修習	N	1175	陳淑媛 嚴萬軒 陳怡靜	五 C-D 和平 科技系TB210教室	
-114	2	10	0	結構設計		師資生優先選課	0	0		ITU0163		半	3.0	科技系（學）	HU71		Structural Design		3	0	30	選	◎限本系(含雙主修)修習◎限大三修習	N	1176	未定	四 8-10 和平 科技系TB213教室	
+114	2	10	0	結構設計		師資生優先選課	0	0		ITU0163		半	3.0	科技系（學）	HU71		Structural Design		3	0	30	選	◎限本系(含雙主修)修習◎限大三修習	N	1176	陳沛清	四 8-10 和平 科技系TB213教室	
 114	2	5	0	計算機結構		學科組優先選課	0	0		ITU2005		半	3.0	科技系（學）	HU71		Computer Architecture		3	0	35	選	◎限本系(含雙主修)修習◎限大三修習	N	1177	吳姈蓉	五 10-B 和平 科技系TA509教室	
 114	2	10	0	人因工程		設科組優先選課	0	0		ITU2035		半	3.0	科技系（學）	HU71		Human Factors Engineering		3	0	35	必	◎限本系(含雙主修)修習◎限大三修習	N	1178	簡佑宏	四 2-4 和平 科技系TB310教室	
 114	2	0	0	製造科技 </br>[ 學分學程：理工實作學程 ]		設科組優先選課	0	0		ITU2083		半	3.0	科技系（學）	HU71		Manufacturing Technology </br>[ Program: The Program of STEM Innovation and Practices ]		3	0	30	必	◎限本系(含雙主修)修習◎限大三修習◎必須先修過【ITU0002  木工製造】	N	1179	林弘昌	一 2-4 和平 科技系TC501教室	
@@ -1231,8 +1231,8 @@
 114	2	5	0	機電整合技術			0	0		MTU0029	B	半	1.0	機電系（學）	HU73	　	The Technology of Mechatronics		3	0	30	必	◎限本系(含雙主修)修習◎必須先修過【MTU0075  應用電子學（一）】	N	1239	陳俊達	二 9-10 和平 機電整合實驗室	
 114	2	10	0	機械設計 </br>[ 學分學程：台積電半導體學程 ]			0	0		MTU0105		半	3.0	機電系（學）	HU73	　	Mechanical Engineering Design </br>[ Program: NTNU and TSMC Semiconductor Program ]		3	0	50	必	◎限本系(含雙主修)修習	N	1240	陳俊達	四 2-4 和平 工501(TA501)	
 114	2	0	0	精密銲接工程	9		0	0		MTC9013		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Precision Welding Engineering			0	50	選	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1241	程金保	五 A-C 和平 機電301會議室	
-114	2	0	0	產業實務			0	0		MTU0127		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industry Practice		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1242	程金保 陳美勇	一 A-C 和平 教室自排	
-114	2	0	0	產業實務專題研討			0	0		MTU0128		半	2.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industrial Practice Seminar		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1243	程金保 陳美勇	二 A-B 和平 教室自排	
+114	2	0	0	產業實務			0	0		MTU0127		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industry Practice		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1242	程金保 陳美勇		
+114	2	0	0	產業實務專題研討			0	0		MTU0128		半	2.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industrial Practice Seminar		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1243	程金保 陳美勇		
 114	2	0	0	材料測試與分析			0	0		MTU0129		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Materials Testing and Inspection		3	0	50	選	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1244	鄭淳護	六 2-4 和平 誠203	
 114	2	20	0	人工智慧概論			0	0		AEU0081		半	3.0	電機系（學）	HU75		Introduction to Artificial Intelligence			0	50	選		N	1245	許閔傑	四 7-9 和平 綜202演講廳	
 114	2	10	0	數位系統實驗			0	0		AEU0004		半	2.0	電機系（學）	HU75		Digital Systems Laboratory	是	1	0	50	必	◎必須先修過【AEU0003  數位系統】	N	1246	林政宏	四 6-9 和平 電機系電子實驗室	
