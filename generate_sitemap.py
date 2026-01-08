@@ -1,0 +1,82 @@
+import os
+import pandas as pd
+from datetime import datetime
+import argparse
+import urllib.parse
+import html
+
+# 網站設定
+BASE_URL = "https://ntnux.org"
+# 資料來源目錄 (相對於 backend 目錄)
+DATA_DIR = "./original_data"
+# 輸出位置 (通常放在 frontend/public 以便部署後能被訪問)
+OUTPUT_DIR = "../frontend/public/sitemap"
+
+
+def generate_sitemap(year: int, term: int):
+    print(f"開始生成 Sitemap...")
+
+    # XML header
+    xml_content = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+    ]
+
+    # 1. 加入首頁
+    current_date = datetime.now().strftime('%Y-%m-%d')
+    xml_content.append(f"""    <url>
+        <loc>{BASE_URL}</loc>
+        <lastmod>{current_date}</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>""")
+
+    # 2. 讀取課程資料並加入頁面
+    # read tsv file
+    tsv_file = os.path.join(DATA_DIR, f"{year}-{term}.tsv")
+    if not os.path.exists(tsv_file):
+        print(f"找不到課程資料檔案: {tsv_file}")
+        return
+    courses_df = pd.read_csv(tsv_file, sep="\t", dtype=str)
+    course_count = 0
+
+    for _, row in courses_df.iterrows():
+        course_year = row.get('acadm_year')
+        course_term = row.get('acadm_term')
+        course_serial = row.get('serial_no')
+        course_name = urllib.parse.quote(
+            str(row.get('chn_name')).split('<')[0])
+
+        # Query String: f"{BASE_URL}/?year={year}&term={term}&serial={serial}"
+        url = f"{BASE_URL}/course/{course_name}/?year={course_year}&term={course_term}&serial={course_serial}"
+
+        xml_content.append(f"""    <url>
+        <loc>{html.escape(url)}</loc>
+        <lastmod>{current_date}</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        </url>""")
+        course_count += 1
+
+    # XML 結尾
+    xml_content.append('</urlset>')
+
+    # 寫入檔案
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    output_file = os.path.join(OUTPUT_DIR, f"sitemap-{year}-{term}.xml")
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(xml_content))
+
+    print(f"✅ Sitemap 生成完畢！共包含 {course_count} 個課程連結。")
+    print(f"📁 檔案位置: {output_file}")
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="抓取並儲存課程資料")
+    parser.add_argument("-y", "--year", type=int, required=True,
+                        help="民國學年度，如 113")
+    parser.add_argument("-t", "--term", type=int, required=True,
+                        help="學期：1 、 2 或 3")
+
+    args = parser.parse_args()
+    generate_sitemap(args.year, args.term)
