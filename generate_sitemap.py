@@ -45,10 +45,10 @@ def generate_sitemap(year: int, term: int):
         course_term = row.get('acadm_term')
         course_serial = row.get('serial_no')
         course_name = urllib.parse.quote(
-            str(row.get('chn_name')).split('<')[0])
+            str(row.get('chn_name')).split('<')[0].strip())
 
-        # Query String: f"{BASE_URL}/?year={year}&term={term}&serial={serial}"
-        url = f"{BASE_URL}/course/{course_name}/?year={course_year}&term={course_term}&serial={course_serial}"
+        # Query String: f"{BASE_URL}/?year={year}&term={term}&id={serial}"
+        url = f"{BASE_URL}/course/{course_name}?year={course_year}&term={course_term}&id={course_serial}"
 
         xml_content.append(f"""    <url>
         <loc>{html.escape(url)}</loc>
