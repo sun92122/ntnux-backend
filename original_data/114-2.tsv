@@ -791,10 +791,10 @@
 114	2	5	-138	民主政治 </br>[ 學分學程：政治與法律學程 ]			1	139		CEU0366		半	2.0	公領系（學）	EU07		Topics in Democracy </br>[ Program: The Program of Politics and Law ]		1	3	100	必		N	0800	黃信豪	四 3-4 和平 教103	
 114	2	0	-50	戶外活動（二） </br>[ 學分學程：戶外探索領導學程 戶外領導學程 ]			0	50		CEU0482		半	2.0	公領系（學）	EU07		Outdoor Activity (II) </br>[ Program: The Program of Outdoor Adventure Leadership The Program of Outdoor Leadership ]		1	3	50	選		N	0801	蕭如軒	一 1-2 和平 誠大樓公團部	
 114	2	8	-45	組織行為			0	45		CEU0490		半	3.0	公領系（學）	EU07		Organizational Behavior		1	1	50	選		N	0802	曾冠球	四 8-10 和平 誠109	
-114	2	2	-70	公民教育 </br>[ 學分學程：PASSION偏鄉教育學程 ]	1		0	70		CEU0002		半	2.0	公領系（學）	EU07		Civic Education </br>[ Program: The Program of PASSION Quality Education in Rural Schools ]		1	1	50	必		N	0803	呂啟民	一 6-7 和平 誠401	
+114	2	2	-70	公民教育 </br>[ 學分學程：PASSION偏鄉教育學程 ]	1		1	71		CEU0002		半	2.0	公領系（學）	EU07		Civic Education </br>[ Program: The Program of PASSION Quality Education in Rural Schools ]		1	1	50	必		N	0803	呂啟民	一 6-7 和平 誠401	
 114	2	10	-85	社會學 </br>[ 學分學程：人社學程 ]	1		0	85		CEU0005		半	2.0	公領系（學）	EU07		Sociology </br>[ Program: Human Services and Social Work Credit Program ]		1	1	50	必		N	0804	王美文	四 1-2 和平 誠402	
 114	2	9	-100	中華民國憲法 </br>[ 學分學程：政治與法律學程 ]	1		0	100		CEU0007		半	2.0	公領系（學）	EU07		The Constitution of R.O.C. </br>[ Program: The Program of Politics and Law ]		1	3	90	必		N	0805	劉恆妏	一 8-9 和平 誠102	
-114	2	10	-92	經濟學 </br>[ 學分學程：財金學程 ]	1		1	93		CEU0011		半	2.0	公領系（學）	EU07		Economics </br>[ Program: The Program of Finance ]		1	8	150	必		N	0806	周有熙	三 6-7 和平 教201演講廳	
+114	2	10	-92	經濟學 </br>[ 學分學程：財金學程 ]	1		2	94		CEU0011		半	2.0	公領系（學）	EU07		Economics </br>[ Program: The Program of Finance ]		1	8	150	必		N	0806	周有熙	三 6-7 和平 教201演講廳	
 114	2	0	-93	戶外體驗教育 </br>[ 學分學程：戶外領導學程 ]	1		0	93		CEU0480		半	2.0	公領系（學）	EU07		Outdoor Experiential Education </br>[ Program: The Program of Outdoor Leadership ]		1	1	50	必		N	0807	吳崇旗 蕭如軒	三 8-9 和平 誠大樓公團部	
 114	2	2	-55	公民教育 </br>[ 學分學程：PASSION偏鄉教育學程 ]	2		0	55		CEU0002		半	2.0	公領系（學）	EU07		Civic Education </br>[ Program: The Program of PASSION Quality Education in Rural Schools ]		1	1	50	必		N	0808	呂啟民	一 8-9 和平 誠401	
 114	2	10	-88	社會學 </br>[ 學分學程：人社學程 ]	2		0	88		CEU0005		半	2.0	公領系（學）	EU07		Sociology </br>[ Program: Human Services and Social Work Credit Program ]		1	1	50	必		N	0809	王美文	四 6-7 和平 正105	
@@ -821,7 +821,7 @@
 114	2	9	-32	民事訴訟法			0	32		CEU0063		半	2.0	公領系（學）	EU07		Code of Civil Procedure		3	3	90	選		N	0830	劉恆妏	三 6-7 和平 教103	
 114	2	9	-25	刑事訴訟法 </br>[ 學分學程：政治與法律學程 ]			0	25		CEU0064		半	2.0	公領系（學）	EU07		Code of Criminal Procedure </br>[ Program: The Program of Politics and Law ]		3	5	90	選		N	0831	林佳範	二 6-7 和平 誠101	
 114	2	10	-86	國際金融 </br>[ 學分學程：經濟學程 財金學程 ]			0	86		CEU0313		半	3.0	公領系（學）	EU07		International Finance </br>[ Program: The Program of Economics The Program of Finance ]		3	8	150	選		N	0832	周有熙	二 8-10 和平 教201演講廳	
-114	2	12	-77	多元文化通論			3	80		CEU0367		半	2.0	公領系（學）	EU07		Introduction to Multicultural Education		3	1	50	必		N	0833	陳素秋	三 8-9 和平 誠401	
+114	2	12	-77	多元文化通論			4	81		CEU0367		半	2.0	公領系（學）	EU07		Introduction to Multicultural Education		3	1	50	必		N	0833	陳素秋	三 8-9 和平 誠401	
 114	2	10	-14	服務學習活動設計與實施 </br>[ 學分學程：高齡學程 ]			0	14		CEU0380		半	2.0	公領系（學）	EU07		Design and Practice of Service-Learning </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]		3	1	50	選		N	0834	劉若蘭	四 3-4 和平 誠401	
 114	2	10	-16	戶外探索設計與實施 </br>[ 學分學程：戶外探索領導學程 ]			0	16		CEU0383		半	2.0	公領系（學）	EU07		Outdoor Adventure Programming </br>[ Program: The Program of Outdoor Adventure Leadership ]		3	3	50	選		N	0835	謝宜蓉	四 1-2 和平 誠大樓公團部	
 114	2	10	-41	智慧財產權法			0	41		CEU0392		半	3.0	公領系（學）	EU07		Intellectual Property Law		3	3	50	選		N	0836	李元德	五 6-8 和平 誠401	
