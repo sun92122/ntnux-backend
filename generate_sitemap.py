@@ -22,16 +22,6 @@ def generate_sitemap(year: int, term: int):
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
     ]
 
-    # 1. 加入首頁
-    current_date = datetime.now().strftime('%Y-%m-%d')
-    xml_content.append(f"""    <url>
-        <loc>{BASE_URL}</loc>
-        <lastmod>{current_date}</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>""")
-
-    # 2. 讀取課程資料並加入頁面
     # read tsv file
     tsv_file = os.path.join(DATA_DIR, f"{year}-{term}.tsv")
     if not os.path.exists(tsv_file):
@@ -47,14 +37,12 @@ def generate_sitemap(year: int, term: int):
         course_name = urllib.parse.quote(
             str(row.get('chn_name')).split('<')[0].strip())
 
-        # Query String: f"{BASE_URL}/?year={year}&term={term}&id={serial}"
-        url = f"{BASE_URL}/course/{course_name}?year={course_year}&term={course_term}&id={course_serial}"
+        # Query String: f"{BASE_URL}/year/term/id/course_name"
+        url = f"{BASE_URL}/course/{course_year}/{course_term}/{course_serial}/{course_name}"
 
         xml_content.append(f"""    <url>
         <loc>{html.escape(url)}</loc>
-        <lastmod>{current_date}</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
         </url>""")
         course_count += 1
 
