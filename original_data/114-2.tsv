@@ -1,15 +1,14 @@
 ﻿acadm_year	acadm_term	authorize_p	authorize_using	chn_name	classes	comment	counter	counter_exceptAuth	course_avg	course_code	course_group	course_kind	credit	dept_chiabbr	dept_code	dept_group_name	eng_name	eng_teach	form_s	limit	limit_count_h	option_code	restrict	rt	serial_no	teacher	time_inf	generalCore
-114	2	0	0	英文（三）：文學與文化			0	0		00UB9A1	D	半	2.0	共同科	CU		English (III): Literature and Culture	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N		柯衣凡	五 3-4 和平 正206	
 114	2	5	0	生涯規劃與就業輔導 </br>[ 學分學程：金牌書院 ]			21	21		A0U0004		半	2.0	運休學院	A		Career Planning and Vocational Counseling </br>[ Program: The Program of Elite Athletes College ]			5	50	選	◎初選 金牌書院學程 研究生得下修	N	0001	李加耀	三 6-7 和平 體002	
 114	2	1	0	網路學習資源 </br>[ 學分學程：金牌書院 ]			10	10		A0U0007		半	2.0	運休學院	A		Online Learning Resources </br>[ Program: The Program of Elite Athletes College ]			1	27	選	◎初選 金牌書院學程 研究生得下修	N	0002	謝邦彥	三 A-B 和平 教404	
-114	2	10	0	運動行銷學專題研究			0	0		PED0025		半	3.0	體育系（博）	AD30		Special Topics in Sport Marketing			0	50	選	◎課程開放上修	N	0003	程紹同	五 7-9 和平 體002	
+114	2	10	0	運動行銷學專題研究			0	0		PED0025		半	3.0	體育系（博）	AD30		Special Topics in Sport Marketing			3	50	選	◎課程開放上修	N	0003	程紹同	五 7-9 和平 體002	
 114	2	10	0	體育政策分析			3	3		PED0052		半	3.0	體育系（博）	AD30		Policy Analysis in Physical Education			0	50	選	◎課程開放上修	N	0004	湯添進	四 2-4 和平 體育館一2樓會議室	
 114	2	10	0	運動社會學專題研究			2	2		PED0076		半	3.0	體育系（博）	AD30		Special Topics in Sport Sociology			0	50	選	◎課程開放上修	N	0005	湯添進	四 7-9 和平 體002	
 114	2	10	0	量化研究法			5	5		SRD0002		半	3.0	休旅所（博）	AD31		Quantitative Methodology			2	30	必	◎課程不開放上修	N	0006	陳美燕	四 6-8 和平 綜603	
 114	2	2	0	實證性研究之文獻評析與統整			4	4		SRD0008		半	3.0	休旅所（博）	AD31		Critiquing and Synthesizing Research for Evidence-Based Practice			2	30	選	◎課程不開放上修	N	0007	林儷蓉	四 2-4 和平 綜603	
 114	2	10	0	運動休閒與餐旅管理專題討論			4	4		SRD0024		半	1.0	休旅所（博）	AD31		Seminar on Sport, Leisure, and Hospitality Management			0	30	必	允許重複修 ◎必須先修過【SRD0001  質性研究法】、【SRD0002  量化研究法】其中一門 ◎課程不開放上修	N	0008	李晶	四 B 和平 綜509國際會議廳	
 114	2	2	0	運動休閒專業英文寫作與口語表達			6	6		SRD0025		半	3.0	休旅所（博）	AD31		Academic Writing and Oral Presentation for Sport and Leisure	是		0	30	選	◎課程不開放上修	N	0009	廖邕	五 7-9 和平 綜603	
-114	2	10	0	運動贊助策略研究			2	2		PEM0100		半	3.0	體育系（碩）	AM30		Studies in Strategic Sport Sponsorship	是		0	50	選	◎課程開放上修	N	0011	程紹同	五 2-4 和平 體002	
+114	2	10	0	運動贊助策略研究			2	2		PEM0100		半	3.0	體育系（碩）	AM30		Studies in Strategic Sport Sponsorship	是		5	50	選	◎課程開放上修	N	0011	程紹同	五 2-4 和平 體002	
 114	2	10	0	休閒運動研究 </br>[ 學分學程：高齡學程 ]			14	14		PEM0106		半	3.0	體育系（碩）	AM30		Studies in Recreational Sport </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]			0	50	選	◎課程開放上修	N	0012	詹俊成	二 7-9 和平 體002	
 114	2	10	0	體育課程專題研究	8		7	7		PEC0036		半	3.0	體育系（碩）	AM30		Special Topics in Physical Education Curriculum			0	50	選	◎課程開放上修	N	0013	闕月清	二 A-C 和平 體003	
 114	2	10	0	運動哲學專題研究	8		12	12		PEC0071		半	3.0	體育系（碩）	AM30		Special Topics in Philosophy of Sport			0	50	選	◎課程開放上修	N	0014	林慶宏	四 2-4 和平 體001	
@@ -162,24 +161,24 @@
 114	2	10	0	運動專長術科：射箭			8	8		FPU0355		半	4.0	競技系（學）	AU32		Sport Specialties: Archery			0	50	必	允許重複修	N	0161	李濤名	一 8-9 公館 教室自排, 二 8-9 公館 教室自排, 四 8-9 公館 教室自排, 五 8-9 公館 教室自排	
 114	2	10	0	運動專長術科：其它			24	24		FPU0356		半	4.0	競技系（學）	AU32		Sport Specialties: Other Sport Events			0	50	必	允許重複修	N	0162	何仁育 朱芳儀	一 8-9 公館 教室自排, 二 8-9 公館 教室自排, 四 8-9 公館 教室自排, 五 8-9 公館 教室自排	
 114	2	10	0	運動專長術科：網球			13	13		FPU0357		半	4.0	競技系（學）	AU32		Sport Specialties: Tennis	是		0	50	必	允許重複修	N	0163	林岱樵	一 8-9 公館 網球場二, 二 8-9 公館 網球場二, 四 8-9 公館 網球場二, 五 8-9 公館 網球場二	
-114	2	10	0	運動專長術科：體操			6	6		FPU0358		半	4.0	競技系（學）	AU32		Sport Specialties: Gymnastics			0	50	必	允許重複修	N	0164	俞智贏	一 8-9 和平 體操房, 二 8-9 和平 體操房, 四 8-9 和平 體操房, 五 8-9 和平 體操房	
+114	2	10	0	運動專長術科：體操			6	6		FPU0358		半	4.0	競技系（學）	AU32		Sport Specialties: Gymnastics			0	50	必	允許重複修	N	0164	未定	一 8-9 和平 體操房, 二 8-9 和平 體操房, 四 8-9 和平 體操房, 五 8-9 和平 體操房	
 114	2	10	0	肌力與體能訓練理論與實務 </br>[ 學分學程：肌力與體能學程 ]			18	18		FPU0359		半	2.0	競技系（學）	AU32		Theory and Practice of Strength Training and Conditioning </br>[ Program: The Program of Strength and Conditioning ]			0	50	選		N	0165	鄭景峰	二 6-7 公館 Ｓ504	
 114	2	10	0	運動營養與表現概論			20	20		FPU0366		半	2.0	競技系（學）	AU32		Introduction to Sports Nutrition and Performance	是		0	50	選		N	0167	利安琪	三 3-4 公館 Ｓ502	
 114	2	10	0	體育教學實習（一）（教）			26	26		PEUE209		半	2.0	競技系（學）	AU32		Teaching Practicum: Physical Education (I)			0	50	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修	N	0168	陳信亨 楊琇惟	五 1-4 公館 Ｓ501	
 114	2	20	0	人體解剖生理學 </br>[ 學分學程：肌力與體能學程 運動傷害防護學程 ]			68	68		FPU0001		半	2.0	競技系（學）	AU32		Human Anatomy and Physiology </br>[ Program: The Program of Strength and Conditioning The Program of Injury Prevention and Athletic Training ]		1	0	60	必		N	0169	鄭景峰	四 6-7 公館 Ｅ101	
 114	2	10	0	體育史			50	50		FPU0032		半	2.0	競技系（學）	AU32		History of Physical Education		1	0	50	選		N	0170	李建興	一 6-7 公館 Ｓ101	
-114	2	10	0	體操（二）			50	50		FPU0153		半	2.0	競技系（學）	AU32		Gymnastics (II)		1	0	50	選	◎必須先修過【FPU0250  體操（一）】	N	0171	翁士航	三 8-9 和平 體操房	
+114	2	10	0	體操（二）			50	50		FPU0153		半	2.0	競技系（學）	AU32		Gymnastics (II)		1	0	50	選	◎必須先修過【FPU0250  體操（一）】	N	0171	未定	三 8-9 和平 體操房	
 114	2	10	0	田徑（二）			50	50		FPU0162		半	2.0	競技系（學）	AU32		Track and Field (II)		1	0	50	選	◎必須先修過【FPU0244  田徑（一）】	N	0172	蔡於儒	二 3-4 公館 操場二	
 114	2	10	0	棒（壘）球（二）			50	50		FPU0252		半	2.0	競技系（學）	AU32		Baseball (II)		1	0	50	選	◎必須先修過【FPU0251  棒（壘）球（一）】	N	0173	陳妙怡	三 3-4 公館 操場二	
 114	2	10	0	籃球（二）			21	21		FPU0254	F	半	2.0	競技系（學）	AU32		Basketball (II)		1	0	50	選	◎必須先修過【FPU0253  籃球（一）】	N	0174	梁嘉音	二 1-2 公館 體育館二3樓	
-114	2	10	0	籃球（二）			0	0		FPU0254	M	半	2.0	競技系（學）	AU32		Basketball (II)		1	0	50	選	◎必須先修過【FPU0253  籃球（一）】	N	0175	李秉鴻	四 6-7 公館 體育館二3樓	
+114	2	10	0	籃球（二）			0	0		FPU0254	M	半	2.0	競技系（學）	AU32		Basketball (II)		1	0	50	選	◎必須先修過【FPU0253  籃球（一）】	N	0175	李秉鴻	五 1-2 公館 室外籃球場二	
 114	2	10	0	瑜珈運動			50	50		FPU0363		半	2.0	競技系（學）	AU32		Yoga Exercise		1	0	50	選		N	0176	林維芬	三 8-9 和平 大韻律教室	
 114	2	10	0	體適能與運動處方 </br>[ 學分學程：肌力與體能學程 ]			14	14		FPU0017		半	2.0	競技系（學）	AU32		Physical Fitness and Exercise Prescription </br>[ Program: The Program of Strength and Conditioning ]		2	0	50	選		N	0177	鄭景峰	二 3-4 公館 Ｓ501	
 114	2	10	0	運動技能學習			20	20		FPU0019		半	2.0	競技系（學）	AU32		Motor Learning		2	0	50	選		N	0178	劉有德	五 1-2 公館 體育館二3樓會議室	
 114	2	10	0	排球（二）			36	36		FPU0161		半	2.0	競技系（學）	AU32		Volleyball (II)		2	1	50	選	◎必須先修過【FPU0243  排球（一）】	N	0181	張恩崇	五 3-4 公館 體育館二3樓	
 114	2	10	0	羽球（二）			28	28		FPU0163		半	2.0	競技系（學）	AU32		Badminton (II)		2	0	50	選	◎必須先修過【FPU0245  羽球（一）】	N	0182	李建興	二 3-4 公館 中正堂	
 114	2	10	0	桌球（二）			19	19		FPU0166		半	2.0	競技系（學）	AU32		Table Tennis (II)		2	0	50	選	◎必須先修過【FPU0248  桌球（一）】	N	0183	林岱樵	四 1-2 和平 桌球室	
-114	2	10	0	體操（四）			8	8		FPU0329		半	2.0	競技系（學）	AU32		Gymnastics (IV)		2	0	50	選	◎必須先修過【FPU0328  體操（三）】	N	0184	翁士航	三 10-A 和平 體操房	
+114	2	10	0	體操（四）			8	8		FPU0329		半	2.0	競技系（學）	AU32		Gymnastics (IV)		2	0	50	選	◎必須先修過【FPU0328  體操（三）】	N	0184	未定	三 10-A 和平 體操房	
 114	2	10	0	運動訓練管理學			31	31		FPU0038		半	2.0	競技系（學）	AU32		Management in Sport Training		3	0	50	選		N	0185	張恩崇	四 6-7 公館 Ｓ501	
 114	2	10	0	運動訓練學（含實習）			62	62		FPU0107		半	3.0	競技系（學）	AU32		Sports Training (Practical Training)		3	0	50	必		N	0186	蔡於儒	一 3-6 公館 教室自排	
 114	2	10	0	運動教練學（含實習）			61	61		FPU0108		半	3.0	競技系（學）	AU32		Sports Coaching (Practical Training)		3	0	50	必		N	0187	劉有德	四 1-4 公館 Ｓ102	
@@ -254,7 +253,7 @@
 114	2	0	0	英文（二）		數學系、物理系、化學系、全球研究學程	19	19		00UB8A1	A	半	2.0	共同科	CU		English (II)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0256	柯珍宜	一 3-4 公館 Ｓ502	
 114	2	0	0	英文（二）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	29	29		00UB8A1	B	半	2.0	共同科	CU		English (II)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0257	陳嬿如	五 1-2 和平 正301	
 114	2	0	0	英文（二）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	21	21		00UB8A1	C	半	2.0	共同科	CU		English (II)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0258	曾於萱	五 3-4 和平 正301	
-114	2	0	0	英文（二）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	22	22		00UB8A1	D	半	2.0	共同科	CU		English (II)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0259	柯衣凡	五 3-4 和平 無可用教室	
+114	2	0	0	英文（二）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系    本課程預計停開，請同學於第二階段選課至加退選結束前自行退選，後續由外文組辦理人工加選作業。	22	22		00UB8A1	D	半	2.0	共同科	CU		English (II)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0259	柯衣凡	五 3-4 和平 無可用教室	
 114	2	0	0	英文（二）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	26	26		00UB8A1	E	半	2.0	共同科	CU		English (II)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0260	陳嬿如	五 6-7 和平 正301	
 114	2	0	0	英文（二）		國文系、歷史系、地理系、臺文系、表演學位學程、東亞系	33	33		00UB8A1	F	半	2.0	共同科	CU		English (II)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0261	陳嬿如	五 8-9 和平 正301	
 114	2	0	0	英文（二）		生科系、地科系、資工系、營養科學學位學程、光電工程學位學程	29	29		00UB8A2	A	半	2.0	共同科	CU		English (II)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0262	李金安	一 1-2 公館 Ｓ303	
@@ -336,7 +335,7 @@
 114	2	3	0	教育統計學（二）			6	6		E0U0002	D	半	2.0	教育學院	E		Educational Statistics (II)			0	37	選	◎必須先修過【E0U0001  教育統計學（一）】	N	0338	譚克平	四 8-9 和平 教403	
 114	2	10	0	教育統計學（二）			50	50		E0U0002	E	半	2.0	教育學院	E		Educational Statistics (II)			0	50	選	◎必須先修過【E0U0001  教育統計學（一）】	N	0339	趙本強	四 6-7 和平 特115	
 114	2	10	0	社區高齡者服務實習 </br>[ 學分學程：高齡學程 ]			16	16		E0U0006		半	2.0	教育學院	E		Elderly Health Service Practicum </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]			0	50	必		N	0340	吳振邦 蔡昕璋	四 10-A 和平 誠206	
-114	2	10	0	學習與教學導論			26	26		E0U0008		半	2.0	教育學院	E		Introduction to Learning and Teaching	是		1	50	選		N	0341	胡翠君	四 3-4 和平 正105	
+114	2	10	0	學習與教學導論			26	26		E0U0008		半	2.0	教育學院	E		Introduction to Learning and Teaching	是		1	50	選		N	0341	胡翠君 黃翊忠	四 3-4 和平 正105	
 114	2	3	0	高級教育統計學（甲）	8	需要修習過統計相關課程	37	37		E0C8001	A	半	3.0	教育學院	E		Advanced Educational Statistics (A)			0	37	選	◎課程不開放上修	N	0342	郭郡羽	五 3-5 和平 教403	
 114	2	10	0	高級教育統計學（甲）	8	需要修習過統計相關課程	15	15		E0C8001	B	半	3.0	教育學院	E		Advanced Educational Statistics (A)			0	50	選	◎課程不開放上修	N	0343	劉振維	五 2-4 和平 教619	
 114	2	10	0	階層線性模式	8		2	2		E0C8006		半	3.0	教育學院	E		Hierachical Linear Models			1	50	選	◎課程不開放上修	N	0344	林世華	四 2-4 和平 教619	
@@ -677,7 +676,7 @@
 114	2	10	0	變態心理學 </br>[ 學分學程：音樂輔教學程 ]			50	50		PCU0048		半	3.0	心輔系（學）	EU01		Abnormal Psychology </br>[ Program: The Program of Music-assisted Guidance and Special Education ]		2	0	50	選	◎必須先修過【PCU0014  人格心理學】	N	0681	林旻沛	二 2-4 和平 教513	
 114	2	10	0	諮商理論 </br>[ 學分學程：音樂輔教學程 PASSION偏鄉教育學程 高齡學程 ]			48	48		PCU0130	A	半	3.0	心輔系（學）	EU01		Theories of Counseling </br>[ Program: The Program of Music-assisted Guidance and Special Education The Program of PASSION Quality Education in Rural Schools The program of Cultivating Seniors Service Talent in Community ]		2	0	50	必	◎必須先修過(也可以同時修)【PCU0014  人格心理學】◎必須先修過【PCU0117  輔導原理與實務】、【00UE008  輔導原理與實務（教）】其中一門	N	0682	姜兆眉	四 2-4 和平 教513	
 114	2	10	0	綜合活動領域概論 </br>[ 學分學程：PASSION偏鄉教育學程 ]			47	47		PCU0167		半	2.0	心輔系（學）	EU01		Introduction to Integrative Activities Areas </br>[ Program: The Program of PASSION Quality Education in Rural Schools ]		2	0	50	選	◎必須先修過【PCU0114  教育心理學】、【PCU0117  輔導原理與實務】	N	0683	張雨霖	一 6-7 和平 教602	
-114	2	10	0	青少年問題與輔導			50	50		PCU0176		半	2.0	心輔系（學）	EU01		Adolescent Problems and Guidance		2	0	50	選	◎必須先修過【PCU0101  青少年心理學】、【00UE018  青少年心理學（教）】其中一門	N	0684	涂繼方	五 3-4 和平 教602	
+114	2	18	0	青少年問題與輔導			50	50		PCU0176		半	2.0	心輔系（學）	EU01		Adolescent Problems and Guidance		2	2	50	選	◎必須先修過【PCU0101  青少年心理學】、【00UE018  青少年心理學（教）】其中一門	N	0684	涂繼方	五 3-4 和平 美術館601	
 114	2	10	0	學習輔導			36	36		PCU0004		半	2.0	心輔系（學）	EU01		Educational Guidance		3	0	50	選	◎必須先修過(也可以同時修)【PCU0144  學習與教學心理學】、【PCU0036  認知心理學】其中一門	N	0685	吳昭容	一 6-7 和平 教513	
 114	2	10	0	團體輔導 </br>[ 學分學程：高齡學程 ]			25	25		PCU0011	A	半	3.0	心輔系（學）	EU01		Group Guidance & Counseling </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]		3	0	30	必	◎必須先修過【PCU0131  諮商技術】	N	0686	張世華	四 2-4 和平 教600	
 114	2	10	0	團體輔導 </br>[ 學分學程：高齡學程 ]			23	23		PCU0011	B	半	3.0	心輔系（學）	EU01		Group Guidance & Counseling </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]		3	0	30	必	◎必須先修過【PCU0131  諮商技術】	N	0687	蘇盈儀	四 2-4 和平 綜10樓教室	
@@ -835,7 +834,7 @@
 114	2	10	0	公民與社會（公民）教材教法（教）	2		14	14		CEUE002		半	2.0	公領系（學）	EU07		Teaching Materials and Methods: Civic and Society		3	0	50	選	◎限本系(含雙主修)修習◎限大三大四修習     ◎限 二階生 教育學程生 不佔名額生 登記修習生 可修	N	0843	劉秀嫚	二 3-4 和平 童技室	
 114	2	10	0	校園危機處理			18	18		CEU0465		半	2.0	公領系（學）	EU07		Campus Crisis Management		4	3	50	選		N	0844	賴宏銓	一 10-A 和平 誠401	
 114	2	10	0	冒險治療			19	19		CEU0481		半	2.0	公領系（學）	EU07		Adventure Therapy		4	3	50	選		N	0845	謝宜蓉	四 8-9 和平 誠大樓公團部	
-114	2	3	0	社會領域探究與實作專題			45	45		CEU0501		半	2.0	公領系（學）	EU07		Special Topics in the Inquiry and Practice of Social Studies		4	0	45	選	◎必須先修過【CEU0507  社會領域課程概論】	N	0846	王錦雀	五 3-4 和平 誠106	
+114	2	10	0	社會領域探究與實作專題			45	45		CEU0501		半	2.0	公領系（學）	EU07		Special Topics in the Inquiry and Practice of Social Studies		4	0	65	選	◎必須先修過【CEU0507  社會領域課程概論】	N	0846	王錦雀	五 3-4 和平 誠301	
 114	2	0	0	戶外探索引導與反思 </br>[ 學分學程：戶外探索領導學程 戶外領導學程 ]			21	21		CEU0506		半	2.0	公領系（學）	EU07		Facilitation Skill and Reflection in Outdoors </br>[ Program: The Program of Outdoor Adventure Leadership The Program of Outdoor Leadership ]		4	2	50	必		N	0847	吳崇旗	四 6-7 和平 誠大樓公團部	
 114	2	5	0	特殊教育導論 </br>[ 學分學程：藝教學程 音樂輔教學程 PASSION偏鄉教育學程 溝通障礙教育學程 ]			8	8		SPU5007	A	半	3.0	特教系（學）	EU09		Introduction to Special Education </br>[ Program: The Program of Art Education Therapy The Program of Music-assisted Guidance and Special Education The Program of PASSION Quality Education in Rural Schools The Program of Communication Disorders ]	是		5	20	必		N	0848	趙本強	四 2-4 和平 特112	
 114	2	0	0	特殊教育導論 </br>[ 學分學程：藝教學程 音樂輔教學程 PASSION偏鄉教育學程 溝通障礙教育學程 ]		非全英語授課。	2	2		SPU5007	B	半	3.0	特教系（學）	EU09		Introduction to Special Education </br>[ Program: The Program of Art Education Therapy The Program of Music-assisted Guidance and Special Education The Program of PASSION Quality Education in Rural Schools The Program of Communication Disorders ]			0	2	必		N	0849	林淑莉	二 6-8 和平 特103	
@@ -881,7 +880,7 @@
 114	2	0	0	情緒管理與壓力調適			25	25		TEU0024		半	3.0	教院學士班（學）	EU13		Mood Management and Pressure Adjustment	是		0	40	選		N	0889	黃翊忠	二 8-10 和平 正301	
 114	2	10	0	跨域學習導論			27	27		TEU0002		半	3.0	教院學士班（學）	EU13		Introduction to Transdisciplinary Learning	是	1	1	50	必		N	0890	何家騏	五 6-8 和平 正403	
 114	2	10	0	組織行為			10	10		TEU0021		半	2.0	教院學士班（學）	EU13		Organizational Behavior	是	1	10	50	選		N	0891	陳大愚	二 8-9 和平 樸202	
-114	2	0	0	國際時事議題英文		◎數位課程   All distance learning courses display synchronous learning and face-to-face learning time only.  Week 2 Face-to-Face Class: February 24 (Tue), Periods A-C (18:40-21:20).    Location will be announced separately.	22	22		TEU0006		半	3.0	教院學士班（學）	EU13		Global News and International Affairs in English	是	2	0	40	必	◎必須先修過【GBU0001  全球研究導論（一）】	1	0892	岳芸	◎面授/同步	
+114	2	0	0	國際時事議題英文		◎數位課程   All distance learning courses display synchronous learning and face-to-face learning time only.  Week 2 Face-to-Face Class: February 24 (Tue), Periods A-C (18:40-21:20).    Location will be announced separately.	22	22		TEU0006		半	3.0	教院學士班（學）	EU13		Global News and International Affairs in English	是	2	0	40	必	◎必須先修過【GBU0001  全球研究導論（一）】	1	0892	未定	◎面授/同步	
 114	2	0	0	系統思考		Class Location: College of Education, Second Conference Room.	10	10		TEU0008		半	3.0	教院學士班（學）	EU13		Systems Thinking	是	2	0	40	必	◎必須先修過【TEU0002  跨域學習導論】	N	0893	林子斌	四 5-7 和平 教室自排	
 114	2	5	0	企業教育訓練			17	17		TEU0019		半	2.0	教院學士班（學）	EU13		Corporate Education and Training	是	2	5	40	選		N	0894	黃翊之	三 9-10 和平 誠301	
 114	2	10	0	全球化關鍵議題			11	11		TEU0023		半	3.0	教院學士班（學）	EU13		Critical Issues in Globalization	是	2	5	50	選		N	0895	譚偉民	四 8-10 和平 正202	
@@ -1017,8 +1016,8 @@
 114	2	5	0	西班牙語（二）		母語人士不可選課。	16	16		0HUG504		半	2.0	通識	GU		Spanish (II)			0	50	通		N	1025	張乃翠	三 6-7 和平 正204	A1UG
 114	2	5	0	法語（二）		需修過法文一或學過30小時以上法文。	18	18		0HUG505		半	2.0	通識	GU		French (II)			0	50	通		N	1026	李曉芸	三 6-7 和平 正301	A1UG
 114	2	5	0	韓語（一）		1.韓語為母語者不可選課。2.授權碼發放以大四或延畢同學為優先。	46	46		0HUG506		半	2.0	通識	GU		Korean (I)			0	50	通		N	1027	魯水晶	二 3-4 公館 理圖002	A1UG
-114	2	5	0	泰國語言與文化		母語人士不可選課。	17	17		0HUG507		半	2.0	通識	GU		Thai Language and Culture			0	50	通		N	1028	譚華德	四 6-7 和平 樸306	A1UG
-114	2	5	0	泰語（二）		母語人士不可選課。	0	0		0HUG510		半	2.0	通識	GU		Thai Language (II)			0	50	通		N	1029	譚華德	四 8-9 和平 樸306	A1UG
+114	2	5	0	泰國語言與文化		母語人士不可選課。	17	17		0HUG507		半	2.0	通識	GU		Thai Language and Culture			0	50	通		N	1028	譚華德	四 8-9 和平 樸306	A1UG
+114	2	5	0	泰語（二）		母語人士不可選課。	0	0		0HUG510		半	2.0	通識	GU		Thai Language (II)			0	50	通		N	1029	譚華德	四 6-7 和平 樸306	A1UG
 114	2	0	0	歷史與電影			38	38		0HUG634		半	2.0	通識	GU		History and the Movies			0	100	通		N	1030	陳佳宏	五 3-4 和平 誠201	A1UG
 114	2	0	0	越南語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。	5	5		0HUG649		半	2.0	通識	GU		Vietnamese (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1031	劉陳石草	三 A-B 和平 誠208	A1UG
 114	2	0	0	越南語（二）		母語人士不可選課。	7	7		0HUG650		半	2.0	通識	GU		Vietnamese (II)			0	50	通		N	1032	劉陳石草	四 A-B 和平 誠107	A1UG
@@ -1094,7 +1093,6 @@
 114	2	10	0	印刷出版科技專題研究			3	3		GCM0030		半	2.0	圖傳系（碩）	HM72		Special Topics in Graphic Arts and Publishing		2	0	30	選	◎課程不開放上修	N	1104	廖信	一 A-B 和平 一般教室	
 114	2	10	0	影視媒體與文化			10	10		GCM0035		半	2.0	圖傳系（碩）	HM72		Culture and Audio-Visual Media		2	0	30	選	◎課程不開放上修	N	1105	周守訓	三 9-10 和平 綜701	
 114	2	10	0	印前科技專題研究			3	3		GCM0039		半	2.0	圖傳系（碩）	HM72		Special Topics in Advance Pre-press Engineering		2	0	30	選	◎課程不開放上修	N	1106	王希俊	四 A-B 和平 綜701	
-114	2	10	0	網際網路傳播專題研究			0	0		GCM0042		半	2.0	圖傳系（碩）	HM72		Special Topics in Internet Communications		2	0	30	選	◎課程不開放上修	N	1107	周遵儒	四 A-B 和平 新媒體專業教室	
 114	2	10	0	數位影像科技專題研究			4	4		GCM0044		半	2.0	圖傳系（碩）	HM72		Special Topics in Digital Image Processing		2	0	30	選	◎課程不開放上修	N	1108	張晏榕	二 A-B 和平 綜701	
 114	2	10	0	地方編輯			3	3		GCM0118		半	3.0	圖傳系（碩）	HM72		Local Editing		2	0	30	選	◎課程不開放上修	N	1109	涂卉	二 2-4 和平 綜701	
 114	2	2	0	最佳化理論	8		12	12		MTC8005		半	3.0	機電系（碩）	HM73		Optimization			0	30	選	◎課程開放上修	N	1110	辜漢文	三 7-9 和平 機電302會議室	
@@ -1140,7 +1138,7 @@
 114	2	10	0	工業安全與衛生			23	23		IEU0009		半	2.0	工教系（學）	HU70		Industrial Safety and Hygiene		1	0	50	必		N	1151	郭金國	五 1-2 和平 研討六	
 114	2	10	0	工程數學（一）			34	34		IEU4371		半	3.0	工教系（學）	HU70		Engineering Mathematics (I)		1	0	50	必		N	1152	楊啟榮	四 2-4 和平 研討二	
 114	2	10	0	工程設計 </br>[ 學分學程：理工實作學程 ]		師資生優先選課	13	13		ITU0162		半	3.0	科技系（學）	HU71		Engineering Design </br>[ Program: The Program of STEM Innovation and Practices ]	是		0	30	選	◎限大二大三修習	N	1153	蔡其瑞	五 7-9 和平 科技系TC504教室	
-114	2	12	0	機電整合實務 </br>[ 學分學程：理工實作學程 ]	9	設科組、科教組、師資生優先選課	22	22		ITC9001		半	3.0	科技系（學）	HU71		Mechatronics Practice </br>[ Program: The Program of STEM Innovation and Practices ]			0	30	選	◎限大三 ◎限碩一碩二碩三以上修習	N	1154	支裕文	三 10-B 和平 科技系TB310教室	
+114	2	12	0	機電整合實務 </br>[ 學分學程：理工實作學程 ]	9	設科組、科教組、師資生優先選課	22	22		ITC9001		半	3.0	科技系（學）	HU71		Mechatronics Practice </br>[ Program: The Program of STEM Innovation and Practices ]			0	30	選	◎限大三 ◎限碩一碩二修習	N	1154	支裕文	三 10-B 和平 科技系TB310教室	
 114	2	8	0	人員數據分析 </br>[ 學分學程：AI人力資源學程 ]	9	◎數位課程   學士班:學科組優先選課   碩士班:授權碼     All distance learning courses display synchronous learning and face-to-face learning time only.	33	33		ITC9011		半	3.0	科技系（學）	HU71		Studies in People Analytics </br>[ Program: The Program of Artificial Intelligence in Human Resource Development ]	是		0	41	必	◎限大二修習◎必須先修過【ITU0057  人力資源管理】	1	1155	孫弘岳	◎面授/同步	
 114	2	10	0	圖學 </br>[ 學分學程：設計與科技學程 ]		設科組優先選課	18	18		ITU0004		半	3.0	科技系（學）	HU71		Graphics </br>[ Program: The Program of Design and Technology ]		1	0	30	必		N	1156	蔡其瑞	一 7-10 和平 科技系TC504教室	
 114	2	10	0	人力資源管理 </br>[ 學分學程：AI人力資源學程 ]		◎數位課程   學科組優先選課     All distance learning courses display synchronous learning and face-to-face learning time only.	35	35		ITU0057		半	3.0	科技系（學）	HU71		Human Resource Management </br>[ Program: The Program of Artificial Intelligence in Human Resource Development ]	是	1	3	60	必		1	1157	孫弘岳	◎面授/同步	
@@ -1162,7 +1160,7 @@
 114	2	0	0	專題製作（一） </br>[ 學分學程：理工實作學程 ]		本系學生請依指導老師選課，外系勿選。	9	9		ITU0155	C	半	1.0	科技系（學）	HU71		Capstone Projects (I) </br>[ Program: The Program of STEM Innovation and Practices ]		3	0	50	必		N	1173	蔡芸琤	五 C-D 和平 科技系TB212教室	
 114	2	0	0	專題製作（一） </br>[ 學分學程：理工實作學程 ]		本系學生請依指導老師選課，外系勿選。	6	6		ITU0155	D	半	1.0	科技系（學）	HU71		Capstone Projects (I) </br>[ Program: The Program of STEM Innovation and Practices ]		3	0	50	必		N	1174	張玉山 許庭嘉	五 C-D 和平 科技系TB312教室	
 114	2	0	0	專題製作（一） </br>[ 學分學程：理工實作學程 ]		本系學生請依指導老師選課，外系勿選。	8	8		ITU0155	E	半	1.0	科技系（學）	HU71		Capstone Projects (I) </br>[ Program: The Program of STEM Innovation and Practices ]		3	0	50	必		N	1175	陳淑媛 嚴萬軒 陳怡靜	五 C-D 和平 科技系TB210教室	
-114	2	10	0	結構設計		師資生優先選課	16	16		ITU0163		半	3.0	科技系（學）	HU71		Structural Design		3	0	30	選		N	1176	陳沛清	四 8-10 和平 科技系TB213教室	
+114	2	10	0	結構設計		師資生優先選課	16	16		ITU0163		半	3.0	科技系（學）	HU71		Structural Design		3	0	30	選	◎限大三修習	N	1176	陳沛清	四 8-10 和平 科技系TB213教室	
 114	2	5	0	計算機結構		學科組優先選課	7	7		ITU2005		半	3.0	科技系（學）	HU71		Computer Architecture		3	0	35	選		N	1177	吳姈蓉	五 10-B 和平 科技系TA509教室	
 114	2	10	0	人因工程		設科組優先選課	9	9		ITU2035		半	3.0	科技系（學）	HU71		Human Factors Engineering		3	0	35	必		N	1178	簡佑宏	四 2-4 和平 科技系TB310教室	
 114	2	0	0	製造科技 </br>[ 學分學程：理工實作學程 ]		設科組優先選課	20	20		ITU2083		半	3.0	科技系（學）	HU71		Manufacturing Technology </br>[ Program: The Program of STEM Innovation and Practices ]		3	0	30	必	◎必須先修過【ITU0002  木工製造】	N	1179	林弘昌	一 2-4 和平 科技系TC501教室	
@@ -1176,7 +1174,7 @@
 114	2	10	0	基本設計		114-2 入學管道身分為：高職生、轉學生，優先選課	24	24		GCU0013	A	半	3.0	圖傳系（學）	HU72		Basic Design		1	0	30	必		N	1187	陳明秀	四 3-5 和平 新媒體專業教室	
 114	2	10	0	色彩計劃			27	27		GCU0018		半	3.0	圖傳系（學）	HU72		Color Planning		1	0	50	選		N	1188	葉振璧	三 9-A 和平 視聽教室	
 114	2	10	0	圖學（一）			30	30		GCU0168		半	3.0	圖傳系（學）	HU72		Graphic Drawing (I)		1	0	30	選		N	1189	涂卉	三 6-8 和平 新媒體專業教室	
-114	2	3	0	圖文傳播基礎技術（一）		114-2 入學管道身分為：高中生、僑生、外國生，優先選課。第一次上課務必出席，如有任何問題請與授課老師聯繫。	25	25		GCU0174	B	半	3.0	圖傳系（學）	HU72		Basic Techniques of Graphic Communication(I)		1	0	27	必		N	1190	廖信	二 2-4 和平 製作教室A	
+114	2	3	0	圖文傳播基礎技術（一）		114-2 入學管道身分為：高中生、僑生、外國生，優先選課。第一次上課務必出席，如有任何問題請與授課老師聯繫。	25	25		GCU0174	B	半	3.0	圖傳系（學）	HU72		Basic Techniques of Graphic Communication(I)		1	0	27	必	◎限本系(含雙主修)修習◎限大一修習	N	1190	廖信	二 2-4 和平 製作教室A	
 114	2	10	0	應用攝影			15	15		GCU0015		半	3.0	圖傳系（學）	HU72		Applied Photo Technique		2	0	30	選		N	1191	陳仙舟	一 2-4 和平 圖傳系攝影室	
 114	2	10	0	電腦三次元繪圖 </br>[ 學分學程：元宇宙學程 ]			50	50		GCU0036		半	3.0	圖傳系（學）	HU72		3D Computer Graphics </br>[ Program: The Program of Metaverse Narrative ]		2	0	50	必		N	1192	張晏榕	四 8-10 和平 教402	
 114	2	10	0	燈光、音效技術			28	28		GCU0041		半	3.0	圖傳系（學）	HU72		Sound & Light Effects Techniques		2	0	50	選		N	1193	祝濬清	一 7-9 和平 製作教室B	
@@ -1225,10 +1223,10 @@
 114	2	5	0	機電整合技術			18	18		MTU0029	A	半	1.0	機電系（學）	HU73	　	The Technology of Mechatronics		3	0	30	必	◎必須先修過【MTU0075  應用電子學（一）】	N	1238	陳俊達	二 7-8 和平 機電整合實驗室	
 114	2	5	0	機電整合技術			30	30		MTU0029	B	半	1.0	機電系（學）	HU73	　	The Technology of Mechatronics		3	0	30	必	◎必須先修過【MTU0075  應用電子學（一）】	N	1239	陳俊達	二 9-10 和平 機電整合實驗室	
 114	2	10	0	機械設計 </br>[ 學分學程：台積電半導體學程 ]			54	54		MTU0105		半	3.0	機電系（學）	HU73	　	Mechanical Engineering Design </br>[ Program: NTNU and TSMC Semiconductor Program ]		3	0	50	必		N	1240	莊家維	四 2-4 和平 工501(TA501)	
-114	2	0	0	精密銲接工程	9		20	20		MTC9013		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Precision Welding Engineering			0	50	選		N	1241	程金保	五 A-C 和平 機電301會議室	
-114	2	0	0	產業實務			31	31		MTU0127		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industry Practice		3	0	50	必	允許重複修	N	1242	程金保 陳美勇		
-114	2	0	0	產業實務專題研討			31	31		MTU0128		半	2.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industrial Practice Seminar		3	0	50	必	允許重複修	N	1243	程金保 陳美勇		
-114	2	0	0	材料測試與分析			20	20		MTU0129		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Materials Testing and Inspection		3	0	50	選		N	1244	鄭淳護	六 2-4 和平 誠203	
+114	2	0	0	精密銲接工程	9		20	20		MTC9013		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Precision Welding Engineering			0	50	選	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1241	程金保	五 A-C 和平 機電301會議室	
+114	2	0	0	產業實務			31	31		MTU0127		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industry Practice		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1242	程金保 陳美勇		
+114	2	0	0	產業實務專題研討			31	31		MTU0128		半	2.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industrial Practice Seminar		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1243	程金保 陳美勇		
+114	2	0	0	材料測試與分析			20	20		MTU0129		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Materials Testing and Inspection		3	0	50	選	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1244	鄭淳護	六 2-4 和平 誠203	
 114	2	20	0	人工智慧概論			50	50		AEU0081		半	3.0	電機系（學）	HU75		Introduction to Artificial Intelligence			0	50	選		N	1245	許閔傑	四 7-9 和平 綜202演講廳	
 114	2	10	0	數位系統實驗			54	54		AEU0004		半	2.0	電機系（學）	HU75		Digital Systems Laboratory	是	1	0	50	必	◎必須先修過【AEU0003  數位系統】	N	1246	林政宏	四 6-9 和平 電機系電子實驗室	
 114	2	20	0	工程數學（一）			70	70		AEU0008		半	3.0	電機系（學）	HU75		Engineering Mathematics (I)	是	1	0	70	必	◎必須先修過【MAU0180  微積分乙（一）】	N	1247	賴以威	一 6-8 和平 教103	
@@ -1292,8 +1290,8 @@
 114	2	10	0	第二語言習得專題			1	1		CLD0037		半	3.0	華語系（博）	ID84		Seminar on Second Language Acquisition			0	50	選	◎課程不開放上修	N	1305	徐東伯	三 6-8 和平 綜901	
 114	2	1	0	研究方法			10	10		ETM0002		半	3.0	歐文所（碩）	IM82		Research Methodology	是		2	30	必	◎課程開放上修	N	1306	賴嘉玲	二 7-9 和平 博404	
 114	2	1	0	基礎拉丁文			11	11		ETM0037		半	3.0	歐文所（碩）	IM82		Basic Latin	是		2	30	必	◎課程開放上修	N	1307	陳學毅	五 6-8 和平 博404	
-114	2	1	0	英國、愛爾蘭文化與觀光專題研究			9	9		ETM0064		半	3.0	歐文所（碩）	IM82		Special Topics on British and Irish Cultures and Tourism	是		2	30	選	◎課程開放上修	N	1308	賴嘉玲	四 7-9 和平 博404	
-114	2	1	0	歐洲電影與旅行			6	6		ETM0078		半	3.0	歐文所（碩）	IM82		European Film and Travel	是		2	30	選	◎課程開放上修	N	1309	路狄諾	三 7-9 和平 博404	
+114	2	1	0	英國、愛爾蘭文化與觀光專題研究			9	9		ETM0064		半	3.0	歐文所（碩）	IM82		Special Topics on British and Irish Cultures and Tourism	是		2	30	選	◎課程開放上修	N	1308	賴嘉玲	三 7-9 和平 博404	
+114	2	1	0	歐洲電影與旅行			6	6		ETM0078		半	3.0	歐文所（碩）	IM82		European Film and Travel	是		2	30	選	◎課程開放上修	N	1309	路狄諾	四 7-9 和平 博404	
 114	2	1	0	歐洲奇幻文學研究專題			6	6		ETM0083		半	3.0	歐文所（碩）	IM82		European Speculative Literature	是		2	30	選	◎課程開放上修	N	1310	梁孫傑	一 7-9 和平 博404	
 114	2	10	0	政治經濟學專題研究		上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	2	2		EAM0007		半	3.0	東亞系（碩）	IM83		Special Topics on Political Economy			3	50	選	◎課程不開放上修	N	1311	巫俊穎	二 2-4 和平 東亞系第一教室	
 114	2	10	0	研究設計與論文寫作專題		1. 兩領域共同必修，碩士生皆須修習。2. 上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	19	19		EAM0031		半	3.0	東亞系（碩）	IM83		Seminar on Research Design and Essay Writing			3	50	必	◎課程不開放上修	N	1312	張崑將 關弘昌	二 6-8 和平 東亞系第一教室	
@@ -1557,7 +1555,7 @@
 114	2	10	0	寫作設計特論	8		20	20		ENC3051		半	3.0	英語系（碩）	LM21		Topics on Writing Design	是		0	50	選	◎課程不開放上修	N	1577	張珮青	四 6-8 和平 勤302	
 114	2	10	0	歷史學研究法（二）		本課程為碩二必修課程，碩二以下勿修習。	17	17		HIM0134		半	2.0	歷史系（碩）	LM22		Seminar in Research Methods of Historiography (II)			0	50	必	◎課程不開放上修	N	1578	葉高樹	一 3-4 和平 歷史系研究生第1教室	
 114	2	10	0	故宮檔案專題研究	8		4	4		HIC0014		半	2.0	歷史系（碩）	LM22		Special Topics on Archives of National Palace Museum			2	50	選	◎課程不開放上修	N	1579	葉高樹	二 3-4 和平 歷史系研究生第1教室	
-114	2	10	0	近代中國思想變遷專題研究	8		4	4		HIC0055		半	2.0	歷史系（碩）	LM22		Special Topics on the Intellectual Change in Modern China			0	50	選	◎課程不開放上修	N	1580	黃克武	二 7-8 和平 歷史系研究生第1教室	
+114	2	10	0	近代中國思想變遷專題研究	8		4	4		HIC0055		半	2.0	歷史系（碩）	LM22		Special Topics on the Intellectual Change in Modern China			5	50	選	◎課程不開放上修	N	1580	黃克武	二 7-8 和平 歷史系研究生第1教室	
 114	2	10	0	中國法制史專題研究	8		5	5		HIC0069		半	3.0	歷史系（碩）	LM22		Special Topics on Chinese Legal History			3	50	選	◎課程不開放上修	N	1581	陳登武	一 6-8 和平 歷史系研究生第1教室	
 114	2	10	0	中國族群關係史專題研究（一）	8		6	6		HIC8004		半	2.0	歷史系（碩）	LM22		Special Topics on History of Chinese Ethnic Relations ( I)			2	50	選	◎課程不開放上修	N	1582	呂春盛	四 3-4 和平 歷史系研究生第2教室	
 114	2	10	0	中美關係史專題研究	8		3	3		HIC8011		半	3.0	歷史系（碩）	LM22		Special Topics on History of Sino-American Relations			2	50	選	◎課程不開放上修	N	1583	吳翎君	三 6-8 和平 歷史系研究生第1教室	
@@ -1741,7 +1739,7 @@
 114	2	3	0	中級寫作（二）			11	11		ENU0288	D	半	2.0	英語系（學）	LU21		Intermediate Writing (II)	是	2	0	20	必	◎必須先修過【ENU0287  中級寫作（一）】	N	1770	多德	五 6-7 和平 誠304	
 114	2	3	0	中級寫作（二）			18	18		ENU0288	E	半	2.0	英語系（學）	LU21		Intermediate Writing (II)	是	2	0	20	必	◎必須先修過【ENU0287  中級寫作（一）】	N	1771	柯衣凡	五 6-7 和平 樸403	
 114	2	10	0	旅遊業英語			26	26		ENU0339		半	3.0	英語系（學）	LU21		Tourism English	是	2	1	50	選		N	1772	陳乃嫻	一 2-4 和平 正302	
-114	2	0	0	文學與文化中的太極			2	2		ENU0352		半	2.0	英語系（學）	LU21		Literary and Cultural Representations of Taiji	是	2	0	50	選		N	1773	蘇榕	五 3-4 和平 誠301	
+114	2	0	0	文學與文化中的太極			2	2		ENU0352		半	2.0	英語系（學）	LU21		Literary and Cultural Representations of Taiji	是	2	0	50	選		N	1773	蘇榕	五 3-4 和平 誠106	
 114	2	10	0	文法與修辭 </br>[ 學分學程：科技化教學產業學程 ]			44	44		ENU6025		半	3.0	英語系（學）	LU21		Grammar & Rhetoric </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1774	吳曉虹	五 3-5 和平 誠305	
 114	2	0	0	英語演講：英語簡報	1		30	30		ENU0218	A	半	2.0	英語系（學）	LU21		Public Speaking: Presentation	是	2	0	30	必	◎必須先修過【ENU0269  英語會話（一）】、【ENU0270  英語會話（二）】	N	1775	孔繁偉	四 8-9 和平 正306	
 114	2	0	0	英語演講：英語簡報	1		7	7		ENU0218	B	半	2.0	英語系（學）	LU21		Public Speaking: Presentation	是	2	0	30	必	◎必須先修過【ENU0269  英語會話（一）】、【ENU0270  英語會話（二）】	N	1776	吳美貞	四 8-9 和平 正304	
@@ -2361,12 +2359,12 @@
 114	2	10	0	演出企劃與製作 </br>[ 學分學程：社團領導學程 ]			21	21		PAU0008		半	2.0	表演學位學程（學）	MU92		Performing Planning and Production </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]		3	3	50	必		N	2392	周恆如	四 8-9 和平 綜10樓教室	
 114	2	10	0	表演訓練（六）			17	17		PAU0068		半	2.0	表演學位學程（學）	MU92		Acting Training (VI)		3	0	50	必	◎必須先修過【PAU0067  表演訓練（五）】	N	2393	張洪誠	二 6-7 和平 知音劇場	
 114	2	10	0	舞台語言			16	16		PAU0069		半	2.0	表演學位學程（學）	MU92		Speech		3	0	50	必		N	2394	張洪誠	三 8-9 和平 教育大樓地下室E區	
-114	2	10	0	行銷的藝術：孫子兵法的現代管理意涵			12	12		O5M0003		半	3.0	管理學院	O		The Art of Marketing: Sun Tzu's Modern Managerial Implication	是		3	30	選	◎課程開放上修	N	2395	蕭中強	五 2-4 和平 無可用教室	
+114	2	10	0	行銷的藝術：孫子兵法的現代管理意涵			12	12		O5M0003		半	3.0	管理學院	O		The Art of Marketing: Sun Tzu's Modern Managerial Implication	是		3	30	選	◎課程開放上修	N	2395	蕭中強	五 2-4 和平 雲608	
 114	2	10	0	企業ESG策略發展與治理 </br>[ 學分學程：生態產業學程 永續管理學程 ]	9		29	29		O5C9006		半	3.0	管理學院	O		Corporate ESG Strategy Development and Governance </br>[ Program: The Program of the Eco-sustainable Industry (Eco-sustainable industry Program) The Program of Sustainable Management ]			3	50	選		N	2396	陳慧玲 康敏平	五 6-8 和平 正103	
 114	2	10	0	企業永續揭露與溝通議合 </br>[ 學分學程：生態產業學程 永續管理學程 ]	9		22	22		O5C9007		半	3.0	管理學院	O		ESG Disclosure and Stakeholder Communications/Engagement </br>[ Program: The Program of the Eco-sustainable Industry (Eco-sustainable industry Program) The Program of Sustainable Management ]			0	50	選		N	2397	嚴德芬	二 2-4 和平 誠104	
 114	2	0	0	財務管理		因本課程須先進行先修課程確認，除於本校完成先修課程者可於系統選課外，其餘由老師於課堂中發放授權碼。      Because this course requires the confirmation of prerequisite courses, except those who have completed the prerequisite courses in our school can choose courses in the system, the teacher will issue authorization codes in the classroom for the rest.	2	2		MBM0001		半	3.0	管理所（碩）	OM55		Financial Management	是		0	2	必	◎必須先修過【BAU0036  會計學（一）】、【PGUA005  會計學】其中一門 ◎課程開放上修	N	2398	周德瑋	二 2-4 和平 雲508	
 114	2	10	0	行銷管理			30	30		MBM0002		半	3.0	管理所（碩）	OM55		Marketing Management	是		0	30	必	◎課程開放上修	N	2399	沈永正	四 2-4 和平 誠104	
-114	2	0	0	管理會計		因本課程須先進行先修課程確認，除於本校完成先修課程者可於系統選課外，其餘由老師於課堂中發放授權碼。      Because this course requires the confirmation of prerequisite courses, except those who have completed the prerequisite courses in our school can choose courses in the system, the teacher will issue authorization codes in the classroom for the rest.	2	2		MBM0004		半	3.0	管理所（碩）	OM55		Managerial Accounting			3	2	必	◎必須先修過【BAU0036  會計學（一）】、【PGUA005  會計學】其中一門 ◎課程開放上修	N	2400	陳慧玲	五 2-4 和平 誠202	
+114	2	0	0	管理會計		因本課程須先進行先修課程確認，除於本校完成先修課程者可於系統選課外，其餘由老師於課堂中發授放權碼。	2	2		MBM0004		半	3.0	管理所（碩）	OM55		Managerial Accounting			3	2	必	◎必須先修過【BAU0036  會計學（一）】、【PGUA005  會計學】其中一門 ◎課程開放上修	N	2400	陳慧玲	五 2-4 和平 誠202	
 114	2	6	0	消費者行為			30	30		MBM0005		半	3.0	管理所（碩）	OM55		Consumer Behavior	是		0	30	選	◎課程開放上修	N	2401	沈永正	二 2-4 和平 美術館501	
 114	2	10	0	金融市場與機構管理			17	17		MBM0009		半	3.0	管理所（碩）	OM55		Financial Market and Institutions			3	30	選	◎課程開放上修	N	2402	遲淑華	二 7-9 和平 正105	
 114	2	0	0	多變量分析		因本課程須先進行先修課程確認，除於本校完成先修課程者可於系統選課外，其餘由老師於課堂中發放授權碼。      Because this course requires the confirmation of prerequisite courses, except those who have completed the prerequisite courses in our school can choose courses in the system, the teacher will issue authorization codes in the classroom for the rest.	2	2		MBM0018	A	半	3.0	管理所（碩）	OM55		Multivariate Analysis	是		0	2	必	◎必須先修過【BAU0040  統計學（一）】、【PGUA007  統計學】其中一門 ◎課程開放上修	N	2403	陳偉慶	三 6-8 和平 正105	
@@ -2404,12 +2402,12 @@
 114	2	20	0	經濟學（二）		企管系大一中文組學生學號末碼為單數號請選修經濟學(二)A班;末碼為雙數號請選修經濟學(二)B班;英文組外國學生請選修經濟學(二)C班。欲加修本課程的學生，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。	15	15		BAU0039	B	半	3.0	企管系（學）	OU57		Economics (II)	是	1	1	50	必	◎必須先修過【BAU0038  經濟學（一）】	N	2435	徐美	二 7-9 和平 誠207	
 114	2	10	0	經濟學（二）		企管系大一中文組學生學號末碼為單數號請選修經濟學(二)A班;末碼為雙數號請選修經濟學(二)B班;英文組外國學生請選修經濟學(二)C班。欲加修本課程的學生，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。	43	43		BAU0039	C	半	3.0	企管系（學）	OU57		Economics (II)	是	1	1	50	必	◎必須先修過【BAU0038  經濟學（一）】	N	2436	陳孟霆	三 7-9 和平 誠207	
 114	2	20	0	管理數學		企管系大一中文組學生請選修管理數學A班;英文組外國學生請選修管理數學B班。	56	56		BAU0049	A	半	3.0	企管系（學）	OU57		Management Mathematics		1	0	60	必	◎必須先修過【BAU0064  商用微積分】	N	2437	何宗武	三 6-8 和平 誠201	
-114	2	10	0	管理數學		企管系大一中文組學生請選修管理數學A班;英文組外國學生請選修管理數學B班。非企管系同學需待全校加退選開始後，才得進行線上選課和利用授課碼選課方式。	27	27		BAU0049	B	半	3.0	企管系（學）	OU57		Management Mathematics	是	1	0	50	必	◎必須先修過【BAU0064  商用微積分】	N	2438	何宗武	一 6-8 和平 誠108	
+114	2	10	0	管理數學		企管系大一中文組學生請選修管理數學A班;英文組外國學生請選修管理數學B班。	27	27		BAU0049	B	半	3.0	企管系（學）	OU57		Management Mathematics	是	1	0	50	必	◎必須先修過【BAU0064  商用微積分】	N	2438	何宗武	一 6-8 和平 誠108	
 114	2	10	0	管理科學模式 </br>[ 學分學程：基礎管理學程 ]			50	50		BAU0006		半	3.0	企管系（學）	OU57		Management Science Model </br>[ Program: The Program of Fundamental Management ]		2	0	50	必	◎必須先修過【BAU0049  管理數學】	N	2439	施人英	五 2-4 和平 教401	
 114	2	20	0	財務管理 </br>[ 學分學程：運動管理學程 ]			60	60		BAU0007		半	3.0	企管系（學）	OU57		Financial Management </br>[ Program: The Program of Sports Industry Management ]		2	1	60	必	◎必須先修過【BAU0036  會計學（一）】、【BAU0037  會計學（二）】	N	2440	陳姿穎	四 2-4 和平 誠201	
 114	2	10	0	商事法			50	50		BAU0024	B	半	3.0	企管系（學）	OU57		Business Law		2	0	50	必	◎必須先修過【BAU0048  企業管理概論】	N	2441	李昱霆	四 7-9 和平 誠108	
-114	2	20	0	統計學（二）		企管系大二學生學號末碼為單數號請選修統計學(二)A班;末碼為雙數號請選修統計學(二)B班。非企管系欲加修本課程的學生，可用線上選課和利用授課碼選課方式，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。	60	60		BAU0041	A	半	3.0	企管系（學）	OU57		Statistics (II)		2	1	60	必	◎必須先修過【BAU0040  統計學（一）】	N	2442	邱皓政	二 2-4 和平 誠202	
-114	2	20	0	統計學（二）		企管系大二學生學號末碼為單數號請選修統計學(二)A班;末碼為雙數號請選修統計學(二)B班。非企管系欲加修本課程的學生，可用線上選課和利用授課碼選課方式，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。	49	49		BAU0041	B	半	3.0	企管系（學）	OU57		Statistics (II)		2	1	60	必	◎必須先修過【BAU0040  統計學（一）】	N	2443	邱皓政	二 7-9 和平 誠302	
+114	2	20	0	統計學（二）		企管系大二學生學號末碼為單數號請選修統計學(二)A班;末碼為雙數號請選修統計學(二)B班。非企管系欲加修本課程的學生，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。	60	60		BAU0041	A	半	3.0	企管系（學）	OU57		Statistics (II)		2	1	60	必	◎必須先修過【BAU0040  統計學（一）】	N	2442	邱皓政	二 2-4 和平 誠202	
+114	2	20	0	統計學（二）		企管系大二學生學號末碼為單數號請選修統計學(二)A班;末碼為雙數號請選修統計學(二)B班。非企管系欲加修本課程的學生，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。	49	49		BAU0041	B	半	3.0	企管系（學）	OU57		Statistics (II)		2	1	60	必	◎必須先修過【BAU0040  統計學（一）】	N	2443	邱皓政	二 7-9 和平 誠302	
 114	2	20	0	資訊管理			50	50		BAU0008		半	3.0	企管系（學）	OU57		Information Management		3	1	50	必	◎必須先修過【BAU0040  統計學（一）】、【BAU0041  統計學（二）】	N	2444	黃浩霆	五 7-9 和平 樸401	
 114	2	20	0	人力資源管理			60	60		BAU0023		半	3.0	企管系（學）	OU57		Human Resource Management		3	1	60	必	◎必須先修過【BAU0009  組織行為】、【BAU0010  策略管理】	N	2445	林玠妤	二 2-4 和平 綜210展覽廳	
 114	2	10	0	體育（適應體育）		因傷病等因素無法上一般體育課之學生，請於開學兩週內至健康中心辦理適應體育班申請手續。	0	0		00UP003		半	1.0	普通體育	PE		Physical Education (Adapted Physical Education)			0	50	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選允許重複修	N	2446	潘正宸	五 6-7 和平 大韻律教室	
@@ -2678,12 +2676,12 @@
 114	2	10	0	代數學（二）	3		32	32		MAU0167		半	3.0	數學系（學）	SU40		Algebra(II)		2	5	50	必	◎必須先修過【MAU0166  代數學（一）】	N	2717	劉家新	二 3-4 公館 Ｓ202, 四 3 公館 Ｓ202	
 114	2	20	0	高等微積分探索（二）	3		27	27		MAU0175		半	1.0	數學系（學）	SU40		Exploration of Advanced Calculus (II)		2	5	60	選	◎必須先修過(也可以同時修)【MAU0163  高等微積分（二）】	N	2718	林延輯	四 8 公館 Ｅ202	
 114	2	10	0	代數學探索（二）	3		25	25		MAU0177		半	1.0	數學系（學）	SU40		Exploration of Algebra (II)		2	5	50	選	◎必須先修過(也可以同時修)【MAU0167  代數學（二）】	N	2719	劉家新	四 4 公館 Ｓ202	
-114	2	10	0	複變數函數論			49	49		MAU0013		半	3.0	數學系（學）	SU40		Complex  Function Theory		3	5	50	必	◎必須先修過【MAU0179  微積分甲（二）】、【MAU0181  微積分乙（二）】其中一門	N	2720	張毓麟	三 6-8 公館 Ｓ201	
+114	2	10	0	複變數函數論			49	49		MAU0013		半	3.0	數學系（學）	SU40		Complex  Function Theory		3	5	50	必	◎必須先修過【MAU0179  微積分甲（二）】、【MAU0181  微積分乙（二）】其中一門	N	2720	張毓麟	三 6-8 公館 Ｅ101	
 114	2	10	0	拓樸學（一）		授課教師為林乾老師	47	47		MAU0027		半	3.0	數學系（學）	SU40		General Topology (I)		3	5	50	選		N	2721	林乾	一 8-10 公館 Ｓ201	
 114	2	10	0	代數特論（二）			12	12		MAU0031		半	3.0	數學系（學）	SU40		Topics in Algebra (II)		3	5	50	選		N	2722	劉容真	四 2-4 公館 Ｓ203	
 114	2	10	0	微分幾何（一） </br>[ 學分學程：天文重力學程 ]			11	11		MAU0106		半	3.0	數學系（學）	SU40		Differential Geometry (I) </br>[ Program: The Program of  Astronomy and Gravitation ]		3	5	50	必		N	2723	郭庭榕	二 6-8 公館 Ｓ203	
 114	2	9	0	微分幾何（二） </br>[ 學分學程：天文重力學程 ]			37	37		MAU0107		半	3.0	數學系（學）	SU40		Differential Geometry (II) </br>[ Program: The Program of  Astronomy and Gravitation ]		3	3	50	選		N	2724	陳瑞堂	五 6-7 公館 Ｂ103, 五 8 公館 理圖801	
-114	2	10	0	高等線性代數（一）			50	50		MAU0115		半	3.0	數學系（學）	SU40		Advanced Linear Algebra (I)		3	5	50	選		N	2725	劉容真	二 2-4 公館 Ｓ203	
+114	2	10	0	高等線性代數（一）			50	50		MAU0115		半	3.0	數學系（學）	SU40		Advanced Linear Algebra (I)		3	5	50	選		N	2725	劉容真	二 2-4 公館 Ｅ101	
 114	2	10	0	課程發展與設計（教）			25	25		MAUE075		半	2.0	數學系（學）	SU40		Curriculum Development and Design		3	0	50	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修	N	2726	唐書志	三 9-10 公館 數學館M212	
 114	2	10	0	教學媒體與運用（教）			23	23		MAUE076		半	2.0	數學系（學）	SU40		Instructional Medium		3	0	50	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修	N	2727	左台益 呂鳳琳	一 3-4 公館 理圖807	
 114	2	10	0	應用統計方法（一）			27	27		MAU0062		半	3.0	數學系（學）	SU40		Applied Statistical Methods (I)		4	5	50	選		N	2728	蔡碧紋	二 2-4 公館 Ｓ302	
@@ -2778,7 +2776,7 @@
 114	2	4	0	物理化學實驗（二）			26	26		CMU0148	C	半	1.0	化學系（學）	SU42		Physical Chemistry Laboratory(II)		3	0	26	必		N	2818	王禎翰	五 6-8 公館 Ｄ415	
 114	2	10	0	物理化學－動力學			85	85		CMU0183		半	3.0	化學系（學）	SU42		Physical Chemistry- Kinetics		3	0	100	必		N	2819	李以仁	二 6-8 公館 Ｅ302	
 114	2	10	0	普通生物學乙			13	13		BIU0170		半	3.0	生科系（學）	SU43		General Biology B			1	50	選		N	2820	孫智雯 李明忠	一 7-9 公館 Ｓ301	
-114	2	10	0	普通生物學實驗甲（二）			14	14		BIU0173		半	1.0	生科系（學）	SU43		General Biology Laboratory A (II)			0	30	必		N	2821	李明忠	一 10-B 公館 Ｄ205	
+114	2	10	0	普通生物學實驗甲（二）			14	14		BIU0173		半	1.0	生科系（學）	SU43		General Biology Laboratory A (II)			1	30	必		N	2821	李明忠	一 10-B 公館 Ｄ205	
 114	2	10	0	族群遺傳與演化	7		15	15		BIC7007		半	3.0	生科系（學）	SU43		Population Genetics and Evolution			1	50	選		N	2822	李壽先	四 2-4 公館 Ｃ303B	
 114	2	20	0	免疫化學	7		0	0		BIC7009		半	3.0	生科系（學）	SU43		Immunochemistry			0	0	選		N	2823	王玉麒	四 7-9 公館 Ｄ313	
 114	2	10	0	神經生物學	9		18	18		BIC0001		半	3.0	生科系（學）	SU43		Neurobiology			0	50	選		N	2824	王慈蔚 呂國棟	四 2-4 公館 Ｃ302	
@@ -3170,8 +3168,8 @@
 114	2	0	0	原住民美學及藝術策展實踐		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	0	0		81UG082	A	半	2	校際臺科大（學）	9UAB		Indigenous Aesthetics and Art Curating Practice				2	通			3222	曾瓊慧	一 10 TR-511, 一 9 TR-511	A1UG
 114	2	0	0	原住民族文化資產與藝術實踐		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	0	0		81UG084	A	半	2	校際臺科大（學）	9UAB		Indigenous Cultural Heritage and Artistic Practices				2	通			3223	簡志霖	二 10 TR-210, 二 9 TR-210	A1UG
 114	2	0	0	時事漫談智慧財產與科技法		通識教育中心 ; 通識領域課程、英語授課、限100人、EMI課程 ; 限修學制：大 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	0	0		83UG055	A	半	2	校際臺科大（學）	9UAB		Law of Intellectual Property and Technology- Current Topics	是			10	通			3224	Richard Aron Osman	二 6-7 IB-401	A2UG
-114	2	0	0	配色的基礎與實踐		通識教育中心 ; 限50人、通識領域課程、PBL課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	2	2		81UG058	A	半	2	校際臺科大（學）	9UAB		Principals and Practical Applications of Color Scheme				2	通			3225	陳鴻興	四 10 TR-511, 四 9 TR-511	A1UG
-114	2	0	0	博物館與城市文化		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：歷史與文化、公民素養與社會探究；97-105入學	1	1		8SUG041	A	半	2	校際臺科大（學）	9UAB		Museums and Urban Culture				2	通			3231	林宜珍	四 3-4	A2UG
+114	2	0	0	配色的基礎與實踐		通識教育中心 ; 限50人、通識領域課程、PBL課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	2	2		81UG058	A	半	2	校際臺科大（學）	9UAB		Principals and Practical Applications of Color Scheme				2	通			3225	陳鴻興	四 10 TR-509, 四 9 TR-509	A1UG
+114	2	0	0	博物館與城市文化		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：歷史與文化、公民素養與社會探究；97-105入學	1	1		8SUG041	A	半	2	校際臺科大（學）	9UAB		Museums and Urban Culture				2	通			3231	林宜珍	四 3-4 TR-515	A2UG
 114	2	0	0	電影與精神疾病		通識教育中心 ; 限50人、通識領域課程、英語授課、EMI課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：自然科學領域；106-108入學：科學與生命；97-105入學：科學與生命	2	2		85UG023	A	半	2	校際臺科大（學）	9UAB		Movies and Mental Illness	是			2	通			3234	徐昀	四 6-7 TR-211	A3UG
 114	2	0	0	慢城南的漫書寫		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	0	0		84UG051	A	半	2	校際臺科大（學）	9UAB		Writing Therapy Applied in the South Side of Taipei				2	通			3235	許碩驛	四 10 TR-609, 四 9 TR-609	A1UG
 114	2	0	0	舊城南裡究電影		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	0	0		81UG079	A	半	2	校際臺科大（學）	9UAB		Exploring Cinema Therapy Through Southern Taipei Films				2	通			3240	許碩驛	三 10 TR-212, 三 9 TR-212	A1UG
@@ -3202,9 +3200,9 @@
 114	2	0	0	技術與社會：從理論框架到永續實踐		通識教育中心 ; 限50人、PBL課程、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	0	0		83UG106	B	半	2	校際臺科大（學）	9UAB		Technology and Society: From Theoretical Frameworks to Sustainable Practices				2	通			3265	洪秀錦	四 10 TR-515, 四 9 TR-515	A2UG
 114	2	0	0	創意療癒水彩與彩繪城南文化		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	2	2		81UG086	A	半	2	校際臺科大（學）	9UAB		Creative Healing Watercolor and Painting Chengnan Culture				2	通			3266	鄒家鈺	二 3-4 TR-610	A1UG
 114	2	0	0	創意療癒水彩與彩繪城南文化		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	2	2		81UG086	B	半	2	校際臺科大（學）	9UAB		Creative Healing Watercolor and Painting Chengnan Culture				2	通			3267	鄒家鈺	三 3-4	A1UG
-114	2	0	0	創新與創業		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	1	1		83UG092	A	半	2	校際臺科大（學）	9UAB		Innovation and Entrepreneurship				2	通			3268	隋風銘	二 6-7 TR-611	A2UG
-114	2	0	0	創新與創業		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	0	0		83UG092	B	半	2	校際臺科大（學）	9UAB		Innovation and Entrepreneurship				2	通			3269	隋風銘	二 8-9 TR-611	A2UG
-114	2	0	0	資訊素養與媒體識讀		通識教育中心 ; 限30人、通識領域課程、英語授課、EMI課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	0	0		83UG075	A	半	2	校際臺科大（學）	9UAB		Information and Media Literacy	是			2	通			3270	洪秀錦	三 3-4 TR-412-2	A2UG
+114	2	0	0	創新與創業		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	1	1		83UG092	A	半	2	校際臺科大（學）	9UAB		Innovation and Entrepreneurship				2	通			3268	隋風銘	二 6-7 TR-211	A2UG
+114	2	0	0	創新與創業		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	0	0		83UG092	B	半	2	校際臺科大（學）	9UAB		Innovation and Entrepreneurship				2	通			3269	隋風銘	二 8-9 TR-211	A2UG
+114	2	0	0	資訊素養與媒體識讀		通識教育中心 ; 限30人、通識領域課程、英語授課、EMI課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	0	0		83UG075	A	半	2	校際臺科大（學）	9UAB		Information and Media Literacy	是			2	通			3270	洪秀錦	三 3-4 TR-411	A2UG
 114	2	0	0	資訊素養與媒體識讀		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	1	1		83UG075	B	半	2	校際臺科大（學）	9UAB		Information and Media Literacy				2	通			3271	洪秀錦	三 10 TR-513, 三 9 TR-513	A2UG
 114	2	0	0	親密關係暴力事件案例探討		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	0	0		83UG104	A	半	2	校際臺科大（學）	9UAB		Case Study on Intimate Relationship Violence				2	通			3272	林麗燕	一 6-7 TR-513	A2UG
 114	2	0	0	親密關係暴力事件案例探討		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	0	0		83UG104	B	半	2	校際臺科大（學）	9UAB		Case Study on Intimate Relationship Violence				2	通			3273	林麗燕	二 1-2	A2UG
@@ -3218,7 +3216,7 @@
 114	2	0	0	BIM建築資訊系統應用	8	設計學院 ; 建築系 ; 限30人、英語授課、EMI課程、加退選開放本系在職專班選課、加退選時開放本系大四選課 ; 限修學制：碩、博	0	0		ABC8811	A	半	3.0	校際臺科大（碩）	9MAB		The Practice and Application of Building Information Modeling (BIM)	是			5	選	◎課程不開放上修		3281	施宣光	五 10 RB-508, 五 8-9 RB-508	
 114	2	0	0	UE5 虛擬場景設計與應用		設計學院 ; 設計系 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0956	A	半	2.0	校際臺科大（學）	9UAB		Crafting Immersive Virtual Worlds with UE5				2	選			3282	曹陶甬	二 6-7 RB-508	
 114	2	0	0	X光及中子散射	8	工程學院 ; 化學工程系 ; 英語授課、限40人、EMI課程 ; 限修學制：碩、博	0	0		ABC8081	A	半	3.0	校際臺科大（碩）	9MAB		Methods of X-Ray and Neutron Scattering	是			3	選	◎課程不開放上修		3283	黃延吉	四 3-4 IB-510-2, 三 2 IB-510-2	
-114	2	0	0	「日本事情」面面觀		人文社會學院 ; 應用外語系 ; 限40人、外語選修、限大二以上學生選課、進階課程建議具備日文基礎者選修、教師將於第一次上課做程度能力確認 ; 限修學制：大、碩、博	3	3		ABU0486	A	半	2.0	校際臺科大（學）	9UAB		Different Aspects of Japan				3	選			3284	王敏東	五 3-4	
+114	2	0	0	「日本事情」面面觀		人文社會學院 ; 應用外語系 ; 限40人、外語選修、限大二以上學生選課、進階課程建議具備日文基礎者選修、教師將於第一次上課做程度能力確認 ; 限修學制：大、碩、博	3	3		ABU0486	A	半	2.0	校際臺科大（學）	9UAB		Different Aspects of Japan				3	選			3284	王敏東	五 3-4 T4-404	
 114	2	0	0	Ｃ程式語言		工程學院 ; 機械工程系 ; 限40人、本系所開程式語言課程，任選一門 ; 限修學制：大、碩、博	3	3		ABU0879	A	半	3.0	校際臺科大（學）	9UAB		C Programming Language				4	選			3285	蘇裕軒	三 6-8 E1-223	
 114	2	0	0	二維硫硒碲族半導體材料特性分析	8	產學創新學院 ; 先進半導體科技研究所 ; 限26人、加退選開放大四選修、上課地點華夏科大，上課節次起訖時間請依照臺科大上課時間表 ; 限修學制：碩、博	1	1		ABC8812	A	半	3.0	校際臺科大（碩）	9MAB		Physics and Applications of 2D S?Se?Te Semiconductor Materials				2	選	◎課程不開放上修		3286	王逸平	五 6-8 華夏	
 114	2	0	0	人力資源管理		管理學院 ; 企業管理系 ; 四企二.二企三雙號修習、英語授課、EMI課程、業界師資協同教學、遴選不開放選修 ; 限修學制：大、碩、博	1	1		ABU0335	A	半	3.0	校際臺科大（學）	9UAB		Human Resources Management	是			3	選			3287	黃美慈	一 10 MA-405, 一 8-9 MA-405	
@@ -3245,7 +3243,7 @@
 114	2	0	0	工業管理概論		管理學院 ; 工業管理系 ; 電腦抽選後開放工管系四工二.四工三.四工四重修學生上機選課、臺大及臺師大修讀本系輔系及雙主修學生可向授課老師索取授權碼選課、限48人 ; 限修學制：大、碩、博	1	1		ABU0721	A	半	3.0	校際臺科大（學）	9UAB		Introduction to Industrial Management				1	選			3308	張益賓	三 2-4 MA-207	
 114	2	0	0	工業管理概論		管理學院 ; 工業管理系 ; 電腦抽選後開放工管系四工二.四工三.四工四重修學生上機選課、臺大及臺師大修讀本系輔系及雙主修學生可向授課老師索取授權碼選課、限48人、PBL課程、業界師資協同教學 ; 限修學制：大、碩、博	1	1		ABU0721	B	半	3.0	校際臺科大（學）	9UAB		Introduction to Industrial Management				1	選			3309	李應豪	一 2-4 MA-010	
 114	2	0	0	工業機械手臂操作與程式設計實習		工程學院 ; 機械工程系 ; 限20人、系上所開實習任選二科、請同學自備筆記型電腦 ; 限修學制：大、碩、博	0	0		ABU0796	A	半	1.0	校際臺科大（學）	9UAB		Practice of Operation and Programming of Industrial Manipulators				1	選			3310	吳國彰	二 6-8 公館校區B棟	
-114	2	0	0	不動產財務分析	8	設計學院 ; 建築系 ; 不動產管理學程、加退選開放本系在職專班選課 ; 限修學制：碩、博	0	0		ABC8397	A	半	3.0	校際臺科大（碩）	9MAB		Financial Analysis in Real Estate				5	選	◎課程不開放上修		3311	蔡清徽	四 2-4 IB-510-1	
+114	2	0	0	不動產財務分析	8	設計學院 ; 建築系 ; 不動產管理學程、加退選開放本系在職專班選課 ; 限修學制：碩、博	0	0		ABC8397	A	半	3.0	校際臺科大（碩）	9MAB		Financial Analysis in Real Estate				5	選	◎課程不開放上修		3311	蔡清徽	四 2-4 IB-601-1	
 114	2	0	0	不動產經營與管理	8	設計學院 ; 建築系 ; 不動產管理學程、限40人、加退選開放本系在職專班選課 ; 限修學制：碩、博	1	1		ABC8330	A	半	3.0	校際臺科大（碩）	9MAB		Real Estate Management				5	選	◎課程不開放上修		3312	顏世禮	二 A-C TR-410	
 114	2	0	0	中國建築史		設計學院 ; 建築系 ;   限修學制：大、碩、博	3	3		ABU0195	A	半	3.0	校際臺科大（學）	9UAB		History of Chinese Architecture				3	選			3313	王惠君	四 6-8 TR-313	
 114	2	0	0	中國與東亞文明史		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0268	A	半	2.0	校際臺科大（學）	9UAB		China and East Asia's Civilization				2	選			3314	王瑞傑	五 8-9 TR-412-1	
@@ -3255,13 +3253,13 @@
 114	2	0	0	公平交易法		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0112	A	半	3.0	校際臺科大（學）	9UAB		Fair Trade Act				2	選			3318	陳丁章	五 1-3 TR-514	
 114	2	0	0	分子生醫材料	8	應用科技學院 ; 醫學工程研究所 ; 加退選開放全校大三、大四選修、PBL課程、業界師資協同教學、限16人、英語授課、EMI課程、開放外系研究所選修 ; 限修學制：碩、博	0	0		ABC8472	A	半	3.0	校際臺科大（碩）	9MAB		Molecular Principle of Biomaterials	是			2	選	◎課程不開放上修		3319	高震宇	一 6-8 TR-836	
 114	2	0	0	天然功能性分子與生物3D列印		工程學院 ; 材料科學與工程系 ; 限30人、加退選開放外系選修 ; 限修學制：大	0	0		ABU1040	A	半	3.0	校際臺科大（學）	9UAB		Natural Functional Molecules and Bio-3D Printing				1	選			3320	黃欣萍	二 10 E1-243, 二 9 E1-243, 三 5 E1-243	
-114	2	0	0	文學與人生		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0373	A	半	2.0	校際臺科大（學）	9UAB		Literature and Life				2	選			3321	蔡明蓉	二 6-7	
+114	2	0	0	文學與人生		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0373	A	半	2.0	校際臺科大（學）	9UAB		Literature and Life				2	選			3321	蔡明蓉	二 6-7 TR-209	
 114	2	0	0	文學與人生		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0373	B	半	2.0	校際臺科大（學）	9UAB		Literature and Life				2	選			3322	王志浩	五 6-7 TR-609	
 114	2	0	0	文學與電影		通識教育中心 ; 通識教育中心 ; 通識領域課程、限140人、上課日程表請詳見名家系列課程時間表 ; 限修學制：大、碩、博	1	1		ABU0198	A	半	2.0	校際臺科大（學）	9UAB		Literature and Cinema				10	選			3323	許榮哲	四 A-C AU-101	
 114	2	0	0	文藝發展與流行音樂文化		通識教育中心 ; 通識教育中心 ; 通識領域課程、限100人、上課日程表請詳見名家系列課程時間表 ; 限修學制：大、碩、博	11	11		ABU0257	A	半	2.0	校際臺科大（學）	9UAB		Socio-cultural Development and Pop Music Culture				25	選			3324	馬世芳	一 A-C AU-101	
 114	2	0	0	世界當代文化史與紀錄片田調研究		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0513	A	半	2.0	校際臺科大（學）	9UAB		World Contemporary Cultural History and Documentary Fieldwork Research				2	選			3325	眭澔平	五 10 TR-214, 五 9 TR-214	
 114	2	0	0	加密資產法規與應用		管理學院 ; 財務金融學士學位學程 ; 財金學位學程開放全校大二大三大四選修、限45人 ; 限修學制：大、碩、博	1	1		ABU1041	A	半	3.0	校際臺科大（學）	9UAB		Regulations and Applications of Crypto Assets				5	選			3326	王宏瑞	五 A-C	
-114	2	0	0	半導體雷射的原理與應用	8	電資學院 ; 電子工程系 ; 加退選時開放本系大四選課 ; 限修學制：碩、博	0	0		ABC8528	A	半	3.0	校際臺科大（碩）	9MAB		Principles and Applications of Semiconductor Lasers				5	選	◎課程不開放上修		3327	林銘偉	四 6-8 IB-602-1	
+114	2	0	0	半導體雷射的原理與應用	8	電資學院 ; 電子工程系 ; 加退選時開放本系大四選課 ; 限修學制：碩、博	0	0		ABC8528	A	半	3.0	校際臺科大（碩）	9MAB		Principles and Applications of Semiconductor Lasers				5	選	◎課程不開放上修		3327	林銘偉	四 6-8 IB-511-1	
 114	2	0	0	古典小說探趣		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0338	A	半	2.0	校際臺科大（學）	9UAB		Selected Readings in Classic Chinese Novels				2	選			3328	蔡昱宇	四 10 TR-513, 四 9 TR-513	
 114	2	0	0	台灣傳統建築形式與作法		通識教育中心 ; 通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博	2	2		ABU1042	A	半	2.0	校際臺科大（學）	9UAB		Traditional Architectural Forms and Practices				2	選			3329	陳薏如	一 6-7 TR-211	
 114	2	0	0	台灣傳統建築形式與作法		通識教育中心 ; 通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博	0	0		ABU1042	B	半	2.0	校際臺科大（學）	9UAB		Traditional Architectural Forms and Practices				2	選			3330	陳薏如	一 8-9 TR-211	
@@ -3270,11 +3268,11 @@
 114	2	0	0	平台策略與創新	8	管理學院 ; 科技管理研究所 ; 英語授課、業界師資協同教學、限32人、開放外系選修、EMI課程 ; 限修學制：碩	0	0		ABC8474	A	半	3.0	校際臺科大（碩）	9MAB		Platform Strategy and Innovation	是			2	選	◎課程不開放上修		3333	葉峻賓	二 6-8 TR-812	
 114	2	0	0	幼兒數位遊戲理論與實務	8	應用科技學院 ; 應用科技研究所 ; PBL課程、開放外系研究所選課、加退選時開放全校大四選修、限14人、業界師資協同教學、數位學習與科學教育領域 ; 限修學制：碩、博	0	0		ABC8439	A	半	3.0	校際臺科大（碩）	9MAB		Theory and Practice of Digital Games for Children				1	選	◎課程不開放上修		3334	湯梓辰	五 2-4 TR-836	
 114	2	0	0	正念減壓與情緒管理		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0488	A	半	2.0	校際臺科大（學）	9UAB		Mindfulness-Based Stress Reduction and Emotion Management				2	選			3335	葉北辰	三 1-2 TR-214	
-114	2	0	0	民法概要		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0376	A	半	2.0	校際臺科大（學）	9UAB		Civil Code				2	選			3336	李子聿	一 1-2 TR-515	
-114	2	0	0	永續建築結構造型及設計演習	8	設計學院 ; 建築系 ; 建築帷幕與外覆系統產業學程、英語授課、EMI課程、加退選開放本系在職專班選課、遴選不開放選修、加退選時開放本系大四選課 ; 限修學制：碩、博	0	0		ABC8475	A	半	3.0	校際臺科大（碩）	9MAB		Practice of Sustainable Structural Form and Design in Architecture	是			3	選	◎課程不開放上修		3337	蔡孟廷	二 2-4	
+114	2	0	0	民法概要		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0376	A	半	2.0	校際臺科大（學）	9UAB		Civil Code				2	選			3336	李子聿	一 1-2 TR-411	
+114	2	0	0	永續建築結構造型及設計演習	8	設計學院 ; 建築系 ; 建築帷幕與外覆系統產業學程、英語授課、EMI課程、加退選開放本系在職專班選課、遴選不開放選修、加退選時開放本系大四選課 ; 限修學制：碩、博	0	0		ABC8475	A	半	3.0	校際臺科大（碩）	9MAB		Practice of Sustainable Structural Form and Design in Architecture	是			3	選	◎課程不開放上修		3337	蔡孟廷	二 2-4 T3-304	
 114	2	0	0	永續發展概論		應用科技學院 ; 應用科技學士學位學程 ; 限51人、通識領域課程、開放全校大學部學生選修 ; 限修學制：大、碩、博	1	1		ABU0723	A	半	2.0	校際臺科大（學）	9UAB		Introduction to the Sustainable Development Goals				2	選			3338	胡家紋	一 6-7 TR-209	
 114	2	0	0	永續發展與社會(二)		通識教育中心 ; 通識教育中心 ; 限30人、通識領域課程、英語授課、EMI課程 ; 限修學制：大、碩、博	0	0		ABU0724	A	半	2.0	校際臺科大（學）	9UAB		Sustainable Development and Society II	是			2	選			3339	黃淑怡	一 3-4 TR-617	
-114	2	0	0	永續發展與社會(二)		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0724	B	半	2.0	校際臺科大（學）	9UAB		Sustainable Development and Society II				2	選			3340	黃淑怡	二 6-7 RB-101	
+114	2	0	0	永續發展與社會(二)		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0724	B	半	2.0	校際臺科大（學）	9UAB		Sustainable Development and Society II				2	選			3340	黃淑怡	二 6-7 TR-617	
 114	2	0	0	永續發展與智慧財產權		智慧財產學院 ; 智慧財產權學士學位學程 ; 限20人 ; 限修學制：大	3	3		ABU1043	A	半	3.0	校際臺科大（學）	9UAB		Intellectual Property and Sustainable Development				5	選			3341	陳怡婷	五 6-8 TR-833	
 114	2	0	0	生命臨終關懷實務分享		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0200	A	半	2.0	校際臺科大（學）	9UAB		Practical Sharing of End-of-Life Care				2	選			3342	吳淑貞	一 6-7 TR-409-2	
 114	2	0	0	生物統計學	8	應用科技學院 ; 醫學工程研究所 ; 加退選開放全校大三、大四選修、開放外系研究所選課、限45人 ; 限修學制：碩、博	0	0		ABC8622	A	半	3.0	校際臺科大（碩）	9MAB		Biostatistics				5	選	◎課程不開放上修		3343	林上智	二 5-7 TR-610	
@@ -3284,11 +3282,11 @@
 114	2	0	0	生產管理	8	管理學院 ; 工業管理系 ; 業界師資協同教學、開放外系選修、非工管背景之工管系研究所新生必選 ; 限修學制：碩、博	1	1		ABC8559	A	半	3.0	校際臺科大（碩）	9MAB		Production Management				2	選	◎課程不開放上修		3347	王孔政	三 6-8	
 114	2	0	0	生產與作業管理		管理學院 ; 工業管理系 ; 電腦抽選後開放工管系四工三.四工四重修學生上機選課、臺大及臺師大修讀本系輔系及雙主修學生可向授課老師索取授權碼選課、英語授課、EMI課程、限53人 ; 限修學制：大、碩、博	1	1		ABU0725	A	半	3.0	校際臺科大（學）	9UAB		Production and Operations Management	是			1	選			3348	歐陽超	三 2-4 MA-010	
 114	2	0	0	生產與作業管理		管理學院 ; 工業管理系 ; 電腦抽選後開放工管系四工三.四工四重修學生上機選課、臺大及臺師大修讀本系輔系及雙主修學生可向授課老師索取授權碼選課、英語授課、EMI課程、限53人、業界師資協同教學 ; 限修學制：大、碩、博	0	0		ABU0725	B	半	3.0	校際臺科大（學）	9UAB		Production and Operations Management	是			1	選			3349	郭人介	三 2-4 MA-101	
-114	2	0	0	生醫材料分析技術	8	應用科技學院 ; 醫學工程研究所 ; EMI課程、英語授課、加退選時開放全校大四選修、業界師資協同教學、限51人、開放外系研究所選修、乙組學生必修選10學分課程，請自行上機選課 ; 限修學制：碩、博	0	0		ABC8399	A	半	3.0	校際臺科大（碩）	9MAB		Instrumental Analysis for Biomaterials	是			2	選	◎課程不開放上修		3350	白孟宜	四 6-8	
-114	2	0	0	生醫材料導論		應用科技學院 ; 醫學工程學士學位學程 ; 開放全校大學部學生選修、限51人 ; 限修學制：大、碩、博	1	1		ABU0686	A	半	3.0	校際臺科大（學）	9UAB		Introduction to Biomaterials				2	選			3351	白孟宜	三 2-4	
+114	2	0	0	生醫材料分析技術	8	應用科技學院 ; 醫學工程研究所 ; EMI課程、英語授課、加退選時開放全校大四選修、業界師資協同教學、限51人、開放外系研究所選修、乙組學生必修選10學分課程，請自行上機選課 ; 限修學制：碩、博	0	0		ABC8399	A	半	3.0	校際臺科大（碩）	9MAB		Instrumental Analysis for Biomaterials	是			2	選	◎課程不開放上修		3350	白孟宜	四 6-8 TR-616	
+114	2	0	0	生醫材料導論		應用科技學院 ; 醫學工程學士學位學程 ; 開放全校大學部學生選修、限51人 ; 限修學制：大、碩、博	1	1		ABU0686	A	半	3.0	校際臺科大（學）	9UAB		Introduction to Biomaterials				2	選			3351	白孟宜	三 2-4 TR-517	
 114	2	0	0	生醫量測系統設計	8	電資學院 ; 電子工程系 ; 限24人、加退選時開放本系大四選課、PBL課程 ; 限修學制：碩、博	0	0		ABC8085	A	半	3.0	校際臺科大（碩）	9MAB		Design of Biomedical Measurement Systems				3	選	◎課程不開放上修		3352	林淵翔	四 6-8 IB-712	
 114	2	0	0	企業分析與診斷		管理學院 ; 企業管理系 ; 開放全校大學部學生選修 ; 限修學制：大、碩、博	3	3		ABU1044	A	半	3.0	校際臺科大（學）	9UAB		Business Analysis and Diagnosis				3	選			3353	許奉文	三 6-8 T3-303	
-114	2	0	0	企業投資分析		管理學院 ; 管理學士班 ; 限45人 ; 限修學制：大、碩、博	4	4		ABU0687	A	半	3.0	校際臺科大（學）	9UAB		Company Analysis for Investment				5	選			3354	曾凱逸	五 2-4	
+114	2	0	0	企業投資分析		管理學院 ; 管理學士班 ; 限45人 ; 限修學制：大、碩、博	4	4		ABU0687	A	半	3.0	校際臺科大（學）	9UAB		Company Analysis for Investment				5	選			3354	曾凱逸	五 2-4 TR-511	
 114	2	0	0	企業社會責任	8	管理學院 ; MBA ; 限管理學院研究所一般生選修、限49人、業界師資協同教學 ; 限修學制：碩、博	2	2		ABC8623	A	半	3.0	校際臺科大（碩）	9MAB		Corporate Social Responsibility				3	選	◎課程不開放上修		3355	何建韋	五 6-8	
 114	2	0	0	光電信號數據分析與處理	8	產學創新學院 ; 先進半導體科技研究所 ; 限46人、開放外系研究所選課、加退選開放大四選修、上課地點華夏科大，上課節次起訖時間請依照臺科大上課時間表 ; 限修學制：碩、博	0	0		ABC8764	A	半	3.0	校際臺科大（碩）	9MAB		Optoelectronic Signal Data Analysis and Processing				2	選	◎課程不開放上修		3356	楊淳良	二 6-8 華夏	
 114	2	0	0	光學工程與設計	8	工程學院 ; 機械工程系 ; 限18人 ; 限修學制：碩、博	0	0		ABC8742	A	半	3.0	校際臺科大（碩）	9MAB		Optical Design and Engineering				3	選	◎課程不開放上修		3357	林鼎晸	五 6-8 E1-245	
@@ -3296,7 +3294,7 @@
 114	2	0	0	全民國防教育軍事訓練－全民國防		通識教育中心 ; 通識教育中心 ; 限60人 ; 限修學制：大、碩、博	8	8		ABU0030	A	半	0.0	校際臺科大（學）	9UAB		All-Out Defense Education: Military Training Program ? All-Out Defense Education				10	選			3359	廖天威	五 8-9 EE-407	
 114	2	0	0	全民國防教育軍事訓練－防衛動員		通識教育中心 ; 通識教育中心 ; 限60人 ; 限修學制：大、碩、博	10	10		ABU0031	A	半	0.0	校際臺科大（學）	9UAB		All-Out Defense Education: Military Training Program ? Defense Mobilization				10	選			3360	廖天威	四 10 TR-213, 四 9 TR-213	
 114	2	0	0	全民國防教育軍事訓練－國防政策		通識教育中心 ; 通識教育中心 ; 限60人 ; 限修學制：大、碩、博	8	8		ABU0032	A	半	0.0	校際臺科大（學）	9UAB		All-Out Defense Education: Military Training Program ?Defense Policy				10	選			3361	廖天威	三 8-9 EE-407	
-114	2	0	0	全民國防教育軍事訓練－國防科技		通識教育中心 ; 通識教育中心 ; 限60人 ; 限修學制：大、碩、博	7	7		ABU0033	A	半	0.0	校際臺科大（學）	9UAB		All-Out Defense Education: Military Training Program ?Defense Technology				10	選			3362	劉鐵軍	二 8-9 TR-310-1	
+114	2	0	0	全民國防教育軍事訓練－國防科技		通識教育中心 ; 通識教育中心 ; 限60人 ; 限修學制：大、碩、博	7	7		ABU0033	A	半	0.0	校際臺科大（學）	9UAB		All-Out Defense Education: Military Training Program ?Defense Technology				10	選			3362	劉鐵軍	二 8-9 TR-212	
 114	2	0	0	全民國防教育軍事訓練－國防科技		通識教育中心 ; 通識教育中心 ; 限60人 ; 限修學制：大、碩、博	1	1		ABU0033	B	半	0.0	校際臺科大（學）	9UAB		All-Out Defense Education: Military Training Program ?Defense Technology				10	選			3363	劉鐵軍	四 10 TR-409-1, 四 9 TR-409-1	
 114	2	0	0	全民國防教育軍事訓練－國際情勢		通識教育中心 ; 通識教育中心 ; 限60人 ; 限修學制：大、碩、博	4	4		ABU0596	A	半	0.0	校際臺科大（學）	9UAB		All-out Defense Education Military Training-International Situation				10	選			3364	劉鐵軍	三 8-9 TR-213	
 114	2	0	0	全民國防教育軍事訓練－國際情勢		通識教育中心 ; 通識教育中心 ; 限60人 ; 限修學制：大、碩、博	5	5		ABU0596	B	半	0.0	校際臺科大（學）	9UAB		All-out Defense Education Military Training-International Situation				10	選			3365	劉鐵軍	三 A-B TR-213	
@@ -3311,9 +3309,9 @@
 114	2	0	0	有機化學(二)		工程學院 ; 材料科學與工程系 ; 加退選開放外系選修 ; 限修學制：大	0	0		ABU0675	A	半	3.0	校際臺科大（學）	9UAB		Organic Chemistry (2)				1	選			3374	游進陽	五 7-8 TR-413-2, 二 4 TR-413-2	
 114	2	0	0	有機半導體材料	8	工程學院 ; 材料科學與工程系 ; 限30人、加退選開放本系大三、大四選修、PBL課程、英語授課、EMI課程、業界師資協同教學 ; 限修學制：碩、博	0	0		ABC8625	A	半	3.0	校際臺科大（碩）	9MAB		Organic Semiconducting Materials	是			5	選	◎課程不開放上修		3375	羅承慈	二 2-4 TR-614	
 114	2	0	0	自我察覺與人際互動		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0127	A	半	2.0	校際臺科大（學）	9UAB		Self Awareness and Social Interaction				2	選			3376	徐泰國	五 8-9 TR-214	
-114	2	0	0	自我察覺與人際互動		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0127	B	半	2.0	校際臺科大（學）	9UAB		Self Awareness and Social Interaction				2	選			3377	徐泰國	五 6-7 TR-411	
-114	2	0	0	自然環保與人文思維		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0207	A	半	2.0	校際臺科大（學）	9UAB		Environmental Education and Humanistic Traditions				2	選			3378	蔡昱宇	四 1-2 TR-513	
-114	2	0	0	自然療法與食療		通識教育中心 ; 通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博	2	2		ABU1047	A	半	2.0	校際臺科大（學）	9UAB		Natural Medicine and Diet				2	選			3379	陳美均	五 6-7 TR-617	
+114	2	0	0	自我察覺與人際互動		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0127	B	半	2.0	校際臺科大（學）	9UAB		Self Awareness and Social Interaction				2	選			3377	徐泰國	五 6-7 TR-410	
+114	2	0	0	自然環保與人文思維		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0207	A	半	2.0	校際臺科大（學）	9UAB		Environmental Education and Humanistic Traditions				2	選			3378	蔡昱宇	四 1-2 TR-514	
+114	2	0	0	自然療法與食療		通識教育中心 ; 通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博	2	2		ABU1047	A	半	2.0	校際臺科大（學）	9UAB		Natural Medicine and Diet				2	選			3379	陳美均	五 6-7 TR-409-2	
 114	2	0	0	自然療法與食療		通識教育中心 ; 通識教育中心 ; 通識領域課程、限50人、上課地點華夏科大，上課節次起訖時間請依照臺科大上課時間表 ; 限修學制：大、碩、博	1	1		ABU1047	B	半	2.0	校際臺科大（學）	9UAB		Natural Medicine and Diet				2	選			3380	陳美均	三 10 華夏營管大樓K502, 三 9 華夏營管大樓K502	
 114	2	0	0	色彩及影像實作技術	8	應用科技學院 ; 色彩與照明科技研究所 ; 加退選時開放全校大四選修、開放外系研究所選課、限49人 ; 限修學制：碩、博	0	0		ABC8402	A	半	3.0	校際臺科大（碩）	9MAB		Practical Techniques in Color and Imaging				3	選	◎課程不開放上修		3381	孫沛立	二 2-4 RB-508	
 114	2	0	0	色彩心理學概論		應用科技學院 ; 色彩影像與照明科技學士學位學程 ; 開放全校大學部學生選修、限35人 ; 限修學制：大、碩、博	1	1		ABU0128	A	半	3.0	校際臺科大（學）	9UAB		Introduction to Color Psychology				10	選			3382	歐立成	二 2-4 TR-613	
@@ -3329,7 +3327,7 @@
 114	2	0	0	材料力學		工程學院 ; 材料科學與工程系 ; EMI課程、英語授課 ; 限修學制：大	0	0		ABU0131	A	半	3.0	校際臺科大（學）	9UAB		Mechanics of Materials	是			1	選			3392	林子仁	一 6 TR-310-1, 四 3-4 TR-310-1	
 114	2	0	0	材料力學		工程學院 ; 材料科學與工程系 ;   限修學制：大	0	0		ABU0131	B	半	3.0	校際臺科大（學）	9UAB		Mechanics of Materials				1	選			3393	李寧	一 6 TR-409-2, 四 3-4 TR-409-2	
 114	2	0	0	材料工程校外實習(二)		工程學院 ; 材料科學與工程系 ; 不開放電腦選課，欲選課者請洽開課單位 ; 限修學制：大	0	0		ABU0963	A	半	9.0	校際臺科大（學）	9UAB		Practical Training for Materials Engineering (II)				1	選			3394	林子仁	五 1-9 , 一 1-9 , 四 1-9 , 二 1-9 , 三 1-9	
-114	2	0	0	材料分析		工程學院 ; 材料科學與工程系 ; 必修任選五科、業界師資協同教學、EMI課程、英語授課 ; 限修學制：大、碩、博	0	0		ABU0802	A	半	3.0	校際臺科大（學）	9UAB		Characterization of Materials	是			1	選			3395	施劭儒	四 6-7 TR-512, 三 2 TR-512	
+114	2	0	0	材料分析		工程學院 ; 材料科學與工程系 ; 必修任選五科、業界師資協同教學、EMI課程、英語授課 ; 限修學制：大、碩、博	0	0		ABU0802	A	半	3.0	校際臺科大（學）	9UAB		Characterization of Materials	是			1	選			3395	施劭儒	四 6-7 TR-511, 三 2 TR-511	
 114	2	0	0	材料分析		工程學院 ; 材料科學與工程系 ; 限118人、業界師資協同教學、必修任選五科 ; 限修學制：大、碩、博	0	0		ABU0802	B	半	3.0	校際臺科大（學）	9UAB		Characterization of Materials				1	選			3396	陳詩芸	四 6-7 TR-310-1, 三 2 TR-310-1	
 114	2	0	0	材料科學(二)		工程學院 ; 材料科學與工程系 ;   限修學制：大	0	0		ABU0564	A	半	3.0	校際臺科大（學）	9UAB		Materials Science (2)				1	選			3397	鄭詠馨	五 8 TR-309, 一 1-2 TR-309	
 114	2	0	0	材料科學(二)		工程學院 ; 材料科學與工程系 ;   限修學制：大	0	0		ABU0564	B	半	3.0	校際臺科大（學）	9UAB		Materials Science (2)				1	選			3398	周賢鎧	五 8 TR-512, 一 1-2 TR-512	
@@ -3338,7 +3336,7 @@
 114	2	0	0	材料實驗(一)		工程學院 ; 材料科學與工程系 ; 限53人、限單號學生選修 ; 限修學制：大	0	0		ABU0765	A	半	1.0	校際臺科大（學）	9UAB		Materials Science and Engineering Laboratory (I)				1	選			3401	黃欣萍	二 6-8 E1-243	
 114	2	0	0	材料實驗(二)		工程學院 ; 材料科學與工程系 ; 限50人、限單號學生選修 ; 限修學制：大	0	0		ABU0766	A	半	1.0	校際臺科大（學）	9UAB		Materials Science and Engineering Laboratory (II)				1	選			3402	徐秀蘭	一 6-8 E1-134	
 114	2	0	0	材料實驗(三)		工程學院 ; 材料科學與工程系 ; 限53人、PBL課程、英語授課、EMI課程 ; 限修學制：大	0	0		ABU0767	A	半	1.0	校際臺科大（學）	9UAB		Materials Science and Engineering Laboratory (III)	是			1	選			3403	黃欣萍、徐秀蘭	一 10 E1-243, 一 8-9 E1-243	
-114	2	0	0	決策程序與密碼驗證應用	8	管理學院 ; 資訊管理系 ; 開放外系研究所選課、加退選開放全校大三、大四選修、甲組課程(適用於110-111學年度入學)、甲組博班與資安碩班課程(適用於112學年度起入學) ; 限修學制：碩、博	0	0		ABC8743	A	半	3.0	校際臺科大（碩）	9MAB		Decision Procedures with Applications to Cryptographic Verification				10	選	◎課程不開放上修		3404	蔡明憲	二 6-8	
+114	2	0	0	決策程序與密碼驗證應用	8	管理學院 ; 資訊管理系 ; 開放外系研究所選課、加退選開放全校大三、大四選修、甲組課程(適用於110-111學年度入學)、甲組博班與資安碩班課程(適用於112學年度起入學) ; 限修學制：碩、博	0	0		ABC8743	A	半	3.0	校際臺科大（碩）	9MAB		Decision Procedures with Applications to Cryptographic Verification				10	選	◎課程不開放上修		3404	蔡明憲	二 6-8 TR-611	
 114	2	0	0	角色與場景設計		設計學院 ; 設計系 ; 通識領域課程、限50人 ; 限修學制：大、碩、博	2	2		ABU1015	A	半	2.0	校際臺科大（學）	9UAB		Character and Scene Design				2	選			3405	杜亞倫	三 6-7 TR-617	
 114	2	0	0	車輛控制與駕駛輔助系統		工程學院 ; 機械工程系 ; 業界師資協同教學、智慧電動車學程 ; 限修學制：大、碩、博	0	0		ABU0964	A	半	3.0	校際臺科大（學）	9UAB		Vehicle Control and Driver Assist Systems				5	選			3406	陳亮光	二 2-4 TR-212	
 114	2	0	0	亞洲視覺設計趨勢與探索	8	設計學院 ; 設計系 ; 限20人、英語授課、EMI課程 ; 限修學制：碩、博	0	0		ABC8815	A	半	3.0	校際臺科大（碩）	9MAB		Asian Visual Design Trends and Exploration	是			2	選	◎課程不開放上修		3407	李根在	二 2-4 RB-412	
@@ -3349,7 +3347,7 @@
 114	2	0	0	固態照明實習		電資學院 ; 電子工程系 ; 四年制必修任選四實習;二年制必修任選三實習、限20人 ; 限修學制：大、碩、博	0	0		ABU0037	A	半	1.0	校際臺科大（學）	9UAB		Solid Sate Lighting Laboratory Practices				1	選			3412	蘇忠傑	五 6-8 EE-812	
 114	2	0	0	居家生活減碳淺談		設計學院 ; 建築系 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU1049	A	半	2.0	校際臺科大（學）	9UAB		A Brief Introduction on Carbon Reduction in Home Life				2	選			3413	吳啟哲	四 10 , 四 9	
 114	2	0	0	幸福科學與數位社會情緒學習研究	8	人文社會學院 ; 數位學習與教育研究所 ; 限53人、開放外系研究所選課、加退選時開放全校大四選修、英語授課、EMI課程、業界師資協同教學、上課地點華夏科大，上課節次起訖時間請依照臺科大上課時間表 ; 限修學制：碩、博	0	0		ABC8816	A	半	3.0	校際臺科大（碩）	9MAB		Research on Wellbeing Science and Digital Social-Emotional Learning	是			1	選	◎課程不開放上修		3414	翁楊絲茜	四 6-8 華夏	
-114	2	0	0	性別、關係與個人發展		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0565	A	半	2.0	校際臺科大（學）	9UAB		Gender, Relationships and Personal Development				2	選			3415	黃淑怡	三 3-4 RB-101	
+114	2	0	0	性別、關係與個人發展		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0565	A	半	2.0	校際臺科大（學）	9UAB		Gender, Relationships and Personal Development				2	選			3415	黃淑怡	三 3-4	
 114	2	0	0	性別、關係與個人發展		通識教育中心 ; 通識教育中心 ; 限30人、通識領域課程、EMI課程、英語授課 ; 限修學制：大、碩、博	0	0		ABU0565	B	半	2.0	校際臺科大（學）	9UAB		Gender, Relationships and Personal Development	是			2	選			3416	黃淑怡	一 8-9	
 114	2	0	0	性別與法律		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0279	A	半	2.0	校際臺科大（學）	9UAB		Gender and Law				2	選			3417	張宏誠	五 6-7 TR-413-2	
 114	2	0	0	或然率在工程上之應用		工程學院 ; 營建工程系 ; 加退選開放外系選修 ; 限修學制：大	0	0		ABU0648	A	半	3.0	校際臺科大（學）	9UAB		The Application of Probability Concepts in Engineering				3	選			3418	陳瑞華	四 2 , 二 3-4	
@@ -3373,7 +3371,7 @@
 114	2	0	0	近代東亞視覺與文化史		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0287	B	半	2.0	校際臺科大（學）	9UAB		Visual Culture in Modern East Asia				2	選			3436	張世瑛	三 8-9 TR-311	
 114	2	0	0	近代建築史		設計學院 ; 建築系 ;   限修學制：大、碩、博	3	3		ABU0041	A	半	3.0	校際臺科大（學）	9UAB		Modern Architectural History				3	選			3437	楊馥妃	一 2-4 TR-511	
 114	2	0	0	近代建築藝術源流		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0924	A	半	2.0	校際臺科大（學）	9UAB		The Origin of Modern Architectural Art				2	選			3438	陳薏如	五 1-2 TR-516	
-114	2	0	0	金融科技創新與應用設計		管理學院 ; 財務金融學士學位學程 ; 財金學位學程開放全校大二大三大四選修、限45人 ; 限修學制：大、碩、博	1	1		ABU1051	A	半	3.0	校際臺科大（學）	9UAB		FinTech Innovation and Application Design				5	選			3439	周志隆	五 6-8	
+114	2	0	0	金融科技創新與應用設計		管理學院 ; 財務金融學士學位學程 ; 財金學位學程開放全校大二大三大四選修、限45人 ; 限修學制：大、碩、博	1	1		ABU1051	A	半	3.0	校際臺科大（學）	9UAB		FinTech Innovation and Application Design				5	選			3439	周志隆	五 6-8 IB-410-2	
 114	2	0	0	保險學		管理學院 ; 財務金融學士學位學程 ; 限45人、財金學位學程開放全校大二大三大四選修 ; 限修學制：大、碩、博	4	4		ABU0213	A	半	3.0	校際臺科大（學）	9UAB		Insurance				5	選			3440	陳清源	二 A-C TR-212	
 114	2	0	0	城市發展與都市型態		設計學院 ; 建築系 ; EMI課程、英語授課 ; 限修學制：大、碩、博	0	0		ABU0966	A	半	3.0	校際臺科大（學）	9UAB		Urban Development and Urban Morphology	是			10	選			3441	謝倩玲	一 10 T4-301, 一 8-9 T4-301	
 114	2	0	0	室內材料與構造		設計學院 ; 建築系 ; 室內與家具設計學程、建築資訊建模學分學程、開放設計學院各系選修、加退選開放外系選修 ; 限修學制：大、碩、博	1	1		ABU0042	A	半	3.0	校際臺科大（學）	9UAB		Interior Materials and Structure				5	選			3442	林昱安	二 10 IB-409-1, 二 8-9 IB-409-1	
@@ -3381,7 +3379,7 @@
 114	2	0	0	室內設計應用與實務		設計學院 ; 建築系 ; 室內與家具設計學程、開放設計學院各系選修 ; 限修學制：大、碩、博	2	2		ABU0967	A	半	3.0	校際臺科大（學）	9UAB		Applications and Practices of Interior Design				5	選			3444	李佳玫	五 10 T4-404, 五 8-9 T4-404	
 114	2	0	0	建構主義在教育上之應用	8	人文社會學院 ; 數位學習與教育研究所 ; 限53人、開放外系研究所選課、英語授課、EMI課程 ; 限修學制：碩、博	0	0		ABC8099	A	半	3.0	校際臺科大（碩）	9MAB		Constructivism and Education	是			1	選	◎課程不開放上修		3445	洪銘國	五 2-4 T4-303	
 114	2	0	0	建築材料		設計學院 ; 建築系 ; 建築資訊建模學分學程 ; 限修學制：大、碩、博	0	0		ABU0045	A	半	3.0	校際臺科大（學）	9UAB		Building Materials				5	選			3446	林慶元	二 2-4 TR-512	
-114	2	0	0	建築材料		設計學院 ; 建築系 ; 建築資訊建模學分學程 ; 限修學制：大、碩、博	0	0		ABU0045	B	半	3.0	校際臺科大（學）	9UAB		Building Materials				5	選			3447	廖硃岑	二 2-4 TR-616	
+114	2	0	0	建築材料		設計學院 ; 建築系 ; 建築資訊建模學分學程、PBL課程 ; 限修學制：大、碩、博	0	0		ABU0045	B	半	3.0	校際臺科大（學）	9UAB		Building Materials				5	選			3447	廖硃岑	二 2-4 TR-616	
 114	2	0	0	建築法規		設計學院 ; 建築系 ;   限修學制：大、碩、博	1	1		ABU0046	A	半	3.0	校際臺科大（學）	9UAB		Building Regulations				5	選			3448	高文婷	三 A-C TR-411	
 114	2	0	0	建築物理環境專論	8	設計學院 ; 建築系 ; 加退選開放本系在職專班選課、建築帷幕與外覆系統產業學程 ; 限修學制：碩、博	0	0		ABC8817	A	半	3.0	校際臺科大（碩）	9MAB		Special Topics of Building Physical Environment				5	選	◎課程不開放上修		3449	鄭政利	二 6-8 TR-310-2	
 114	2	0	0	建築研究方法	8	設計學院 ; 建築系 ; 加退選開放本系在職專班選課 ; 限修學制：碩、博	0	0		ABC8505	A	半	3.0	校際臺科大（碩）	9MAB		Research Methods in A/E/C Industries				2	選	◎課程不開放上修		3450	阮怡凱	四 6-8 TR-412-2	
@@ -3391,15 +3389,15 @@
 114	2	0	0	建築資訊建模之應用實務	8	設計學院 ; 建築系 ; 加退選開放本系在職專班選課 ; 限修學制：碩、博	0	0		ABC8334	A	半	3.0	校際臺科大（碩）	9MAB		Building Information Modeling-application and Practice				5	選	◎課程不開放上修		3454	陳清楠	五 A-C TR-411	
 114	2	0	0	研發與專案管理	8	管理學院 ; 科技管理研究所 ; EMI課程、英語授課、業界師資協同教學、開放外系選修、限32人、加退選開放全校大三、大四選修、PBL課程 ; 限修學制：碩、博	1	1		ABC8695	A	半	3.0	校際臺科大（碩）	9MAB		RandD and Project Management	是			5	選	◎課程不開放上修		3455	黃啟祐	一 6-8 TR-812	
 114	2	0	0	科幻互動設計	8	設計學院 ; 設計系 ; 限20人 ; 限修學制：碩、博	0	0		ABC8480	A	半	3.0	校際臺科大（碩）	9MAB		Interactive Fiction Design				5	選	◎課程不開放上修		3456	梁容輝	一 6-8 T4-406	
-114	2	0	0	科技創新創業		管理學院 ; 企業管理系 ; 四企三單號、業界師資協同教學、PBL課程、遴選不開放選修 ; 限修學制：大、碩、博	0	0		ABU0463	A	半	3.0	校際臺科大（學）	9UAB		Technology Venturing				5	選			3457	張譯尹	三 2-4 MA-206	
-114	2	0	0	科技創新創業		管理學院 ; 企業管理系 ; 四企三雙號、業界師資協同教學、PBL課程、遴選不開放選修 ; 限修學制：大、碩、博	0	0		ABU0463	B	半	3.0	校際臺科大（學）	9UAB		Technology Venturing				5	選			3458	張譯尹	二 2-4	
+114	2	0	0	科技創新創業		管理學院 ; 企業管理系 ; 四企三單號、業界師資協同教學、PBL課程、遴選不開放選修 ; 限修學制：大、碩、博	0	0		ABU0463	A	半	3.0	校際臺科大（學）	9UAB		Technology Venturing				5	選			3457	張譯尹	三 2-4	
+114	2	0	0	科技創新創業		管理學院 ; 企業管理系 ; 四企三雙號、業界師資協同教學、PBL課程、遴選不開放選修 ; 限修學制：大、碩、博	0	0		ABU0463	B	半	3.0	校際臺科大（學）	9UAB		Technology Venturing				5	選			3458	張譯尹	二 2-4 IB-410-1	
 114	2	0	0	科技新創企業財務個案		管理學院 ; 財務金融學士學位學程 ; 財金學位學程開放全校大二大三大四選修、限45人、PBL課程 ; 限修學制：大、碩、博	0	0		ABU0806	A	半	3.0	校際臺科大（學）	9UAB		Financial Cases of High-Tech Entrepreneurial Ventures				5	選			3459	林俊一	四 6-8	
-114	2	0	0	科技與法律		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0771	A	半	2.0	校際臺科大（學）	9UAB		Technology and Law				2	選			3460	林瑞珠	四 6-7 TR-211	
+114	2	0	0	科技與法律		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0771	A	半	2.0	校際臺科大（學）	9UAB		Technology and Law				2	選			3460	林瑞珠	四 6-7 T4-303	
 114	2	0	0	英詩與語言藝術		人文社會學院 ; 應用外語系 ; 限33人、英語授課、EMI課程、開放不分系(各系)欲主修、輔修或雙主修應外系同學選課、外語選修、建議具備中高級英語能力者選修 ; 限修學制：大、碩、博	1	1		ABU0653	A	半	3.0	校際臺科大（學）	9UAB		Poetry and Verbal Arts	是			1	選			3461	卜莎娜	三 6-8 T4-303	
 114	2	0	0	英語口語訓練(二)		人文社會學院 ; 應用外語系 ; 限30人、學號雙數、英語授課、EMI課程、遴選不開放選修、PBL課程、創新教學課程 ; 限修學制：大、碩、博	2	2		ABU0056	A	半	2.0	校際臺科大（學）	9UAB		Oral-aural Drills in English (2)	是			2	選			3462	Aaron	二 6-7 RB-201	
 114	2	0	0	英語口語訓練(二)		人文社會學院 ; 應用外語系 ; 限30人、學號單數、英語授課、EMI課程、遴選不開放選修、PBL課程、創新教學課程 ; 限修學制：大、碩、博	2	2		ABU0056	B	半	2.0	校際臺科大（學）	9UAB		Oral-aural Drills in English (2)	是			2	選			3463	Aaron	二 8-9 RB-201	
 114	2	0	0	計量管理	8	管理學院 ; 工業管理系 ; 英語授課、業界師資協同教學、加退選時開放本系大四選課、EMI課程、限53人 ; 限修學制：碩、博	0	0		ABC8630	A	半	3.0	校際臺科大（碩）	9MAB		Quantitative Analysis for Business Decisions	是			1	選	◎課程不開放上修		3464	林希偉	五 6-8 MA-101	
-114	2	0	0	計算智慧於工程上的應用	8	工程學院 ; 營建工程系 ; 英語授課、EMI課程、加退選開放外系選課、加退選開放大四選修 ; 限修學制：碩、博	0	0		ABC8281	A	半	3.0	校際臺科大（碩）	9MAB		Application of Computational Intelligence in Engineering	是			5	選	◎課程不開放上修		3465	楊亦東	三 6-8	
+114	2	0	0	計算智慧於工程上的應用	8	工程學院 ; 營建工程系 ; 英語授課、EMI課程、加退選開放外系選課、加退選開放大四選修 ; 限修學制：碩、博	0	0		ABC8281	A	半	3.0	校際臺科大（碩）	9MAB		Application of Computational Intelligence in Engineering	是			5	選	◎課程不開放上修		3465	楊亦東	三 6-8 E2-102	
 114	2	0	0	計算機科學導論		電資學院 ; 電子工程系 ; 限50人 ; 限修學制：大、碩、博	1	1		ABU0807	A	半	3.0	校際臺科大（學）	9UAB		Introduction to Computer Science				5	選			3466	林敬舜	一 6-7 IB-510-2, 二 1 IB-510-2	
 114	2	0	0	計算機組織		電資學院 ; 資訊工程系 ; 學號單數、業界師資協同教學、加退選開放電資學院大三大四學生選修、限66人 ; 限修學制：大、碩、博	1	1		ABU0368	A	半	3.0	校際臺科大（學）	9UAB		Computer Organization				1	選			3467	劉一宇	二 3-4 TR-313, 三 2 TR-409-2	
 114	2	0	0	計算機程式		管理學院 ; 工業管理系 ; 電腦抽選後開放工管系四工二.四工三.四工四重修學生上機選課、臺大及臺師大修讀本系輔系及雙主修學生可向授課老師索取授權碼選課、限34人 ; 限修學制：大、碩、博	0	0		ABU0733	A	半	2.0	校際臺科大（學）	9UAB		Computers Programming				1	選			3468	羅士哲	一 6-7 MA-417	
@@ -3408,7 +3406,7 @@
 114	2	0	0	計算機程式實習		管理學院 ; 工業管理系 ; 限48人、電腦抽選後開放工管系四工二.四工三.四工四重修學生上機選課、臺大及臺師大修讀本系輔系及雙主修學生可向授課老師索取授權碼選課 ; 限修學制：大、碩、博	0	0		ABU0734	B	半	1.0	校際臺科大（學）	9UAB		Computers Programming Labs				1	選			3471	楊朝龍	四 8-9 MA-215	
 114	2	0	0	音樂與文化		人文社會學院 ; 通識學科 ; 限51人、通識領域課程、PBL課程 ; 限修學制：大、碩、博	2	2		ABU0297	A	半	3.0	校際臺科大（學）	9UAB		Music and Culture				2	選			3472	王維君	二 2-4 T4-405	
 114	2	0	0	食品與健康		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0298	A	半	2.0	校際臺科大（學）	9UAB		Food and Health				2	選			3473	陳修聖	三 8-9 TR-516	
-114	2	0	0	個人通訊網路	8	電資學院 ; 電機工程系 ; 加退選時開放本系大四選課、英語授課、EMI課程 ; 限修學制：碩、博	0	0		ABC8818	A	半	3.0	校際臺科大（碩）	9MAB		Personal Communication Networks	是			2	選	◎課程不開放上修		3474	陳俊良	四 2-4	
+114	2	0	0	個人通訊網路	8	電資學院 ; 電機工程系 ; 加退選時開放本系大四選課、英語授課、EMI課程 ; 限修學制：碩、博	0	0		ABC8818	A	半	3.0	校際臺科大（碩）	9MAB		Personal Communication Networks	是			2	選	◎課程不開放上修		3474	陳俊良	四 2-4 IB-609	
 114	2	0	0	旅遊與生活		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0929	A	半	2.0	校際臺科大（學）	9UAB		Travel and Life				2	選			3475	隋風銘	二 1-2 TR-617	
 114	2	0	0	旅遊與生活		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0929	B	半	2.0	校際臺科大（學）	9UAB		Travel and Life				2	選			3476	隋風銘	四 8-9 TR-413-2	
 114	2	0	0	時代與妝扮美學		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU1052	A	半	2.0	校際臺科大（學）	9UAB		Era and Aesthetics of Beauty				2	選			3477	石美芳	四 6-7 TR-213	
@@ -3426,7 +3424,7 @@
 114	2	0	0	神經科學與生活		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0930	A	半	2.0	校際臺科大（學）	9UAB		Neuroscience and Life				2	選			3489	趙國芳	五 1-2 TR-517	
 114	2	0	0	財務管理		管理學院 ; 工業管理系 ; EMI課程、英語授課 ; 限修學制：大、碩、博	0	0		ABU0384	A	半	3.0	校際臺科大（學）	9UAB		Financial Management	是			3	選			3490	RENAN S. MAGLASANG	五 2-4	
 114	2	0	0	高分子物理		工程學院 ; 材料科學與工程系 ; 必修任選五科、加退選開放外系選修 ; 限修學制：大	0	0		ABU0738	A	半	3.0	校際臺科大（學）	9UAB		Polymer Physics				1	選			3491	洪伯達	四 5 T4-405, 二 8-9 T4-405	
-114	2	0	0	高分子導論		工程學院 ; 材料科學與工程系 ; 業界師資協同教學 ; 限修學制：大	1	1		ABU0572	A	半	3.0	校際臺科大（學）	9UAB		Introduction to Polymer Systems				1	選			3492	吳昌謀	四 6-7 TR-513, 二 10 TR-410	
+114	2	0	0	高分子導論		工程學院 ; 材料科學與工程系 ; 業界師資協同教學 ; 限修學制：大	1	1		ABU0572	A	半	3.0	校際臺科大（學）	9UAB		Introduction to Polymer Systems				1	選			3492	吳昌謀	四 6-7 TR-410, 二 10 TR-410	
 114	2	0	0	高分子導論		工程學院 ; 材料科學與工程系 ; 限53人 ; 限修學制：大	0	0		ABU0572	B	半	3.0	校際臺科大（學）	9UAB		Introduction to Polymer Systems				1	選			3493	洪伯達	四 6-7 T4-405, 二 10 T4-405	
 114	2	0	0	高速光調制器半導體技術與應用	8	產學創新學院 ; 先進半導體科技研究所 ; 加退選開放大四選修、開放外系研究所選課、限40人、上課地點華夏科大，上課節次起訖時間請依照臺科大上課時間表 ; 限修學制：碩、博	0	0		ABC8769	A	半	3.0	校際臺科大（碩）	9MAB		High-Speed Photonic Modulator Semiconductor Technology and Application				5	選	◎課程不開放上修		3494	巫朝陽	三 2-4 華夏	
 114	2	0	0	高等工程分析	8	工程學院 ; 機械工程系 ;   限修學制：碩、博	0	0		ABC8635	A	半	3.0	校際臺科大（碩）	9MAB		Advanced Engineering Analysis				4	選	◎課程不開放上修		3495	蘇裕軒	四 2-4 T3-304	
@@ -3442,12 +3440,12 @@
 114	2	0	0	國內外使節講座─從台科大看世界		通識教育中心 ; 通識教育中心 ; 通識領域課程、上課日程表請詳見名家系列課程時間表、限140人 ; 限修學制：大、碩、博	1	1		ABU0697	A	半	2.0	校際臺科大（學）	9UAB		Ambassadors’ Lectures : Global Vision from Taiwan TECH				10	選			3505	周麟	四 6-8 AU-101	
 114	2	0	0	國際文化交流實務		通識教育中心 ; 通識教育中心 ; 限30人、通識領域課程、英語授課、EMI課程、PBL課程 ; 限修學制：大、碩、博	1	1		ABU0408	A	半	2.0	校際臺科大（學）	9UAB		International Cultural Exchange Issues and Practices	是			2	選			3506	王瑩	四 10 IB-607, 四 9 IB-607	
 114	2	0	0	國際企業	8	管理學院 ; 企業管理系 ; 英語授課、PBL課程、EMI課程、加退選時開放本系大四選課、限25人 ; 限修學制：碩、博	0	0		ABC8636	A	半	3.0	校際臺科大（碩）	9MAB		International Business	是			5	選	◎課程不開放上修		3507	洪東敏	三 5-7 MA-206	
-114	2	0	0	國際企業概論		管理學院 ; 企業管理系 ; PBL課程、加退選開放全校選修 ; 限修學制：大、碩、博	0	0		ABU0813	A	半	3.0	校際臺科大（學）	9UAB		Introduction to International Business				10	選			3508	洪東敏	二 6-8	
+114	2	0	0	國際企業概論		管理學院 ; 企業管理系 ; PBL課程、加退選開放全校選修 ; 限修學制：大、碩、博	0	0		ABU0813	A	半	3.0	校際臺科大（學）	9UAB		Introduction to International Business				10	選			3508	洪東敏	二 6-8 TR-413-1	
 114	2	0	0	國際企業與創新發展	8	管理學院 ; 科技管理研究所 ; 英語授課、限28人、業界師資協同教學、EMI課程、開放外系選修 ; 限修學制：碩、博	0	0		ABC8041	A	半	3.0	校際臺科大（碩）	9MAB		International Business and Innovation Development	是			1	選	◎課程不開放上修		3509	何秀青	三 5-7 TR-812	
 114	2	0	0	國際專利法公約	8	應用科技學院 ; 專利研究所 ; 限24人、開放外系研究所選課、臺灣大學系統學校限研究所學生選修 ; 限修學制：碩、博	0	0		ABC8819	A	半	3.0	校際臺科大（碩）	9MAB		International Patent Treaties				3	選	◎課程不開放上修		3510	白江泰人	一 6-8 TR-829	
 114	2	0	0	國際現勢		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0302	A	半	2.0	校際臺科大（學）	9UAB		Contemporary International Relations and Politics				2	選			3511	鄭大誠	二 8-9 TR-509	
 114	2	0	0	基礎口譯		人文社會學院 ; 應用外語系 ; 限20人、英語授課、EMI課程、PBL課程、創新教學課程 ; 限修學制：大、碩、博	2	2		ABU0659	A	半	3.0	校際臺科大（學）	9UAB		Elementary Interpreting	是			2	選			3512	陳安頎	三 6-8 RB-301	
-114	2	0	0	基礎互動設計(二)		設計學院 ; 設計系 ; 限30人 ; 限修學制：大、碩、博	1	1		ABU0573	A	半	3.0	校際臺科大（學）	9UAB		Fundamentals of Interaction Design (II)				5	選			3513	梁容輝	五 6-8	
+114	2	0	0	基礎互動設計(二)		設計學院 ; 設計系 ; 限30人 ; 限修學制：大、碩、博	1	1		ABU0573	A	半	3.0	校際臺科大（學）	9UAB		Fundamentals of Interaction Design (II)				5	選			3513	梁容輝	五 6-8 TR-611	
 114	2	0	0	基礎電腦輔助設計(二)		設計學院 ; 建築系 ; 建築資訊建模學分學程、限30人 ; 限修學制：大、碩、博	0	0		ABU0066	A	半	3.0	校際臺科大（學）	9UAB		Fundamental Computer-Aided Design (II)				5	選			3514	陳彥宏	四 6-8 RB-508	
 114	2	0	0	基礎電腦輔助設計(二)		設計學院 ; 建築系 ; 建築資訊建模學分學程、限30人 ; 限修學制：大、碩、博	0	0		ABU0066	B	半	3.0	校際臺科大（學）	9UAB		Fundamental Computer-Aided Design (II)				5	選			3515	陳彥宏	三 6-8 RB-508	
 114	2	0	0	專利文件解讀		智慧財產學院 ; 智慧財產權學士學位學程 ; 限20人 ; 限修學制：大	3	3		ABU0575	A	半	3.0	校際臺科大（學）	9UAB		Interpretation of Patent Document				5	選			3516	朱默庵	一 2-4 TR-833	
@@ -3458,8 +3456,8 @@
 114	2	0	0	彩色影像複製系統	8	應用科技學院 ; 色彩與照明科技研究所 ; 開放外系研究所選課、加退選時開放全校大四選修、限45人 ; 限修學制：碩、博	0	0		ABC8820	A	半	3.0	校際臺科大（碩）	9MAB		Colour Image Reproduction Systems				5	選	◎課程不開放上修		3521	胡國瑞	五 2-4 IB-304	
 114	2	0	0	彩妝美學與實務		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0978	A	半	2.0	校際臺科大（學）	9UAB		Makeup Aesthetics and Practice				2	選			3522	石美芳	五 3-4 TR-610	
 114	2	0	0	彩妝美學與實務		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0978	B	半	2.0	校際臺科大（學）	9UAB		Makeup Aesthetics and Practice				2	選			3523	石美芳	五 1-2 TR-610	
-114	2	0	0	彩繪心理學與數位出版策略實作	8	管理學院 ; 企業管理系 ; 業界師資協同教學、開放外系選修、加退選時開放全校大四選修、限18人 ; 限修學制：碩、博	0	0		ABC8821	A	半	3.0	校際臺科大（碩）	9MAB		Art Psychology and Digital Publishing  Strategy Action				2	選	◎課程不開放上修		3524	王蕙芝	四 10 , 四 8-9	
-114	2	0	0	彩繪圖案設計與生活應用		通識教育中心 ; 通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博	2	2		ABU1055	A	半	2.0	校際臺科大（學）	9UAB		Color Painting Design and Life Application				2	選			3525	陳美均	五 8-9	
+114	2	0	0	彩繪心理學與數位出版策略實作	8	管理學院 ; 企業管理系 ; 業界師資協同教學、開放外系選修、加退選時開放全校大四選修、限18人 ; 限修學制：碩、博	0	0		ABC8821	A	半	3.0	校際臺科大（碩）	9MAB		Art Psychology and Digital Publishing  Strategy Action				2	選	◎課程不開放上修		3524	王蕙芝	四 10 MA-520, 四 8-9 MA-520	
+114	2	0	0	彩繪圖案設計與生活應用		通識教育中心 ; 通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博	2	2		ABU1055	A	半	2.0	校際臺科大（學）	9UAB		Color Painting Design and Life Application				2	選			3525	陳美均	五 8-9 TR-409-2	
 114	2	0	0	從韓流文化看韓國社會		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0467	A	半	2.0	校際臺科大（學）	9UAB		From Korean Pop Culture to Explore Korean Society				2	選			3526	黃身安	五 6-7 IB-608	
 114	2	0	0	情感與法律		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0429	A	半	2.0	校際臺科大（學）	9UAB		Affection and Law				2	選			3527	徐泰國	一 8-9 TR-213	
 114	2	0	0	教育研究法	8	人文社會學院 ; 數位學習與教育研究所 ; 限18人、開放外系研究所選課 ; 限修學制：碩、博	0	0		ABC8416	A	半	3.0	校際臺科大（碩）	9MAB		Educational Research Methodology				1	選	◎課程不開放上修		3528	鄭海蓮	五 6-8 T4-401-1	
@@ -3480,7 +3478,7 @@
 114	2	0	0	軟體工程		管理學院 ; 資訊管理系 ; 業界師資協同教學、限40人、限本校資管系學生選課 ; 限修學制：大、碩、博	0	0		ABU0305	A	半	3.0	校際臺科大（學）	9UAB		Software Engineering				5	選			3543	黃世禎	二 6-8 MA-316	
 114	2	0	0	這不是愛是犯罪─解析重大刑案		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程、上課地點華夏科大，上課節次起訖時間請依照臺科大上課時間表 ; 限修學制：大、碩、博	1	1		ABU1056	A	半	2.0	校際臺科大（學）	9UAB		This is not Love, This is a Crime-Criminal Case Discussion				2	選			3544	林麗燕	二 10 華夏, 二 9 華夏	
 114	2	0	0	這不是愛是犯罪─解析重大刑案		通識教育中心 ; 通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博	2	2		ABU1056	B	半	2.0	校際臺科大（學）	9UAB		This is not Love, This is a Crime-Criminal Case Discussion				2	選			3545	林麗燕	五 6-7	
-114	2	0	0	通訊系統(一)		電資學院 ; 電子工程系 ;   限修學制：大、碩、博	1	1		ABU0760	A	半	3.0	校際臺科大（學）	9UAB		Communication systems(I)				1	選			3546	王煥宗	五 6-7 IB-609, 四 4 IB-409-2	
+114	2	0	0	通訊系統(一)		電資學院 ; 電子工程系 ;   限修學制：大、碩、博	1	1		ABU0760	A	半	3.0	校際臺科大（學）	9UAB		Communication systems(I)				1	選			3546	王煥宗	五 6-7 IB-409-2, 四 4 IB-409-2	
 114	2	0	0	連體力學	8	工程學院 ; 機械工程系 ;   限修學制：碩、博	0	0		ABC8822	A	半	3.0	校際臺科大（碩）	9MAB		Continuum Mechanics				4	選	◎課程不開放上修		3547	蘇裕軒	一 6-8	
 114	2	0	0	造型雕塑設計		設計學院 ; 設計系 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0979	A	半	2.0	校際臺科大（學）	9UAB		Sculpture Design				2	選			3548	杜亞倫	二 8-9 TR-514	
 114	2	0	0	部落漫遊		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0166	A	半	1.0	校際臺科大（學）	9UAB		Introduction of Aboriginal Tribes in Taiwan				2	選			3549	蔡曉雲	三 10 TR-213, 三 9 TR-213	
@@ -3509,9 +3507,9 @@
 114	2	0	0	進階西班牙文(二)		人文社會學院 ; 應用外語系 ; 限50人、限大二以上學生選課、至少已修過初級西班牙文(一)者選修、外語選修 ; 限修學制：大、碩、博	0	0		ABU0437	A	半	2.0	校際臺科大（學）	9UAB		Intermediate Spanish (2)				5	選	◎必須先修過初級西班牙文(一)　｜　初級西班牙文(一)】		3572	馮志宇	五 3-4 TR-413-1	
 114	2	0	0	進階法文(二)		人文社會學院 ; 應用外語系 ; 限50人、限大二以上學生選課、至少已修過初級法文(一)者選修、外語選修 ; 限修學制：大、碩、博	2	2		ABU0892	A	半	2.0	校際臺科大（學）	9UAB		Intermediate French (II)				2	選	◎必須先修過初級法文(一)　｜　初級法文(一)】		3573	陳宜君	二 8-9 TR-411	
 114	2	0	0	進階電腦視覺與機器學習	8	應用科技學院 ; 醫學工程研究所 ; 業界師資協同教學、PBL課程、EMI課程、加退選開放全校大三、大四選修、限18人、英語授課 ; 限修學制：碩、博	0	0		ABC8676	A	半	3.0	校際臺科大（碩）	9MAB		Advanced Computer Vision and Machine Learning	是			1	選	◎課程不開放上修		3574	王靖維	四 2-4 TR-836	
-114	2	0	0	傳播技能		管理學院 ; 管理學士班 ; 限50人、PBL課程、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0353	A	半	3.0	校際臺科大（學）	9UAB		Mass Communication Skill				2	選			3575	胡家紋	一 10 , 一 8-9	
+114	2	0	0	傳播技能		管理學院 ; 管理學士班 ; 限50人、PBL課程、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0353	A	半	3.0	校際臺科大（學）	9UAB		Mass Communication Skill				2	選			3575	胡家紋	一 10 TR-209, 一 8-9 TR-209	
 114	2	0	0	微波電路	8	電資學院 ; 電子工程系 ; 加退選時開放本系大四選課 ; 限修學制：碩、博	0	0		ABC8486	A	半	3.0	校際臺科大（碩）	9MAB		Microwave Circuits				5	選	◎課程不開放上修		3576	謝松年	五 6-8 IB-409-1	
-114	2	0	0	微積分		管理學院 ; 企業管理系 ; 遴選不開放選修、四企一單號、R6演算課，由助教上課 ; 限修學制：大、碩、博	0	0		ABU0082	A	半	3.0	校際臺科大（學）	9UAB		Calculus				1	選			3577	王聖淵	四 6 , 二 10 , 二 8-9	
+114	2	0	0	微積分		管理學院 ; 企業管理系 ; 遴選不開放選修、四企一單號、R6演算課，由助教上課 ; 限修學制：大、碩、博	0	0		ABU0082	A	半	3.0	校際臺科大（學）	9UAB		Calculus				1	選			3577	王聖淵	四 6 TR-409-1, 二 10 TR-409-1, 二 8-9 TR-409-1	
 114	2	0	0	微積分(下)		管理學院 ; 工業管理系 ; R6演算課，由助教上課、臺大及臺師大修讀本系輔系及雙主修學生可向授課老師索取授權碼選課、限53人 ; 限修學制：大、碩、博	1	1		ABU0438	A	半	3.0	校際臺科大（學）	9UAB		Calculus (II)				1	選			3578	張益賓	四 6 MA-101, 三 10 MA-010, 三 8-9 MA-010	
 114	2	0	0	微積分(下)		電資學院 ; 電資學士班 ; M9演算課，由助教上課、英語授課、EMI課程 ; 限修學制：大、碩、博	0	0		ABU0438	B	半	4.0	校際臺科大（學）	9UAB		Calculus (II)	是			2	選			3579	項人宗	一 9 IB-408, 四 6-7 IB-408, 二 6-7 IB-408	
 114	2	0	0	愛克斯光繞射及結晶學	8	工程學院 ; 材料科學與工程系 ; 限73人、英語授課、EMI課程、業界師資協同教學、加退選開放全校大三、大四選修 ; 限修學制：碩、博	0	0		ABC8706	A	半	3.0	校際臺科大（碩）	9MAB		X-ray Diffraction and Crystallography	是			1	選	◎課程不開放上修		3580	梁鍵隴	三 6-8 TR-212	
@@ -3522,7 +3520,7 @@
 114	2	0	0	經典與人生		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0242	A	半	2.0	校際臺科大（學）	9UAB		Classics and Life				2	選			3585	釋見咸法師	二 10 IB-502, 二 9 IB-502	
 114	2	0	0	經濟學(下)		管理學院 ; 企業管理系 ; 四企一單號、遴選不開放選修、加退選開放全校大學部學生選修、上課地點華夏科大，上課節次起訖時間請依照臺科大上課時間表 ; 限修學制：大、碩、博	0	0		ABU0440	A	半	3.0	校際臺科大（學）	9UAB		Economics (II)				2	選			3586	紀舒哲	三 6-8 華夏校區	
 114	2	0	0	經濟學(下)		管理學院 ; 企業管理系 ; 四企一雙號、遴選不開放選修、加退選開放全校大學部學生選修、上課地點華夏科大，上課節次起訖時間請依照臺科大上課時間表 ; 限修學制：大、碩、博	1	1		ABU0440	B	半	3.0	校際臺科大（學）	9UAB		Economics (II)				2	選			3587	紀舒哲	三 2-4 華夏校區	
-114	2	0	0	經濟學：市場與趨勢		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0355	A	半	2.0	校際臺科大（學）	9UAB		Economics: Market and Perspective				2	選			3588	徐茂炫	四 8-9 T4-304	
+114	2	0	0	經濟學：市場與趨勢		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0355	A	半	2.0	校際臺科大（學）	9UAB		Economics: Market and Perspective				2	選			3588	徐茂炫	四 8-9 T4-303	
 114	2	0	0	經濟學與生活體驗		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0356	A	半	2.0	校際臺科大（學）	9UAB		Living Experience in Economics				2	選			3589	徐茂炫	五 6-7 T4-304	
 114	2	0	0	話．畫建築與設計表現		設計學院 ; 建築系 ; 通識領域課程、限50人 ; 限修學制：大、碩、博	1	1		ABU0987	A	半	2.0	校際臺科大（學）	9UAB		Talk about and Paint Architecture and Design Expression				2	選			3590	陳修兀	三 3-4 TR-313	
 114	2	0	0	資安生活		管理學院 ; 資訊管理系 ; 通識領域課程、限50人、資訊跨域微學程課程,電機工程系、電子工程系、資訊工程系及資訊管理系學生不得修習本課程 ; 限修學制：大、碩、博	0	0		ABU0663	A	半	3.0	校際臺科大（學）	9UAB		Information Security in life				2	選			3591	莊祐軒	五 A-C RB-508	
@@ -3534,9 +3532,9 @@
 114	2	0	0	跨領域實務專題(二)		通識教育中心 ; 通識教育中心 ; 臺灣大學系統學校學生開學第一週前需向台科大通識教育中心申請修讀，未經審核同意者將逕予退選、不開放電腦選課，欲選課者請洽通識教育中心 ; 限修學制：大、碩、博	0	0		ABU0367	A	半	2.0	校際臺科大（學）	9UAB		Interdisciplinary Special Project II				1	選			3597			
 114	2	0	0	電力系統控制與穩定度	8	電資學院 ; 電機工程系 ;   限修學制：碩、博	0	0		ABC8489	A	半	3.0	校際臺科大（碩）	9MAB		Power System Control and Stability				2	選	◎課程不開放上修		3598	吳進忠	六 2-4	
 114	2	0	0	電子商務		管理學院 ; 工業管理系 ; 英語授課、EMI課程 ; 限修學制：大、碩、博	1	1		ABU1059	A	半	3.0	校際臺科大（學）	9UAB		Electronic Commerce	是			3	選			3599	RENAN S. MAGLASANG	二 6-8	
-114	2	0	0	電子商務與數位行銷	8	管理學院 ; MBA ; 英語授課、限管理學院研究所一般生選修、EMI課程、限51人 ; 限修學制：碩、博	0	0		ABC8708	A	半	3.0	校際臺科大（碩）	9MAB		E-Commerce and Digital Marketing	是			2	選	◎課程不開放上修		3600	張恩欣	四 6-8	
+114	2	0	0	電子商務與數位行銷	8	管理學院 ; MBA ; 英語授課、限管理學院研究所一般生選修、EMI課程、限51人 ; 限修學制：碩、博	0	0		ABC8708	A	半	3.0	校際臺科大（碩）	9MAB		E-Commerce and Digital Marketing	是			2	選	◎課程不開放上修		3600	張恩欣	四 6-8 TR-209	
 114	2	0	0	電子商務與競爭法專題研究	8	管理學院 ; 科技管理研究所 ; 限20人、業界師資協同教學、開放外系選修 ; 限修學制：碩、博	0	0		ABC8490	A	半	3.0	校際臺科大（碩）	9MAB		Studies in E-commerce and Competition Law				3	選	◎課程不開放上修		3601	劉華美	一 2-4 TR-812	
-114	2	0	0	電子構裝技術概論與先進構裝技術		工程學院 ; 材料科學與工程系 ; 加退選開放外系選修、限44人 ; 限修學制：大	0	0		ABU1060	A	半	3.0	校際臺科大（學）	9UAB		Concept of Electronic Packaging and Advanced Packaging Technology				3	選			3602	顏怡文	五 6-7 , 二 7	
+114	2	0	0	電子構裝技術概論與先進構裝技術		工程學院 ; 材料科學與工程系 ; 加退選開放外系選修、限44人 ; 限修學制：大	0	0		ABU1060	A	半	3.0	校際臺科大（學）	9UAB		Concept of Electronic Packaging and Advanced Packaging Technology				3	選			3602	顏怡文	五 6-7 TR-514, 二 7 TR-514	
 114	2	0	0	電子影像傳輸與互動	8	應用科技學院 ; 色彩與照明科技研究所 ; 開放外系研究所選課、英語授課、EMI課程、加退選時開放全校大四選修、限45人 ; 限修學制：碩、博	0	0		ABC8753	A	半	3.0	校際臺科大（碩）	9MAB		Electronic Image Communication and Interaction	是			5	選	◎課程不開放上修		3603	溫照華	一 2-4 TR-610	
 114	2	0	0	電化學交流阻抗頻譜分析與應用	8	應用科技學院 ; 應用科技研究所 ; EMI課程、英語授課、開放外系研究所選課、加退選時開放全校大四選修、限45人 ; 限修學制：碩、博	0	0		ABC8421	A	半	3.0	校際臺科大（碩）	9MAB		Electrochemical Impedance Spectroscopy: Analysis and Application	是			5	選	◎課程不開放上修		3604	王復民	五 10 , 五 8-9	
 114	2	0	0	電腦在建築上之應用(二)		設計學院 ; 建築系 ; 建築資訊建模學分學程、限30人 ; 限修學制：大、碩、博	0	0		ABU0086	A	半	3.0	校際臺科大（學）	9UAB		Computer Applications in Architecture (2)				2	選			3605	林裕傑	一 6-8 RB-508	
@@ -3546,7 +3544,7 @@
 114	2	0	0	電機機械		工程學院 ; 機械工程系 ; 加退選開放全校大三大四選課、智慧電動車學程、限30人、上課地點華夏科大，上課節次起訖時間請依照臺科大上課時間表 ; 限修學制：大、碩、博	0	0		ABU0897	A	半	3.0	校際臺科大（學）	9UAB		Electric Machinery				2	選			3609	關錦龍	四 6-8 華夏教學大樓C119	
 114	2	0	0	實務專題(下)		工程學院 ; 材料科學與工程系 ; 遴選不開放選修 ; 限修學制：大、碩、博	0	0		ABU0821	A	半	2.0	校際臺科大（學）	9UAB		Special Projects (II)				1	選			3610			
 114	2	0	0	演算法		管理學院 ; 資訊管理系 ; 初選限本校資管系學生選課，加退選開放外系選課、限100人 ; 限修學制：大、碩、博	2	2		ABU0761	A	半	3.0	校際臺科大（學）	9UAB		Algorithms				2	選			3611	楊傳凱	三 2-4 E2-102	
-114	2	0	0	管理會計		管理學院 ; 企業管理系 ; 四企二單號 ; 限修學制：大、碩、博	0	0		ABU0758	A	半	3.0	校際臺科大（學）	9UAB		Management Accounting				1	選			3612	張鳳真	三 2-4	
+114	2	0	0	管理會計		管理學院 ; 企業管理系 ; 四企二單號 ; 限修學制：大、碩、博	0	0		ABU0758	A	半	3.0	校際臺科大（學）	9UAB		Management Accounting				1	選			3612	張鳳真	三 2-4 TR-514	
 114	2	0	0	管理概論		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0313	A	半	2.0	校際臺科大（學）	9UAB		Introduction to Management				2	選			3613	賴明政	四 3-4 TR-311	
 114	2	0	0	管理概論		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0313	B	半	2.0	校際臺科大（學）	9UAB		Introduction to Management				2	選			3614	賴明政	四 1-2 TR-311	
 114	2	0	0	管樂合奏（二）		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0747	A	半	2.0	校際臺科大（學）	9UAB		Wind Ensemble (2)				2	選			3615	林祐生	一 B-C E2-102	
@@ -3566,19 +3564,19 @@
 114	2	0	0	影像美學		設計學院 ; 建築系 ; 通識領域課程、限50人 ; 限修學制：大、碩、博	2	2		ABU0094	A	半	2.0	校際臺科大（學）	9UAB		Introduction to Visual Aesthetics				2	選			3629	吳榮梅	三 10 TR-212, 三 9 TR-212	
 114	2	0	0	影像記事中的近代兩岸		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0526	A	半	2.0	校際臺科大（學）	9UAB		Modern History of Taiwan and China in Documentaries				2	選			3630	管美蓉	二 10 TR-510, 二 9 TR-510	
 114	2	0	0	敷地計畫		設計學院 ; 建築系 ;   限修學制：大、碩、博	0	0		ABU0593	A	半	3.0	校際臺科大（學）	9UAB		Site Planning				3	選			3631	詹肇裕	四 2-4 TR-510	
-114	2	0	0	數位互動設計	8	設計學院 ; 建築系 ; 加退選開放本系在職專班選課、PBL課程 ; 限修學制：碩、博	0	0		ABC8066	A	半	3.0	校際臺科大（碩）	9MAB		Digital Interaction Design				3	選	◎課程不開放上修		3632	林權萱	四 2-4	
+114	2	0	0	數位互動設計	8	設計學院 ; 建築系 ; 加退選開放本系在職專班選課、PBL課程 ; 限修學制：碩、博	0	0		ABC8066	A	半	3.0	校際臺科大（碩）	9MAB		Digital Interaction Design				3	選	◎課程不開放上修		3632	林權萱	四 2-4 T4-301	
 114	2	0	0	數位內容設計	8	人文社會學院 ; 數位學習與教育研究所 ; 限20人、開放外系研究所選課、加退選時開放全校大四選修、業界師資協同教學、PBL課程 ; 限修學制：碩、博	1	1		ABC8591	A	半	3.0	校際臺科大（碩）	9MAB		Digital Content Design				1	選	◎課程不開放上修		3633	高宜敏	二 7-9 T4-401-1	
-114	2	0	0	數位行銷實務		管理學院 ; 管理學士班 ; 開放全校大二至大四同學選修、限45人 ; 限修學制：大、碩、博	0	0		ABU0908	A	半	3.0	校際臺科大（學）	9UAB		Practices of Digital Marketing				2	選			3634	向君璧	四 6-8	
+114	2	0	0	數位行銷實務		管理學院 ; 管理學士班 ; 開放全校大二至大四同學選修、限45人 ; 限修學制：大、碩、博	0	0		ABU0908	A	半	3.0	校際臺科大（學）	9UAB		Practices of Digital Marketing				2	選			3634	向君璧	四 6-8 TR-609	
 114	2	0	0	數位信號處理之原理與應用		電資學院 ; 電子工程系 ; 限44人 ; 限修學制：大、碩、博	0	0		ABU0824	A	半	3.0	校際臺科大（學）	9UAB		Principles and Applications of digital Signal Processing				3	選			3635	李佩君	一 3-4 IB-510-2, 二 7 IB-510-2	
 114	2	0	0	數位信號處理實習		電資學院 ; 電子工程系 ; 四年制必修任選四實習;二年制必修任選三實習、限35人 ; 限修學制：大、碩、博	1	1		ABU0900	A	半	1.0	校際臺科大（學）	9UAB		Digital Signal Processing Laboratory				1	選			3636	李佩君	二 10 T2-511, 二 8-9 T2-511	
-114	2	0	0	數位建築模型		設計學院 ; 建築系 ; 建築資訊建模學分學程、EMI課程、英語授課、限30人 ; 限修學制：大、碩、博	1	1		ABU0184	A	半	3.0	校際臺科大（學）	9UAB		Digital Building Model	是			2	選			3637	林裕傑	一 2-4 RB-508	
+114	2	0	0	數位建築模型		設計學院 ; 建築系 ; 建築資訊建模學分學程、EMI課程、英語授課、限30人 ; 限修學制：大、碩、博	1	1		ABU0184	A	半	3.0	校際臺科大（學）	9UAB		Digital Building Model	是			2	選			3637	林裕傑	五 2-4 RB-911	
 114	2	0	0	數位造型與快速成型製作	8	設計學院 ; 建築系 ; 限10人、加退選開放本系在職專班選課 ; 限修學制：碩、博	1	1		ABC8349	A	半	3.0	校際臺科大（碩）	9MAB		Digital Form and Rapid Prototyping				5	選	◎課程不開放上修		3638	施乃中	一 2-4 RB-707	
 114	2	0	0	數位藝術設計		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0365	A	半	2.0	校際臺科大（學）	9UAB		Digital Arts Design				2	選			3639	張博智	四 6-7 TR-311	
 114	2	0	0	數位藝術設計		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0365	B	半	2.0	校際臺科大（學）	9UAB		Digital Arts Design				2	選			3640	張博智	四 8-9 TR-311	
-114	2	0	0	數量方法─統計方法與資料分析	8	管理學院 ; MBA ; 英語授課、EMI課程、限管理學院研究所一般生選修、限51人 ; 限修學制：碩、博	0	0		ABC8318	A	半	3.0	校際臺科大（碩）	9MAB		Statistics and Data Analysis	是			2	選	◎課程不開放上修		3641	何建韋	四 2-4	
+114	2	0	0	數量方法─統計方法與資料分析	8	管理學院 ; MBA ; 英語授課、EMI課程、限管理學院研究所一般生選修、限51人 ; 限修學制：碩、博	0	0		ABC8318	A	半	3.0	校際臺科大（碩）	9MAB		Statistics and Data Analysis	是			2	選	◎課程不開放上修		3641	何建韋	四 2-4 TR-513	
 114	2	0	0	數據通訊之光子積體電路	8	產學創新學院 ; 先進半導體科技研究所 ; 加退選開放大四選修、上課地點華夏科大，上課節次起訖時間請依照臺科大上課時間表、限46人 ; 限修學制：碩、博	0	0		ABC8824	A	半	3.0	校際臺科大（碩）	9MAB		Photonic Integrated Circuits for Data Communications				2	選	◎課程不開放上修		3642	楊淳良	三 6-8 華夏	
-114	2	0	0	樂齡與芳香療法		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0939	A	半	2.0	校際臺科大（學）	9UAB		Elderly and Aromatherapy				2	選			3643	高瑞雲	四 1-2 E1-306	
-114	2	0	0	樂齡與芳香療法		通識教育中心 ; 通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博	2	2		ABU0939	B	半	2.0	校際臺科大（學）	9UAB		Elderly and Aromatherapy				2	選			3644	高瑞雲	四 3-4 E1-306	
+114	2	0	0	樂齡與芳香療法		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0939	A	半	2.0	校際臺科大（學）	9UAB		Elderly and Aromatherapy				2	選			3643	高瑞雲	四 1-2 TR-211	
+114	2	0	0	樂齡與芳香療法		通識教育中心 ; 通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博	2	2		ABU0939	B	半	2.0	校際臺科大（學）	9UAB		Elderly and Aromatherapy				2	選			3644	高瑞雲	四 3-4 TR-211	
 114	2	0	0	編碼理論	8	電資學院 ; 電子工程系 ; 加退選時開放本系大四選課 ; 限修學制：碩、博	0	0		ABC8156	A	半	3.0	校際臺科大（碩）	9MAB		Coding Theory				10	選	◎課程不開放上修		3645	賴坤財	三 6-8 IB-510-1	
 114	2	0	0	線性代數		電資學院 ; 電機工程系 ; 不分系學號雙號、英語授課、EMI課程、限118人 ; 限修學制：大、碩、博	0	0		ABU0099	A	半	3.0	校際臺科大（學）	9UAB		Linear Algebra	是			1	選			3646	陳俊良	四 8 EE-311, 三 6-7 EE-311	
 114	2	0	0	談判學		管理學院 ; 企業管理系 ; PBL課程、限70人、開放全校大學部學生選修 ; 限修學制：大、碩、博	10	10		ABU0712	A	半	3.0	校際臺科大（學）	9UAB		Negotiation				10	選			3647	許重博	四 A-C	
@@ -3591,26 +3589,26 @@
 114	2	0	0	學習型玩具設計與探究	8	應用科技學院 ; 應用科技研究所 ; EMI課程、英語授課、PBL課程、開放外系研究所選課、加退選時開放全校大四選修、限18人、業界師資協同教學 ; 限修學制：碩、博	0	0		ABC8494	A	半	3.0	校際臺科大（碩）	9MAB		Design and Exploration of Learning Toys	是			1	選	◎課程不開放上修		3654	湯梓辰	五 10 IB-508, 五 8-9 IB-508	
 114	2	0	0	機械手臂與參數設計之運用		設計學院 ; 建築系 ; 英語授課、EMI課程、國際前瞻數位互動設計學程、開放設計學院各系選修 ; 限修學制：大、碩、博	1	1		ABU0529	A	半	3.0	校際臺科大（學）	9UAB		Applications of Robotics and Parametric Design	是			2	選			3655	林裕傑	二 10 , 二 8-9	
 114	2	0	0	機器人技術與實作		工程學院 ; 機械工程系 ; 限18人、PBL課程、請同學自備筆記型電腦 ; 限修學制：大、碩、博	1	1		ABU0750	A	半	3.0	校際臺科大（學）	9UAB		Design and Implementation of Robot				1	選			3656	吳國彰	三 2-4 公館校區B棟	
-114	2	0	0	隨機振動學	8	工程學院 ; 營建工程系 ; 英語授課、EMI課程 ; 限修學制：碩、博	0	0		ABC8161	A	半	3.0	校際臺科大（碩）	9MAB		Random Vibrations	是			3	選	◎課程不開放上修		3657	陳瑞華	四 6-8	
+114	2	0	0	隨機振動學	8	工程學院 ; 營建工程系 ; 英語授課、EMI課程 ; 限修學制：碩、博	0	0		ABC8161	A	半	3.0	校際臺科大（碩）	9MAB		Random Vibrations	是			3	選	◎課程不開放上修		3657	陳瑞華	四 6-8 IB-609	
 114	2	0	0	隨機過程	8	管理學院 ; 工業管理系 ; 英語授課、EMI課程、加退選時開放本系大四選課、限28人 ; 限修學制：碩、博	0	0		ABC8826	A	半	3.0	校際臺科大（碩）	9MAB		Stochastic Processes	是			1	選	◎課程不開放上修		3658	郭伯勳	三 2-4 MA-417	
-114	2	0	0	應用色彩心理學	8	應用科技學院 ; 色彩與照明科技研究所 ; 加退選時開放全校大四選修、英語授課、開放外系研究所選課、EMI課程、限45人 ; 限修學制：碩、博	0	0		ABC8170	A	半	3.0	校際臺科大（碩）	9MAB		Applied Color Psychology	是			5	選	◎課程不開放上修		3659	歐立成	四 6-8 TR-616	
+114	2	0	0	應用色彩心理學	8	應用科技學院 ; 色彩與照明科技研究所 ; 加退選時開放全校大四選修、英語授課、開放外系研究所選課、EMI課程、限45人 ; 限修學制：碩、博	0	0		ABC8170	A	半	3.0	校際臺科大（碩）	9MAB		Applied Color Psychology	是			5	選	◎課程不開放上修		3659	歐立成	四 6-8 TR-617	
 114	2	0	0	應用色彩科學	8	應用科技學院 ; 色彩與照明科技研究所 ; 英語授課、EMI課程、開放外系研究所選課、加退選時開放全校大四選修、限45人 ; 限修學制：碩、博	1	1		ABC8714	A	半	3.0	校際臺科大（碩）	9MAB		Applied Colour Science	是			5	選	◎課程不開放上修		3660	胡國瑞	一 6-8 IB-511-2	
 114	2	0	0	應用機率模型	8	管理學院 ; 工業管理系 ; 限48人 ; 限修學制：碩、博	0	0		ABC8351	A	半	3.0	校際臺科大（碩）	9MAB		Applied Probability Models				1	選	◎課程不開放上修		3661	葉瑞徽	二 6-8 MA-207	
 114	2	0	0	環境控制系統(一)		設計學院 ; 建築系 ; EMI課程、英語授課、請自行上機選課 ; 限修學制：大、碩、博	0	0		ABU0104	A	半	3.0	校際臺科大（學）	9UAB		Environmental Control System (1)	是			3	選			3662	蔡欣君	三 6-8 TR-613	
 114	2	0	0	禪心情趣－茶禪、香禪、花禪		通識教育中心 ; 通識教育中心 ; 通識領域課程、依課程所需，會有部分課程於校外進行、限50人 ; 限修學制：大、碩、博	2	2		ABU0252	A	半	2.0	校際臺科大（學）	9UAB		Zen and Delight				2	選			3663	果鏡法師	六 3-4 EE-311	
-114	2	0	0	聲動溝通：用新媒體敘事		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU1023	A	半	2.0	校際臺科大（學）	9UAB		Vocal Communication: Storytelling through New Media				2	選			3664	蔡宜穎	四 8-9	
-114	2	0	0	聲動溝通：用新媒體敘事		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU1023	B	半	2.0	校際臺科大（學）	9UAB		Vocal Communication: Storytelling through New Media				2	選			3665	蔡宜穎	四 6-7	
+114	2	0	0	聲動溝通：用新媒體敘事		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU1023	A	半	2.0	校際臺科大（學）	9UAB		Vocal Communication: Storytelling through New Media				2	選			3664	蔡宜穎	四 8-9 T4-301	
+114	2	0	0	聲動溝通：用新媒體敘事		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU1023	B	半	2.0	校際臺科大（學）	9UAB		Vocal Communication: Storytelling through New Media				2	選			3665	蔡宜穎	四 6-7 T4-301	
 114	2	0	0	臨終關懷與生命教育		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0323	A	半	2.0	校際臺科大（學）	9UAB		Hospice and Life Education				2	選			3666	德嘉法師、宗惇法師	三 10 TR-313, 三 9 TR-313	
 114	2	0	0	薄膜能源科技	8	應用科技學院 ; 應用科技研究所 ; 開放外系研究所選課、加退選時開放全校大四選修、限40人 ; 限修學制：碩、博	0	0		ABC8390	A	半	3.0	校際臺科大（碩）	9MAB		Membrane Technology for Energy				5	選	◎課程不開放上修		3667	胡蒨傑	一 5-7 IB-609	
 114	2	0	0	隱私資訊安全	8	電資學院 ; 資訊工程系 ; 限78人、加退選開放本系大三、大四選修 ; 限修學制：碩、博	1	1		ABC8757	A	半	3.0	校際臺科大（碩）	9MAB		Data Privacy and Security	是			1	選	◎課程不開放上修		3668	王紹睿	四 6-8 TR-409-1	
 114	2	0	0	韓國語言與文化		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0624	A	半	2.0	校際臺科大（學）	9UAB		Korean Language and Culture				2	選			3669	黃身安	五 8-9 IB-608	
 114	2	0	0	職場法律防身術─拒絕不法侵害		通識教育中心 ; 通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博	0	0		ABU1062	A	半	2.0	校際臺科大（學）	9UAB		Workplace Laws: Say No to Illegal Infringement				2	選			3670	林麗燕	一 8-9	
-114	2	0	0	醫用超音波影像	8	電資學院 ; 電機工程系 ; 加退選時開放本系大四選課、開放外系研究所選課 ; 限修學制：碩、博	0	0		ABC8321	A	半	3.0	校際臺科大（碩）	9MAB		Medical Ultrasound Imaging				12	選	◎課程不開放上修		3671	沈哲州	四 2-4	
+114	2	0	0	醫用超音波影像	8	電資學院 ; 電機工程系 ; 加退選時開放本系大四選課、開放外系研究所選課 ; 限修學制：碩、博	0	0		ABC8321	A	半	3.0	校際臺科大（碩）	9MAB		Medical Ultrasound Imaging				12	選	◎課程不開放上修		3671	沈哲州	四 2-4 IB-601-2	
 114	2	0	0	醫學與生活		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0325	A	半	2.0	校際臺科大（學）	9UAB		Medical Science and Life				2	選			3672	黃東明	五 6-7 TR-413-1	
 114	2	0	0	醫學與生活		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0325	B	半	2.0	校際臺科大（學）	9UAB		Medical Science and Life				2	選			3673	黃東明	五 8-9 TR-413-1	
 114	2	0	0	醫學與生活		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0325	C	半	2.0	校際臺科大（學）	9UAB		Medical Science and Life				2	選			3674	趙國芳	五 3-4 TR-517	
 114	2	0	0	醫療影像系統	8	應用科技學院 ; 醫學工程研究所 ; 加退選時開放全校大四選修、開放外系研究所選課、限51人、業界師資協同教學 ; 限修學制：碩、博	0	0		ABC8515	A	半	3.0	校際臺科大（碩）	9MAB		Medical Imaging System				2	選	◎課程不開放上修		3675	廖愛禾	三 6-8 TR-612	
-114	2	0	0	醫療器材認證與評估	8	應用科技學院 ; 醫學工程研究所 ; 加退選開放全校大三、大四選修、開放外系研究所選課、限45人 ; 限修學制：碩、博	0	0		ABC8804	A	半	3.0	校際臺科大（碩）	9MAB		Certification and Evaluation of Medical Devices				5	選	◎課程不開放上修		3676	林上智	五 6-8 研揚大樓	
+114	2	0	0	醫療器材認證與評估	8	應用科技學院 ; 醫學工程研究所 ; 加退選開放全校大三、大四選修、開放外系研究所選課、限45人 ; 限修學制：碩、博	0	0		ABC8804	A	半	3.0	校際臺科大（碩）	9MAB		Certification and Evaluation of Medical Devices				5	選	◎課程不開放上修		3676	林上智	五 6-8 TR-616	
 114	2	0	0	雜誌編輯與學習		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0326	A	半	2.0	校際臺科大（學）	9UAB		Magazine Editorial Principle				2	選			3677	梁欣如	三 10 TR-616, 三 9 TR-616	
 114	2	0	0	藝術治療初探		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0713	A	半	2.0	校際臺科大（學）	9UAB		A Preliminary Study of Art Therapy				2	選			3678	楊佳蓉	五 6-7 TR-210	
 114	2	0	0	藝術美學與生活關懷		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	1	1		ABU0327	A	半	2.0	校際臺科大（學）	9UAB		Art and Life				2	選			3679	楊佳蓉	五 8-9 TR-210	
@@ -3619,7 +3617,7 @@
 114	2	0	0	藝術電影賞析		通識教育中心 ; 通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博	2	2		ABU0479	A	半	2.0	校際臺科大（學）	9UAB		Study of Art Films				2	選			3682	傅汝洋	四 10 T4-304, 四 9 T4-304	
 114	2	0	0	藝術賞析		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0329	A	半	2.0	校際臺科大（學）	9UAB		Appreciation of Arts				2	選			3683	鄭治桂	四 3-4 TR-209	
 114	2	0	0	藝術賞析		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0329	B	半	2.0	校際臺科大（學）	9UAB		Appreciation of Arts				2	選			3684	盧廷清	五 8-9 TR-209	
-114	2	0	0	藥物研發趨勢	8	應用科技學院 ; 醫學工程研究所 ; 開放外系研究所選課、加退選開放全校大三、大四選修、限45人、英語授課、EMI課程 ; 限修學制：碩、博	0	0		ABC8771	A	半	2.0	校際臺科大（碩）	9MAB		Trends in Drug Development	是			5	選	◎課程不開放上修		3685	李典璋	一 3-4 TR-613	
+114	2	0	0	藥物研發趨勢	8	應用科技學院 ; 醫學工程研究所 ; 開放外系研究所選課、加退選開放全校大三、大四選修、限45人、英語授課、EMI課程、遠距課程 ; 限修學制：碩、博	0	0		ABC8771	A	半	2.0	校際臺科大（碩）	9MAB		Trends in Drug Development	是			5	選	◎課程不開放上修		3685	李典璋	一 3-4 TR-613	
 114	2	0	0	藥物傳輸原理		應用科技學院 ; 醫學工程學士學位學程 ; 開放全校大學部學生選修、限45人、業界師資協同教學、PBL課程 ; 限修學制：大、碩、博	1	1		ABU1063	A	半	3.0	校際臺科大（學）	9UAB		Introduction to Drug Delivery System				3	選			3686	高震宇	二 2-4 IB-508	
 114	2	0	0	證券管理		管理學院 ; 企業管理系 ; 開放全校大學部學生選修、限48人 ; 限修學制：大、碩、博	1	1		ABU0718	A	半	3.0	校際臺科大（學）	9UAB		Securities Management				1	選			3687	王耀華	三 A-C	
 114	2	0	0	類比積體電路設計與應用		電資學院 ; 電子工程系 ; 限40人 ; 限修學制：大、碩、博	1	1		ABU0589	A	半	3.0	校際臺科大（學）	9UAB		Analog Integrated Circuit Design and Applications				3	選			3688	鍾勇輝	四 6-7 IB-307, 三 6 EE-503	
@@ -3712,7 +3710,7 @@
 114	2	0	0	內皮細胞功能失調與炎症	7	醫學院 ; 生理學研究所 ;   限修學制：大、碩、博	1	1		AAC7704	A	半	3.0	校際臺大（學）	9UAA		Endothelial Dysfunction and Inflammation				1	選			3775	李宗玄	四 6-8 基醫1003	
 114	2	0	0	公司理財專題研討		管理學院 ; 財務金融學研究所 ;   限修學制：碩、博	0	0		AAM2252	A	半	3.0	校際臺大（碩）	9MAA		Seminar in Corporate Finance				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3776	陳聖賢	四 2-4 管一403	
 114	2	0	0	公司理財實證研究		管理學院 ; 財務金融學研究所 ; 教室：管一403。 ; 限修學制：博	0	0		AAD0339	A	半	3.0	校際臺大（博）	9DAA		Empirical Research in Corporate Finance				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3777	陳聖賢	四 2-4 請洽系所辦	
-114	2	0	0	公平配置機制	7	社會科學院 ; 經濟學研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7012	A	半	2.0	校際臺大（學）	9UAA		Fair Allocation Mechanisms				5	選			3778	葉俊顯	一 6-7 社科305	
+114	2	0	0	公平配置機制	7	社會科學院 ; 經濟學研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7012	A	半	2.0	校際臺大（學）	9UAA		Fair Allocation Mechanisms				5	選			3778	葉俊顯	三 6-7 社科302	
 114	2	0	0	公民科學於生物多樣性保育的應用	7	生命科學院 ; 生態學與演化生物學研究所 ;   限修學制：大、碩、博	1	1		AAC7O21	A	半	3.0	校際臺大（學）	9UAA		Citizen science in biodiversity conservation				2	選			3779	林大利	四 6-8 生科3C	
 114	2	0	0	公共政策理論與實務	7	社會科學院 ; 國家發展研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7K38	A	半	3.0	校際臺大（學）	9UAA		Theory and Practice of Public Policy	是			5	選	◎加退選全授權碼選課		3780	洪伊真	一 7-9 國發206	
 114	2	0	0	公部門創新	7	社會科學院 ; 政治學研究所 ; 5/28只上課一小時 ; 限修學制：大三以上、碩、博	0	0		AAC7O22	A	半	1.0	校際臺大（學）	9UAA		Public Sector Innovation	是			2	選	◎加退選全授權碼選課		3781	鄧摩西	一 2-4 社科研608, 四 2-4 社科研608	
@@ -3957,7 +3955,7 @@
 114	2	0	0	尖端材料之基礎與應用		理學院 ; 物理學研究所 ; 上課教室：凝態中心212室。(CCMS room212) ; 限修學制：大、碩、博	0	0		AAD0227	A	半	3.0	校際臺大（博）	9DAA		Advanced Materials: Fundamentals and Applications	是			5	選	◎課程開放上修		4020	林麗瓊	一 2-4 請洽系所辦	
 114	2	0	0	成長小說		文學院 ; 外國語文學系 ; 小說群組（F群組）擇一必修。 ; 限修學制：大、碩、博	1	1		AAU1245	A	半	3.0	校際臺大（學）	9UAA		Coming-of-Age Novels	是			1	選	◎加退選全授權碼選課		4021	黃山耘	一 6-8 新503	
 114	2	0	0	成癮行為：成因、評估與管制	7	公共衛生學院 ; 健康行為與社區科學研究所 ;   限修學制：大三以上、碩、博	1	1		AAC7N58	A	半	2.0	校際臺大（學）	9UAA		Addictive Behaviors: Etiology, Evaluation, and Regulation				1	選			4022	翁書偉	一 6-7 公衛209	
-114	2	0	0	早期現代科幻小說		文學院 ; 外國語文學研究所 ; 第二類。 ; 限修學制：碩、博	1	1		AAM2339	A	半	3.0	校際臺大（碩）	9MAA		Early Modern Science Fiction	是			2	選	◎課程不開放上修 ◎加退選全授權碼選課		4023	賴  煦	四 9-A 人文B109	
+114	2	0	0	早期現代科幻小說		文學院 ; 外國語文學研究所 ; 初選不開放．第二類。 ; 限修學制：碩、博	1	1		AAM2339	A	半	3.0	校際臺大（碩）	9MAA		Early Modern Science Fiction	是			2	選	◎課程不開放上修 ◎加退選全授權碼選課 ◎初選不開放		4023	賴  煦	四 9-A 人文B109	
 114	2	0	0	有機化學二		理學院 ; 化學系 ; 初選不開放．2月1日後將會在化學系網站公告：索取加簽授權碼及加選課程申請書。 ; 限修學制：大、碩、博	0	0		AAU0849	A	半	3.0	校際臺大（學）	9UAA		Organic Chemistry (II)				1	選	◎必須先修過有機化學一　｜　有機化學乙上　｜　有機化學】 ◎加退選全授權碼選課 ◎初選不開放		4024	邱勝賢	二 2 化210室, 四 3-4 化210室	
 114	2	0	0	次世代定序、生物資訊學與基因體醫學		醫學院 ; 基因體暨蛋白體醫學研究所 ; 不限定特定先修課程，但需具有主動以及跨領域學習之態度。 ; 限修學制：大、碩、博	0	0		AAM0489	A	半	3.0	校際臺大（碩）	9MAA		NGS, Bioinformatics and Genomic Medicine				2	選	◎課程開放上修 ◎加退選全授權碼選課		4025	陳沛隆	二 2-4 基醫201	
 114	2	0	0	老人與長期照護導論	7	學分學程 ; 老人與長期照護學程 ; 合授：劉惠賢、張詠荃、曾家琳。 ; 限修學制：大、碩、博	0	0		AAC7032	A	半	2.0	校際臺大（學）	9UAA		Introduction to Geriatrics and Long Term Care				1	選	◎加退選全授權碼選課		4026	張念慈	三 9-10 基醫406	
@@ -4898,13 +4896,41 @@
 114	2	0	0	農業藥劑學	7	生物資源暨農學院 ; 昆蟲學研究所 ; 系訂專業必修13選6，112學年度入學新生適用。植保類公職必考科目，也是植保主要產業。 ; 限修學制：大、碩、博	0	0		AAC7O65	A	半	3.0	校際臺大（學）	9UAA		Pesticides				3	選			4961	黃榮南	四 2-4 學新609	
 114	2	0	0	德文一下		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	0	0		AAU1518	F	半	3.0	校際臺大（學）	9UAA		German (I)(2)				1	選	◎必須先修過德文一上　｜　德文上】 ◎加退選全授權碼選課		4962	林倩君	三 8-9 新301, 五 6-7 綜603	
 114	2	0	0	數理統計		理學院 ; 數學系 ; 得替代統計學(201 38100)。 ; 限修學制：大、碩、博	0	0		AAU2372	A	半	3.0	校際臺大（學）	9UAA		Mathematical statistics				3	選	◎加退選全授權碼選課		4963	江金倉	一 6-8 天數102	
-114	2	0	0	環境與能源的資料科學	7	生物資源暨農學院 ; 生物環境系統工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7O66	A	半	3.0	校際臺大（學）	9UAA		Data Science for Environment and Energy				10	選	◎加退選全授權碼選課		4964	傅群	三 2-4 農工九	
+114	2	0	0	環境與能源的資料科學	7	生物資源暨農學院 ; 生物環境系統工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7O66	A	半	3.0	校際臺大（學）	9UAA		Data Science for Environment and Energy				10	選	◎加退選全授權碼選課		4964	傅群	三 2-4 博雅302	
 114	2	0	0	藥物輸送系統		進修推廣學院 ; 生物科技管理碩士在職學位學程 ; 本課程為實體與遠距同步授課，實際上課時間為19:00至21:45。 ; 限修學制：大、碩、博	0	0		AAM2369	A	半	3.0	校際臺大（碩）	9MAA		Special Topics in Drug Delivery Systems				5	選	◎課程開放上修		4965	法雨辰	二 A-C 請洽系所辦	
 114	2	0	0	光電半導體量測實習		電資學院 ; 電子工程系 ; 限15人、四年制必修任選四實習;二年制必修任選三實習、前三週使用一般教室，其餘時段在實驗室 ; 限修學制：大、碩、博	0	0		ABU1064	A	半	1.0	校際臺科大（學）	9UAB		Experiment on Measurement of Electro-Optical Semiconductor				1	選			4966	李奎毅	三 10 IB-508, 三 8-9 IB-508	
-114	2	0	0	英語演講(二)		人文社會學院 ; 應用外語系 ; 限30人、英語授課、EMI課程、PBL課程、遴選不開放選修、依照上學期分班名單編班、創新教學課程 ; 限修學制：大、碩、博	0	0		ABU0654	A	半	2.0	校際臺科大（學）	9UAB		English for Public Speaking (II)	是			2	選			4967	Aaron	四 8-9	
+114	2	0	0	英語演講(二)		人文社會學院 ; 應用外語系 ; 限30人、英語授課、EMI課程、PBL課程、遴選不開放選修、依照上學期分班名單編班、創新教學課程 ; 限修學制：大、碩、博	0	0		ABU0654	A	半	2.0	校際臺科大（學）	9UAB		English for Public Speaking (II)	是			2	選			4967	Aaron	四 8-9 T4-302	
 114	2	0	0	統計學(下)		管理學院 ; 財務金融學士學位學程 ; 財金學位學程開放全校大二大三大四選修、限49人、上課地點華夏科大，上課節次起訖時間請依照臺科大上課時間表 ; 限修學制：大、碩、博	0	0		ABU0890	A	半	3.0	校際臺科大（學）	9UAB		Statistics (II)				3	選			4968	林清珮、周志隆	一 6-8 華夏電腦教室	
 114	2	0	0	通訊系統(一)		電資學院 ; 電子工程系 ;   限修學制：大、碩、博	0	0		ABU0760	B	半	3.0	校際臺科大（學）	9UAB		Communication systems(I)				1	選			4969	王煥宗	四 6-7 IB-409-2, 三 7 IB-409-2	
 114	2	0	0	數位影像處理概論		電資學院 ; 電子工程系 ; 限30人 ; 限修學制：大、碩、博	0	0		ABU0901	A	半	3.0	校際臺科大（學）	9UAB		Introduction to Digital Image Processing				1	選			4970	林益如	二 6-7 IB-409-1, 三 2 IB-712	
 114	2	0	0	線性系統		電資學院 ; 電子工程系 ; 學號單數、英語授課、EMI課程 ; 限修學制：大、碩、博	0	0		ABU0864	A	半	3.0	校際臺科大（學）	9UAB		Linear System	是			1	選			4971	鄭瑞光	一 7-8 IB-401, 三 3 IB-401	
-114	2	0	0	機器學習暨金融應用	8	管理學院 ; 財務金融研究所 ; 限管理學院研究所一般生選修、上課地點華夏科大，上課節次起訖時間請依照臺科大上課時間表 ; 限修學制：碩、博	0	0		ABC8770	A	半	3.0	校際臺科大（碩）	9MAB		Machine Learning and Financial Applications				5	選	◎課程不開放上修		4972	周志隆	二 2-4 華夏校區	
+114	2	0	0	機器學習暨金融應用	8	管理學院 ; 財務金融研究所 ; 限管理學院研究所一般生選修、加退選開放全校大三大四選課 ; 限修學制：碩、博	0	0		ABC8770	A	半	3.0	校際臺科大（碩）	9MAB		Machine Learning and Financial Applications				5	選	◎課程不開放上修		4972	周志隆	二 2-4	
 114	2	0	0	觀光泰語與文化		語言中心 ; 語言中心 ; 限30人、本課程不列入英文領域必選修學分、研究生採授權碼選課、限非母語學生選修 ; 限修學制：大、碩、博	0	0		ABU0829	A	半	2.0	校際臺科大（學）	9UAB		Thai for Travelling and Cultural Tourism				3	選			4973	白桂英	五 8-9 TR-511	
+114	2	0	0	英文（三）：文學與文化			0	0		00UB9A1	D	半	2.0	共同科	CU		English (III): Literature and Culture	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	4974	柯衣凡	五 3-4 和平 正206	
+114	2	10	0	視聽廣告企畫			0	0		GCM0034		半	2.0	圖傳系（碩）	HM72		Planning of Audio-Visual Advertisements		1	0	30	選	◎限本系(含雙主修)修習 ◎課程不開放上修	N	4975	曹筱玥 黃心健	二 5-6 和平 綜701	
+114	2	10	0	冷凍空調基礎技術（二）			0	0		IEU3102		半	3.0	工教系（學）	HU70		Basic Refrigeration and Air Conditioning Technology (II)			0	50	選		N	4976	鄭龍嶽	六 6-9 和平 能源應用工場	
+114	2	10	0	物理專業學術英文寫作與口語表達技巧	8		0	0		PHC8027		半	3.0	物理系（碩）	SM41		Physics Academic Writing and Oral Presentation Skills			0	50	選	◎課程開放上修	N	4977	陳育霖	一 6-8 公館 Ｓ401	
+114	2	3	0	影視特效與動態圖像			0	0		GCU0187		半	3.0	圖傳系（學）	HU72		Film Special Effects and Motion Graphics		3	0	37	選	◎限本系(含雙主修)修習◎限大三大四修習	N	4978	曾瀚儀	三 5-7 和平 綜1001	
+114	2	10	0	主修（四）			0	0		PAM0204	B	半	1.0	表演所（碩）	MM92		Major (Collaborative Piano)(IV)			0	30	必	◎課程開放上修	N	4979	林娟儀		
+114	2	10	0	發現臺灣 </br>[ 學分學程：環境人文學程 ]			0	0		TCU4006		半	3.0	臺文系（學）	LU26		Discovering Taiwan </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU ]	是		3	50	選		N	4980	天江喜久	四 2-4 和平 樸205	
+114	2	10	0	當代新聞故事研究			0	0		GCU0191		半	3.0	圖傳系（學）	HU72		Study for Contemporary News Story	是	1	0	50	選		N	4981	方淳薏	一 5-7 和平 新媒體專業教室	
+114	2	10	0	廣告學			0	0		GCU0158		半	3.0	圖傳系（學）	HU72		Advertising	是	2	0	50	選		N	4982	方淳薏	四 5-7 和平 製作教室B	
+114	2	10	0	臺灣文化、語言及文學			0	0		TCU1016		半	2.0	臺文系（學）	LU26		Taiwan Culture, Languages and Literature	是		3	50	選		N	4983	曾偉旻	五 1-2 和平 誠206	
+114	2	10	0	臺灣的語言與社會			0	0		TCU2027		半	2.0	臺文系（學）	LU26		Languages and Society in Taiwan	是		3	50	選		N	4984	曾偉旻	五 6-7 和平 綜210展覽廳	
+114	2	10	0	固定收益證券			0	0		MBM0088		半	3.0	管理所（碩）	OM55		Fixed Income Analysis	是		0	30	選	◎課程開放上修	N	4985	陳姿穎	一 2-4 和平 誠106	
+114	2	0	0	工程數學2		工學院 ; 土木工程學系 ;   限修學制：大、碩、博	0	0		AAU1533	A	半	2.0	校際臺大（學）	9UAA		Engineering Mathematics 2				2	選	◎加退選全授權碼選課		4986	張書瑋	二 6-7 新302	
+114	2	0	0	先進積體電路佈局設計及實務	8	電資學院 ; 電子工程系 ; 限30人、開放外系研究所選課 ; 限修學制：碩、博	0	0		ABC8582	A	半	3.0	校際臺科大（碩）	9MAB		Advanced Integrated Circuit Layout Design and Practical Curriculum				5	選	◎課程不開放上修		4987	鍾勇輝	五 6-8 IB-410-2	
+114	2	0	0	超大型積體電路設計	8	電資學院 ; 電子工程系 ; 加退選時開放全校大四選修、限53人、開放外系研究所選課 ; 限修學制：碩、博	0	0		ABC8313	A	半	3.0	校際臺科大（碩）	9MAB		VLSI Systems Design				1	選	◎課程不開放上修		4988	林銘波	四 2-4 EE-407	
+114	2	0	0	電子實務專題(下)		電資學院 ; 電子工程系 ;   限修學制：大、碩、博	0	0		ABU0895	A	半	2.0	校際臺科大（學）	9UAB		Electronic Engineering Special Projects (II)				1	選			4989			
+114	2	0	0	電子學(二)		電資學院 ; 電子工程系 ; 學號單數 ; 限修學制：大、碩、博	0	0		ABU0670	A	半	3.0	校際臺科大（學）	9UAB		Electronics (II)				1	選			4990	林景源	一 6 IB-401, 三 6-7 IB-401	
+114	2	0	0	電子學實習(二)		電資學院 ; 電子工程系 ; 學號單數、限65人、PBL課程 ; 限修學制：大、碩、博	0	0		ABU0671	A	半	1.0	校際臺科大（學）	9UAB		Electronics Laboratory (II)				1	選			4991	張佑丞	一 2-4 EE-701	
+114	2	0	0	電路學(二)		電資學院 ; 電子工程系 ; 學號單數 ; 限修學制：大、碩、博	0	0		ABU0587	A	半	3.0	校際臺科大（學）	9UAB		Basic Circuit Theory (2)				1	選			4992	魏榮宗	四 6-7 IB-401, 二 2 IB-401	
+114	2	0	0	電磁學		電資學院 ; 電子工程系 ; 學號雙數、EMI課程、英語授課 ; 限修學制：大、碩、博	0	0		ABU0664	A	半	3.0	校際臺科大（學）	9UAB		Electromagnetics	是			1	選			4993	周錫熙	五 6 IB-503, 四 6-7 IB-501	
+114	2	0	0	電磁學		電資學院 ; 電子工程系 ; 學號單數、英語授課、EMI課程 ; 限修學制：大、碩、博	0	0		ABU0664	B	半	3.0	校際臺科大（學）	9UAB		Electromagnetics	是			1	選			4994	李仰淳	五 3-4 IB-401, 二 3 IB-503	
+114	2	0	0	數位邏輯設計		電資學院 ; 電子工程系 ; 英語授課、EMI課程、不分系學生學號除3整除修習 ; 限修學制：大、碩、博	0	0		ABU0096	A	半	3.0	校際臺科大（學）	9UAB		Digital Logic Design	是			1	選			4995	林敬舜	二 4 IB-308, 三 6-7 IB-308	
+114	2	0	0	數位邏輯設計實習		電資學院 ; 電子工程系 ; 限40人、PBL課程、不分系學號雙號 ; 限修學制：大、碩、博	0	0		ABU0756	A	半	1.0	校際臺科大（學）	9UAB		Lab. of Digital Logic Design				1	選			4996	林昌鴻	五 6-8 T2-511	
+114	2	0	0	數位邏輯設計實習		電資學院 ; 電子工程系 ; 限40人、不分系學號單號 ; 限修學制：大、碩、博	0	0		ABU0756	B	半	1.0	校際臺科大（學）	9UAB		Lab. of Digital Logic Design				1	選			4997	林敬舜	一 10 T2-511, 一 8-9 T2-511	
+114	2	3	0	體育（彼拉提斯）			0	0		00UP045	A	半	1.0	普通體育	PE		Physical Education (Pilates)			0	30	必	允許重複修	N	4998	陳佳伶	五 1-2 和平 小韻律教室	
+114	2	3	0	體育（彼拉提斯）			0	0		00UP045	B	半	1.0	普通體育	PE		Physical Education (Pilates)			0	30	必	允許重複修	N	4999	陳佳伶	五 3-4 和平 小韻律教室	
+114	2	4	0	體育（體操遊戲初級）			0	0		00UP132	A	半	1.0	普通體育	PE		Physical Education (Beginning Playing Gymnastics)			0	45	必	允許重複修	N	5000	龔芸	四 3-4 和平 體操房	
+114	2	4	0	體育（體操遊戲初級）			0	0		00UP132	B	半	1.0	普通體育	PE		Physical Education (Beginning Playing Gymnastics)			0	45	必	允許重複修	N	5001	龔芸	五 3-4 和平 體操房	
